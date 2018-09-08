@@ -1,517 +1,517 @@
-subworlds:17¹úÇì»î¶¯,19fe0d72-2373-4a26-8577-3bcf1c6ff2ce,1b80c286-c0f2-442d-8959-73bab61b2a45,207596e5-0173-4579-b601-f8be2688a109,23187473-5677-4747-8ffd-b7f23db974f4,28add276-0dba-4e02-88b8-3877b9ff870e,2aa8a076-6e73-47d2-9026-c8af27659905,2f528972-700c-4101-b8c3-d0c0e5ef28d8,3114c512-e939-48f4-8040-0ca7900efd62,359670e4-dd7a-4523-a575-1e94023124fc,3a20810d-bb37-43bb-b081-816f317d5e82,3b1458fb-4cfe-4af7-93c9-4c5523ecb68a,457ab19e-9de0-44ed-912d-585ab155b83e,48c048ab-13e9-4e42-b869-4d4087f75d8c,4a75b63d-093f-43a8-8fc9-a333eeb1d32e,4b47df45-e481-4157-8624-4a75f0c9b1ff,4c92a008-7901-4158-bbc1-90a03a0dbb0d,605288e0-8796-4ded-9304-0a2225050d4d,69df4442-b1cc-4a1a-b4b8-f1c6e3397b93,7bdd4805-7ef0-4bec-bfb4-bf60c67c1b24,7dd253e3-e265-4e51-ae39-083647635d8d,7dd9fcf9-e74d-4bfa-a390-ada585db3858,856ef2b9-44f9-4b45-8627-3626c0f62ecc,87d08220-db75-4313-92ee-23bf020e7a5f,90c9b430-cac0-4ae5-9a64-64bf46071289,99766775-f8ab-457f-a00a-4eb436960373,9d66c87f-fe2d-4b98-829e-c0de39ca6755,a16ba028-a51e-400b-839c-0b30613fb8b0,a3a63fed-ed65-4d21-a673-7bb72774f2b4,a79aac54-24e2-47b8-aee5-1e9794554154,adf0df25-ea9a-498f-bebe-1a1704bfa5bc,adfcd7f6-1ccd-4bb6-a612-21f3a8726eed,ae9f8297-9961-41de-a68e-cc594ff14b34,b8c00894-4baf-4957-a2b1-807571f9a806,bb337575-7852-479f-a7fc-ba2e35cf1c30,bf03341b-a508-488c-9e71-30760fce5d98,c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,c6ea7de7-4a07-4e69-b252-e9aa6b773c3a,ca12b42e-5696-429e-8d75-ad82e6826472,ce4a2e63-d72e-466f-9f25-caa060c09dde,d7d5c92b-93f2-470d-9fd1-f907944c98af,d8ffb010-b0fa-4e63-836e-1ca8756467d4,d9e9ad4d-c611-4e8d-bcb3-711972e82394,da44fff6-c89f-40cc-9d72-0ba66dcc1423,db4d4b4f-c3dd-4e38-9898-93157bee9f9d,dd5f9a5d-bc11-49d9-98f7-21265805485b,e22c9e0d-a55c-44dc-bb0e-b40a4d9b5465,e300f38e-c467-46ed-a608-8b3aa2751fb5,e64675d6-eed8-4a07-8896-78c497e85454,f5201e8a-9854-48cc-a500-3c82daec36b6,fce70c7e-4467-4e92-9493-ae6a4de1956f,fd366bff-2cce-41e2-a9ff-7a4fbc0b2398,fd9b6f94-855d-42a7-8bca-dc1185147189,fdfaedc7-3c5c-4386-a289-ad6c8067df12,fee41440-1850-44bd-831c-e98c26badf5b,loool,
+subworlds:17å›½åº†æ´»åŠ¨,19fe0d72-2373-4a26-8577-3bcf1c6ff2ce,1b80c286-c0f2-442d-8959-73bab61b2a45,207596e5-0173-4579-b601-f8be2688a109,23187473-5677-4747-8ffd-b7f23db974f4,28add276-0dba-4e02-88b8-3877b9ff870e,2aa8a076-6e73-47d2-9026-c8af27659905,2f528972-700c-4101-b8c3-d0c0e5ef28d8,3114c512-e939-48f4-8040-0ca7900efd62,359670e4-dd7a-4523-a575-1e94023124fc,3a20810d-bb37-43bb-b081-816f317d5e82,3b1458fb-4cfe-4af7-93c9-4c5523ecb68a,457ab19e-9de0-44ed-912d-585ab155b83e,48c048ab-13e9-4e42-b869-4d4087f75d8c,4a75b63d-093f-43a8-8fc9-a333eeb1d32e,4b47df45-e481-4157-8624-4a75f0c9b1ff,4c92a008-7901-4158-bbc1-90a03a0dbb0d,605288e0-8796-4ded-9304-0a2225050d4d,69df4442-b1cc-4a1a-b4b8-f1c6e3397b93,7bdd4805-7ef0-4bec-bfb4-bf60c67c1b24,7dd253e3-e265-4e51-ae39-083647635d8d,7dd9fcf9-e74d-4bfa-a390-ada585db3858,856ef2b9-44f9-4b45-8627-3626c0f62ecc,87d08220-db75-4313-92ee-23bf020e7a5f,90c9b430-cac0-4ae5-9a64-64bf46071289,99766775-f8ab-457f-a00a-4eb436960373,9d66c87f-fe2d-4b98-829e-c0de39ca6755,a16ba028-a51e-400b-839c-0b30613fb8b0,a3a63fed-ed65-4d21-a673-7bb72774f2b4,a79aac54-24e2-47b8-aee5-1e9794554154,adf0df25-ea9a-498f-bebe-1a1704bfa5bc,adfcd7f6-1ccd-4bb6-a612-21f3a8726eed,ae9f8297-9961-41de-a68e-cc594ff14b34,b8c00894-4baf-4957-a2b1-807571f9a806,bb337575-7852-479f-a7fc-ba2e35cf1c30,bf03341b-a508-488c-9e71-30760fce5d98,c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,c6ea7de7-4a07-4e69-b252-e9aa6b773c3a,ca12b42e-5696-429e-8d75-ad82e6826472,ce4a2e63-d72e-466f-9f25-caa060c09dde,d7d5c92b-93f2-470d-9fd1-f907944c98af,d8ffb010-b0fa-4e63-836e-1ca8756467d4,d9e9ad4d-c611-4e8d-bcb3-711972e82394,da44fff6-c89f-40cc-9d72-0ba66dcc1423,db4d4b4f-c3dd-4e38-9898-93157bee9f9d,dd5f9a5d-bc11-49d9-98f7-21265805485b,e22c9e0d-a55c-44dc-bb0e-b40a4d9b5465,e300f38e-c467-46ed-a608-8b3aa2751fb5,e64675d6-eed8-4a07-8896-78c497e85454,f5201e8a-9854-48cc-a500-3c82daec36b6,fce70c7e-4467-4e92-9493-ae6a4de1956f,fd366bff-2cce-41e2-a9ff-7a4fbc0b2398,fd9b6f94-855d-42a7-8bca-dc1185147189,fdfaedc7-3c5c-4386-a289-ad6c8067df12,fee41440-1850-44bd-831c-e98c26badf5b,loool,
 oldNorthWorlds:
 seeds:
-name:ÁúÊ×*6+ÂÌ±¦Ê¯¿é*32=ÁúÏ¢»ğÅÚ,x:270,z:130,y:63,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¸Ğ¶÷½Ú¶Ò»»,x:265,z:128,y:63,enabled:true,red:0.4149964,green:0.15275556,blue:0.7812564,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ğ¡ÂóÖÖ×Ó+Ó©Ê¯·Û=¾ç¶¾Ò©Ë®£¬×êÊ¯*16+Æ¤¸ï*64=×êÊ¯Âíîø,x:353,z:315,y:71,enabled:true,red:0.45736557,green:0.26965773,blue:0.3787614,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÂÌ±¦Ê¯+ÏÂ½çÖ®ĞÇ=³ªÆ¬£¬×êÊ¯+mmp=³ªÆ¬£¨ÊıÁ¿²»¶¨£©,x:413,z:322,y:65,enabled:true,red:0.4794168,green:0.14387453,blue:0.18313926,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ë®ÏÂËÙ¾ò/¾«×¼²É¼¯/±ùËªĞĞÕß,x:-1770,z:-2220,y:72,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:28add276-0dba-4e02-88b8-3877b9ff870e,dimensions:0#
-name:ÎŞÏŞ/½ÚÖ«É±ÊÖI/·æÀûIII,x:-1244,z:-2317,y:74,enabled:true,red:0.5657376,green:0.65357375,blue:0.14000845,suffix:,world:28add276-0dba-4e02-88b8-3877b9ff870e,dimensions:0#
-name:½ÚÖ«É±ÊÖV/¾«×¼²É¼¯/Ë®ÏÂËÙ¾ò/Éîº£Ì½Ë÷ÕßII¡¢,x:-1679,z:-3297,y:78,enabled:true,red:0.18657708,green:0.36488998,blue:0.50491756,suffix:,world:28add276-0dba-4e02-88b8-3877b9ff870e,dimensions:0#
-name:º£Ö®¾ì¹ËIII/ÎŞÏŞ/»ğÊ¸/ÏûÊ§×çÖä,x:1609,z:-2825,y:76,enabled:true,red:0.7472748,green:0.6500298,blue:0.2795021,suffix:,world:28add276-0dba-4e02-88b8-3877b9ff870e,dimensions:0#
-name:Ğ§ÂÊII/·æÀûV/¾­ÑéĞŞ²¹,x:3353,z:-1956,y:73,enabled:true,red:0.085898995,green:0.32255578,blue:0.6261758,suffix:,world:28add276-0dba-4e02-88b8-3877b9ff870e,dimensions:0#
+name:é¾™é¦–*6+ç»¿å®çŸ³å—*32=é¾™æ¯ç«ç‚®,x:270,z:130,y:63,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ„Ÿæ©èŠ‚å…‘æ¢,x:265,z:128,y:63,enabled:true,red:0.4149964,green:0.15275556,blue:0.7812564,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å°éº¦ç§å­+è¤çŸ³ç²‰=å‰§æ¯’è¯æ°´ï¼Œé’»çŸ³*16+çš®é©*64=é’»çŸ³é©¬é“ ,x:353,z:315,y:71,enabled:true,red:0.45736557,green:0.26965773,blue:0.3787614,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç»¿å®çŸ³+ä¸‹ç•Œä¹‹æ˜Ÿ=å”±ç‰‡ï¼Œé’»çŸ³+mmp=å”±ç‰‡ï¼ˆæ•°é‡ä¸å®šï¼‰,x:413,z:322,y:65,enabled:true,red:0.4794168,green:0.14387453,blue:0.18313926,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ°´ä¸‹é€Ÿæ˜/ç²¾å‡†é‡‡é›†/å†°éœœè¡Œè€…,x:-1770,z:-2220,y:72,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:28add276-0dba-4e02-88b8-3877b9ff870e,dimensions:0#
+name:æ— é™/èŠ‚è‚¢æ€æ‰‹I/é”‹åˆ©III,x:-1244,z:-2317,y:74,enabled:true,red:0.5657376,green:0.65357375,blue:0.14000845,suffix:,world:28add276-0dba-4e02-88b8-3877b9ff870e,dimensions:0#
+name:èŠ‚è‚¢æ€æ‰‹V/ç²¾å‡†é‡‡é›†/æ°´ä¸‹é€Ÿæ˜/æ·±æµ·æ¢ç´¢è€…IIã€,x:-1679,z:-3297,y:78,enabled:true,red:0.18657708,green:0.36488998,blue:0.50491756,suffix:,world:28add276-0dba-4e02-88b8-3877b9ff870e,dimensions:0#
+name:æµ·ä¹‹çœ·é¡¾III/æ— é™/ç«çŸ¢/æ¶ˆå¤±è¯…å’’,x:1609,z:-2825,y:76,enabled:true,red:0.7472748,green:0.6500298,blue:0.2795021,suffix:,world:28add276-0dba-4e02-88b8-3877b9ff870e,dimensions:0#
+name:æ•ˆç‡II/é”‹åˆ©V/ç»éªŒä¿®è¡¥,x:3353,z:-1956,y:73,enabled:true,red:0.085898995,green:0.32255578,blue:0.6261758,suffix:,world:28add276-0dba-4e02-88b8-3877b9ff870e,dimensions:0#
 name:lv.4,x:518,z:-747,y:106,enabled:true,red:0.74436355,green:0.50868154,blue:0.11004305,suffix:,world:28add276-0dba-4e02-88b8-3877b9ff870e,dimensions:0#
-name:16ÏÄÈÕ¼À´óÊ¦¼¶¶Ò»»È¯=Ê±¹âÂÃÈËÌ××° Ö®Ò»,x:4575,z:537,y:130,enabled:true,red:0.9017261,green:0.13169843,blue:0.3271951,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Éú¼¦Èâ=8¹Ç·Û,x:4558,z:531,y:75,enabled:true,red:0.2858997,green:0.7798541,blue:0.54815096,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¹ÇÍ·*64=¹·µ°,x:4534,z:335,y:63,enabled:true,red:0.95319426,green:0.4169532,blue:0.6375738,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÏÉÈËÕÆ*16+ÓİÃÀÈË*16=Pricy Block,x:4266,z:485,y:71,enabled:true,red:0.2691785,green:0.18408853,blue:0.1917479,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¦Á*64+¦Â*64+ÅçÉËº¦2*64+ÅçÖÎÁÆ2*64=Ë«×ÓÊ¥½£Ïä,x:-135,z:-3314,y:122,enabled:true,red:0.36749113,green:0.31116343,blue:0.78265166,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:£¨»ÆÓÍĞ¡µ¶+»Æ½ğÌÀÉ×+¶ñÄ§³¤½£+»ÆÓÍ¸ä£©*64=£¨¦Á+¦Â£©*64,x:-73,z:-3339,y:108,enabled:true,red:0.47401607,green:0.117958724,blue:0.75850743,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:·û¿¨=ÑÌ»¨»ğ¼ı/¶ª¶ªÇò(ÊıÁ¿²»¶¨£©,x:482,z:291,y:70,enabled:true,red:0.8243947,green:0.2506581,blue:0.5788765,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:wild stars=ĞÅ±ê*2,x:146,z:232,y:82,enabled:true,red:0.2165026,green:0.5676198,blue:0.45792913,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:17ÀÍ¶¯½Ú¶Ò»»,x:146,z:212,y:80,enabled:true,red:0.4151972,green:0.81527793,blue:0.22045392,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:16ÏÄÈÕ¼À¶Ò»»,x:146,z:113,y:87,enabled:true,red:0.034119964,green:0.5569255,blue:0.1680708,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:17´º½Ú¶Ò»»,x:340,z:339,y:69,enabled:true,red:0.021262348,green:0.16947562,blue:0.09786099,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ëé¾§*1=»Ø³Ç¾íÖáÓ£,x:433,z:203,y:79,enabled:true,red:0.54354185,green:0.55634165,blue:0.04228592,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÂŞÂí¶Ì½£+1½ğ*1=ÉÏ¹Å³¤½£~comma~Õ÷·ş³¤½£+2µØ*2=Ò°Ä¾ÁÖ,x:448,z:198,y:82,enabled:true,red:0.9737596,green:0.2406441,blue:0.59800184,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:0x1+²©ÀöÓù±Ò£¨+Ò»¶Ñ¸½Ä§£©=Î×Å®µÄ·¢ÊÎ,x:447,z:216,y:81,enabled:true,red:0.39917678,green:0.5821638,blue:0.42969435,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Õ÷·ş³¤½£+2·ç*2=¶Ï¿Õ,x:-6,z:227,y:78,enabled:true,red:0.26762855,green:0.71047556,blue:0.7702471,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÍèÄ¾¹­+1·ç*1=¶şÁ¬¹­,x:21,z:325,y:97,enabled:true,red:0.8242031,green:0.55333924,blue:0.018342376,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÂÌ±¦Ê¯=¸½Ä§Ö®Æ¿,x:286,z:347,y:72,enabled:true,red:0.16102606,green:0.04227853,blue:0.6707166,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¶şÁ¬¹­+2Ë®*2=°ÂµÂÈüµÄÎ²Éù,x:271,z:355,y:64,enabled:true,red:0.71570903,green:0.121830165,blue:0.53984225,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğ*64+Ç¿»¯Ä§Ê¯*4=Ó£,x:151,z:434,y:51,enabled:true,red:0.634711,green:0.924507,blue:0.84481746,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğ+µØ*5=·¨ÕÈ,x:251,z:2834,y:74,enabled:true,red:0.11782038,green:0.52729744,blue:0.7354963,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ë®*8+»ğ*8=ËÀÉñÆõÔ¼,x:251,z:2833,y:74,enabled:true,red:0.45360267,green:0.56271064,blue:0.9482483,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:µØ*4+·ç*2=º¬Ğ¦°ë²½ñ²,x:251,z:2832,y:74,enabled:true,red:0.6153586,green:0.46120054,blue:0.5184303,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:·ç*4+½ğ*6=»ğ¼ıÅçÉäÆ÷*8,x:251,z:2831,y:74,enabled:true,red:0.81550026,green:0.39385813,blue:0.73658437,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ë®*8+·ç*12=ºìĞÇ¶ş¹øÍ·,x:251,z:2830,y:74,enabled:true,red:0.20418102,green:0.21769488,blue:0.60716957,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ë®*2+·ç*2=Óã°ÚÎ²,x:251,z:2829,y:74,enabled:true,red:0.8599405,green:0.7884318,blue:0.2358653,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ó£*8+½ğ=²»ĞàÖ®ÊØ»¤,x:305,z:263,y:156,enabled:true,red:0.6134483,green:0.09552014,blue:0.7563299,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ó£+·ç*4=·ï»Ë¾íÖá£¬Ó£*12+½ğ*16=·ï»Ë¾íÖáÎŞÏŞ,x:306,z:263,y:156,enabled:true,red:0.25582814,green:0.9119945,blue:0.43682367,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğ*32+·ç*16=ÆæÃîÆ¯¸¡Ä§ÕÈ,x:307,z:263,y:156,enabled:true,red:0.32335252,green:0.14016294,blue:0.91470313,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÏÉÈËÕÆ*16+Á¶Ò©¹ø=Ë¹Ì¹Ë÷Ä·Ê¥Ë®,x:361,z:335,y:70,enabled:true,red:0.042780876,green:0.4730512,blue:0.4273097,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:°°+Çà½ğÊ¯¿ì*16=¶´¶´Ğ¬,x:360,z:339,y:71,enabled:true,red:0.7048649,green:0.28594798,blue:0.24496424,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ê¯ÇÂ+Ä¾Ì¿*6=¿ó¹¤µÄ±ØĞŞ¿Î,x:361,z:339,y:71,enabled:true,red:0.28458834,green:0.18294531,blue:0.17667222,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Î÷¹Ï*32+Çà½ğÊ¯¿é*16=¸öÈËÓÃ±ÜÊîÆ÷,x:362,z:339,y:71,enabled:true,red:0.84995526,green:0.95376724,blue:0.33611572,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Çà½ğÊ¯¿é*8+ÂÌ±¦Ê¯¿é*8=ÌøÔ¾ÕßËş¿ËµÄÑª*4,x:363,z:339,y:71,enabled:true,red:0.7376524,green:0.4033063,blue:0.44108993,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Çà½ğÊ¯¿é*48+×êÊ¯¿é*32=ÍµÀ´µÄ×êÊ¯Èı½Ç¿ã,x:360,z:340,y:71,enabled:true,red:0.33276403,green:0.17416626,blue:0.5436076,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÉîÉ«ÏğÊ÷Ê÷Ãç*5+ĞÅ±ê=ÊÀ½çÊ÷µÄÄÛÖ¦,x:361,z:340,y:71,enabled:true,red:0.7998356,green:0.48933905,blue:0.5495307,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ìİÊ¯*64+×êÊ¯¿é*8=¸ç²¼ÁÖ»ğ¼ıÑ¥×êÊ¯°æ,x:362,z:340,y:71,enabled:true,red:0.24854237,green:0.35561723,blue:0.74870807,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Æ¤¸ï¿ã×Ó+½ğ¶§*6=¿ó¹¤µÄË«²ã¿ã,x:363,z:340,y:71,enabled:true,red:0.12542373,green:0.9298692,blue:0.25573254,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÌÇ*64+½ğ¿é*32=¶´Ò¯ºş,x:370,z:338,y:71,enabled:true,red:0.31415582,green:0.52094233,blue:0.15598708,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÏÂ½çÖ®ĞÇ+½ğ¿é*32=÷è÷ëÖ®ºğ,x:370,z:339,y:71,enabled:true,red:0.918472,green:0.38530463,blue:0.9749046,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Áé»êÉ³*64+½ğ¿é*32=Ä©ÈÕ»ØÏì,x:370,z:340,y:71,enabled:true,red:0.33765548,green:0.09871733,blue:0.794076,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ä©Ó°Ö®ÑÛ*16+½ğ¿é*32=½ğ²ØÖ®½£,x:371,z:338,y:71,enabled:true,red:0.24305695,green:0.8686319,blue:0.94203866,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ìú¸ä+»¨Åè*6=¿ó¹¤µÄĞÅÑö,x:371,z:339,y:71,enabled:true,red:0.5925723,green:0.5616436,blue:0.47666907,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÑÒ½¬Í°+½ğºúÂÜ²·*22=ÁéÃÎµÄ½Ú²Ù´ò½ÙÆ÷,x:371,z:340,y:71,enabled:true,red:0.3647564,green:0.34046936,blue:0.52550393,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÄÏ¹ÏµÆ*6+½ğ¿é*16=ÍÅÔ±ÊÖÕÈ,x:372,z:338,y:71,enabled:true,red:0.6155705,green:0.6191509,blue:0.40784472,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÑÒ½¬Í°+·¢½ÍÖëÑÛ*38=¼«ÀÖ´óÍùÉú,x:373,z:341,y:71,enabled:true,red:0.10485834,green:0.33557612,blue:0.93137413,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÑÒ½¬Í°+·¢½ÍÖëÑÛ*20=ºÓëà¶¾,x:373,z:342,y:71,enabled:true,red:0.121605694,green:0.6307352,blue:0.19258362,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:×ÏÉ«È¾ÁÏ*6+·¢½ÍÖëÑÛ*32=´óÂéÀÏ¸ÉÂè,x:373,z:343,y:71,enabled:true,red:0.53795934,green:0.0017476082,blue:0.7632164,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¶¾ÂíÁåÊí*8+ÂíÁåÊí*32=¶¨·è,x:373,z:344,y:71,enabled:true,red:0.8975826,green:0.40158683,blue:0.76009715,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÂÌ±¦Ê¯¿é*64+½ğ¿é*16=½Ü±¦ÇĞ¸î»ú,x:374,z:343,y:71,enabled:true,red:0.8960884,green:0.83279455,blue:0.91751444,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½Ü±¦ÇĞ¸î»ú+½ğ¿é*64=ÎŞÍ´¸Ä½øĞÍ,x:374,z:344,y:71,enabled:true,red:0.6621478,green:0.40096992,blue:0.55259025,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:×êÊ¯½£+¹Ç¿é*32=Áé»êÖ®Óñ£¬×êÊ¯*28+ÌÙÂû*12=¼ÇÒäÖ®¸¿,x:371,z:351,y:71,enabled:true,red:0.2915147,green:0.41586202,blue:0.6565443,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:×êÊ¯*28+±È½ÏÆ÷*4=ÎŞ½âÖ®Ëø£¬×êÊ¯*18+ÉúöÙÓã*10=³ì³ù,x:372,z:351,y:71,enabled:true,red:0.49315792,green:0.19410056,blue:0.9743086,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ó©Ê¯*10+ºìÊ¯¿é*5=Ì«ÑôÖ®¹â£¬±õ¾Õ*6+°×Óô½ğ*6=ÎŞĞÎ»ï°é,x:373,z:351,y:71,enabled:true,red:0.10530162,green:0.39858967,blue:0.19321,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:×êÊ¯¿é*16=¹Ç¿é*32£¨ºÃ´À£©,x:374,z:350,y:71,enabled:true,red:0.68677014,green:0.120431244,blue:0.2616462,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÔªËØÖ®»ğ*3+ÔªËØÉúÃü*2=¶¬Èª»ğ¾Æ,x:362,z:335,y:70,enabled:true,red:0.5005527,green:0.24998689,blue:0.32519078,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÔªËØÖ®Ë®*3+ÔªËØ¿ÕÆø*2=ÃÀÎ¶·çÉß,x:363,z:335,y:70,enabled:true,red:0.6194229,green:0.40966696,blue:0.33457977,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:°µÓ°ÁÑÆ¬+ÔªËØÖ®ÍÁ*2=Åµ¸ñ¸¥¸ñÒ©¼Á,x:363,z:334,y:70,enabled:true,red:0.003125608,green:0.09574753,blue:0.99181694,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÔªËØÖ®»ğ+ÔªËØÖ®ÍÁ*2=ÁúÏ¢ºì½·,x:362,z:334,y:70,enabled:true,red:0.47741264,green:0.41328442,blue:0.8732689,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:´åÓê+ÏÍÕßÖ®Ê¯£¬À¼¹ÅÀûÈø+Aishiter Banzai!,x:437,z:269,y:72,enabled:true,red:0.11906612,green:0.91348135,blue:0.532806,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Õ¶Áú½£+wild stars£¬ ÉñÊ¥ÆäÀ­Õ½¸«+ÓÂÆø¾íÖá,x:438,z:269,y:72,enabled:true,red:0.40197295,green:0.54034036,blue:0.43362504,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¼à¹¤µÄÒÅÑÔ+¿ÕÕ¶ÃØ¼®£¬ÄØà«ß½Óï+³±Ï«·ûÖä,x:437,z:270,y:72,enabled:true,red:0.41584224,green:0.52036804,blue:0.5846184,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¶Ò»»È¯*16+ÏÍÕßÖ®Ê¯=0xC,x:442,z:302,y:59,enabled:true,red:0.5038489,green:0.6941255,blue:0.44329178,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:0xF*4+×êÊ¯¿é*32=0x6,x:442,z:301,y:59,enabled:true,red:0.82152927,green:0.63633025,blue:0.37864262,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ëé¾§*1=»Ø³Ç¾íÖáÄÏ,x:242,z:2827,y:73,enabled:true,red:0.34298193,green:0.1305545,blue:0.15146035,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ìú¿é*6+ÏğÊ÷Ò¶*64=ĞÂÒ¶£¬½ğ¿é*6+ÔÆÉ¼Ò¶*64=ÁÒ»ğ,x:240,z:2825,y:73,enabled:true,red:0.06411666,green:0.1336953,blue:0.47078085,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Çà½ğ¿é*16+°×èëÒ¶*64=¾µË®£¬×êÊ¯¿é*16+´ÔÁÖ*64=Âú¿ª,x:239,z:2825,y:73,enabled:true,red:0.24056321,green:0.0664922,blue:0.15448427,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:×êÊ¯+¹Ç·Û*16=ÄÏ¹ÏÅÉ*4+¿¾ÍÁ¶¹*32=¶¯Á¦È¼ÁÏ*64,x:237,z:2825,y:73,enabled:true,red:0.82468283,green:0.9620814,blue:0.8214005,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:º£¾§ËéÆ¬*4+Ğ¡ÂóÖÖ*64=Çà½ğÊ¯*8+ºìÊ¯*4=¶¯Á¦È¼ÁÏ*64,x:236,z:2825,y:73,enabled:true,red:0.63508224,green:0.870675,blue:0.06531358,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ĞÂÒ¶*8+ÌÙÂû*16=ÆíÔ¸µÄ·çÖ®·¢ÊÎ,x:230,z:2834,y:78,enabled:true,red:0.4211282,green:0.18187141,blue:0.48753047,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ĞÂÒ¶*8+»ÆÂÌÉ«µØÌº*16=´«³ĞµÄ·çÖ®¼ÀÒÇ,x:231,z:2834,y:78,enabled:true,red:0.679959,green:0.5441292,blue:0.73090494,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ĞÂÒ¶*8+²İ*32=ÒÅÊ§µÄ·çÖ®äç¾µ,x:232,z:2834,y:78,enabled:true,red:0.6047316,green:0.5471151,blue:0.26291853,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ĞÂÒ¶*8+ºÉÒ¶*16=´úĞĞµÄ·çÖ®ÉñÚÍ,x:233,z:2834,y:78,enabled:true,red:0.06983304,green:0.66003066,blue:0.7239735,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ĞÂÒ¶*8+Ğ¡ÂóÖÖ×Ó*64=ÔçÃçÃæ°ü,x:234,z:2834,y:78,enabled:true,red:0.5347192,green:0.8578892,blue:0.8107094,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ĞÂÒ¶*8+µØÓüğà*16=ÃÖÃÖÇĞÍè,x:175,z:2811,y:73,enabled:true,red:0.4618557,green:0.269063,blue:0.19098437,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÁÒ»ğ*8+ºìÊ¯*24=ĞñÈÕÖ®ĞÄ,x:176,z:2811,y:73,enabled:true,red:0.44812256,green:0.14266002,blue:0.1153779,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¾µË®*8+Ò¹ÊÓÖ®¼ı£¨1min)*32=×ï¸è,x:177,z:2811,y:73,enabled:true,red:0.92623055,green:0.69409597,blue:0.9351009,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Âú¿ª*4+Ãµ¹åºì*64=ĞÄ¶É,x:178,z:2811,y:73,enabled:true,red:0.8622386,green:0.846273,blue:0.698761,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:·ç*8+µØ*10=ÁÑÌìÕßÎåºÅ,x:187,z:2832,y:73,enabled:true,red:0.88778883,green:0.13236588,blue:0.09870732,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ë®*4+½ğ=Ä§·¨·¢ÉäÆ÷£¬·ç*2+»ğ=ÃÔÄãÆğ·É·¢ÉäÆ÷,x:186,z:2832,y:73,enabled:true,red:0.32669777,green:0.9653278,blue:0.89069927,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ĞÂÒ¶*64+±õ¾Õ*64=¾ø¶ÔÁìÓò,x:175,z:2832,y:84,enabled:true,red:0.37024188,green:0.40421832,blue:0.5259197,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Çà½ğÊ¯¿é*64=À¶É«Ç±Ó°ºĞ£¨¿ÓµùÄØ°É£©,x:297,z:2817,y:74,enabled:true,red:0.8571387,green:0.7704395,blue:0.12574679,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÎÂÈªÂÃ¹İÓÅ»İÈ¯=ÎÂÈªµ°=±ùÕòÅ£ÄÌ£¨1»»1~comma~5»»6£©,x:423,z:2915,y:74,enabled:true,red:0.6698157,green:0.8841637,blue:0.1177389,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ºÓëà*30+Ğ¡³óÓã*30=ÎÂÈªÂÃ¹İÓÅ»İÈ¯,x:423,z:2920,y:74,enabled:true,red:0.5801913,green:0.008321941,blue:0.57895243,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¹Ç·Û*4+ºìÊ¯*2=¶Ğ´ø,x:426,z:2688,y:65,enabled:true,red:0.09356356,green:0.0856967,blue:0.7295434,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:0x0¼²·çÈĞÀ×+ĞÇµº¹İÑ§Ôº½±ÕÂµÚÒ»Ãû=Ç§ÓğÇĞ,x:566,z:2735,y:72,enabled:true,red:0.22939306,green:0.80183214,blue:0.11811024,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÇïÌïĞ¡î®Ã×*8+ÎÂÈªµ°*16+ÌøÔ¾Ò©Ë®2=ºÚÍÃÌ××°,x:195,z:2288,y:81,enabled:true,red:0.40187895,green:0.4462155,blue:0.5248797,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ó£*6+Ë®*16=ºÚÍÃÌ××°,x:195,z:2307,y:79,enabled:true,red:0.9178921,green:0.057292104,blue:0.825182,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğÁ£=¿óÈªË®=Æ¡¾Æ=Çå¾Æ*0.5=ºì¾Æ*0.33=À­Ãæ*0.5,x:186,z:2368,y:67,enabled:true,red:0.53281295,green:0.039569378,blue:0.7425491,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÏÂ½çÖ®ĞÇ+ÏÂ½çÖ®ĞÇ=Zvezda¾Æ,x:185,z:2368,y:66,enabled:true,red:0.54225814,green:0.64855546,blue:0.6181376,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğÁ£=Å£ÄÌ=±ù£¬Ğ¡ÂóÖÖ×Ó=ÌÇ*0.33=¿É¿É¶¹*0.2,x:147,z:2408,y:66,enabled:true,red:0.5170637,green:0.45386314,blue:0.6808255,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğÁ£+Ó©Ê¯·Û=ÔÙÉúÒ©Ë®£¬Ë®Í°=±ù£¬±ù*4=¸¡±ù,x:147,z:2410,y:66,enabled:true,red:0.8503689,green:0.8729957,blue:0.8348266,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğ+»ğ=DragonBlade~comma~½ğ*2+µØ*4=eden,x:17,z:2552,y:69,enabled:true,red:0.87228096,green:0.40251136,blue:0.6991239,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Å£ÄÌ+Ğ¡Âó*7=ÕĞÅÆÄÌ²è£¬Å£ÄÌ+Ä©Ó°ÕäÖé*13=ÕäÖéÄÌ²è,x:15,z:2564,y:68,enabled:true,red:0.5338762,green:0.5267627,blue:0.9184123,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Å£ÄÌ+½ğÁ£*20=Ã¢¹ûÁ£ÄÌ²è£¬Å£ÄÌ+¸¡±ù*3=Ë«±¶±ù¿éÄÌ²è,x:16,z:2564,y:68,enabled:true,red:0.74560165,green:0.4090883,blue:0.8817246,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Î÷¹Ï+ÂÌ±¦Ê¯*3=ÏÊÕ¥Î÷¹ÏÖ­,x:17,z:2564,y:68,enabled:true,red:0.0121126175,green:0.046438634,blue:0.063034356,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¸ÊÕá*6+Ó©Ê¯*8=Â«ÜöÄûÃÊÖ­,x:18,z:2564,y:68,enabled:true,red:0.7549273,green:0.7132715,blue:0.6141414,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¸¡±ù+Õ³ÒºÇò*6=ÏÄÈÕÌØÒû,x:19,z:2564,y:68,enabled:true,red:0.97836673,green:0.5314966,blue:0.20199478,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:»ğÑæµ¯*15+×êÊ¯*3=±¬ÁÑ±ù¿é,x:20,z:2564,y:68,enabled:true,red:0.7751743,green:0.26104498,blue:0.21072358,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ğ¡Âó=ÈŞÇò´Ğ=À¼»¨=ÏòÈÕ¿û=Äµµ¤=¶¡Ïã=Ãµ¹å´Ô,x:80,z:2380,y:91,enabled:true,red:0.5347861,green:0.4778229,blue:0.3448373,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ö½*64+ÓğÃ«*64=¼±¾È±Á´ø£¬0xE+Ôç¼¾µÄÊÖ¼Ç=»Ö¸´·ûÖä,x:81,z:2380,y:91,enabled:true,red:0.55022466,green:0.6069477,blue:0.7693098,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÍèÄ¾¹­+1»ğ*1=Ä©ÈÕÉäåó,x:291,z:2497,y:72,enabled:true,red:0.22392279,green:0.68643963,blue:0.71289563,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¶şÁ¬¹­+2µØ*5=¶¾¼Ô,x:355,z:477,y:85,enabled:true,red:0.7983131,green:0.17914647,blue:0.67627877,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:WWR 2017 ±±,x:-34,z:-15239,y:98,enabled:true,red:0.6001319,green:0.6596553,blue:0.691694,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÈáÈíµÄÀñÆ·È¯*14=ÏûÏÄĞ¡³ÔÀñºĞ-ÃæÊ³Ö®¶ş,x:342,z:274,y:71,enabled:true,red:0.6615411,green:0.23274148,blue:0.17805564,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÈáÈíµÄÀñÆ·È¯*12=ÏÊÄÛ»¬ÈóÀñºĞ,x:365,z:276,y:82,enabled:true,red:0.2583956,green:0.068297386,blue:0.59055674,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÈáÈíµÄÀñÆ·È¯*16=ÏûÏÄË®ÉúÀñºĞ-ÓÑÈËÕÊ,x:471,z:291,y:70,enabled:true,red:0.33375126,green:0.5506778,blue:0.6476232,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÈáÈíµÄÀñÆ·È¯*18=ÖØĞÍÄÜÁ¿ÀñºĞ,x:393,z:297,y:70,enabled:true,red:0.25565076,green:0.3822773,blue:0.33084399,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÈáÈíµÄÀñÆ·È¯*15=ÏûÏÄĞ¡³ÔÀñºĞ,x:347,z:298,y:71,enabled:true,red:0.6974076,green:0.14029896,blue:0.81914574,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÈáÈíµÄÀñÆ·È¯*14=ÏûÏÄĞ¡³ÔÀñºĞ-ÃæÊ³Ö®Ò»,x:450,z:349,y:71,enabled:true,red:0.059845507,green:0.13848352,blue:0.34561402,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÈáÈíµÄÀñÆ·È¯*18=ÏûÏÄË®ÉúÀñºĞ-°®³ÔÓã,x:390,z:356,y:70,enabled:true,red:0.6095999,green:0.19582832,blue:0.045660794,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:»ğ°Ñ=2017 WWR Instructions,x:374,z:351,y:71,enabled:true,red:0.20990318,green:0.37511045,blue:0.14945197,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:2017ÏÄÈÕ¼À¡¤·½ĞÎÎ÷¹Ï¶Ò»»,x:181,z:309,y:65,enabled:true,red:0.81416523,green:0.05197227,blue:0.15490311,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:WWR 2017 ÄÏ,x:192,z:14874,y:72,enabled:true,red:0.6921541,green:0.57039064,blue:0.17966133,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:WWR 2017 ¶«,x:15161,z:-346,y:69,enabled:true,red:0.6964879,green:0.84704936,blue:0.45431066,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:WWR 2017 Î÷,x:-15009,z:-555,y:64,enabled:true,red:0.5423153,green:0.54784834,blue:0.8836794,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ä©Ó°Ë®¾§*64+Ö½*64=Â¬¶÷Ê¯,x:1684,z:2296,y:63,enabled:true,red:0.17053723,green:0.73783934,blue:0.4223829,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ä©ÈÕÉäåó+2½ğ*2=ÃØ·¨ĞÇ´Ì,x:2750,z:2884,y:69,enabled:true,red:0.92164975,green:0.40311188,blue:0.0015407205,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğ*4+Ë®*5=¹íÊÖ£¬ µØ*6+·ç*25=·ÉĞĞµÄĞÅÑö,x:-2460,z:-2294,y:159,enabled:true,red:0.83951944,green:0.28027576,blue:0.2004233,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÏğÊ÷Ê÷Ò¶*64+´ÔÁÖÊ÷Ò¶*64=Ô­×ÓÁ¬åó,x:-2555,z:-3851,y:71,enabled:true,red:0.9391589,green:0.9807679,blue:0.16285521,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½©Ê¬µÄÍ·*24+´ó¼ª´óÀû£¬ÍíÉÏ³Ô¼¦*64=Kar.98K,x:1545,z:2336,y:64,enabled:true,red:0.027552664,green:0.977143,blue:0.59861887,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÅÀĞĞÕßµÄÍ·*16+´ó¼ª´óÀû£¬ÍíÉÏ³Ô¼¦*64=Micro UZI,x:1545,z:2335,y:64,enabled:true,red:0.91900575,green:0.19862813,blue:0.56181896,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:µòÁã÷¼÷ÃÍ·*64+´ó¼ª´óÀû£¬ÍíÉÏ³Ô¼¦*64=Æ½µ×¹ø,x:1546,z:2335,y:64,enabled:true,red:0.63689303,green:0.67488706,blue:0.3234194,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÂÌ±¦Ê¯¿é*6=ÇÊ³á£¬ÂÌ±¦Ê¯¿é*16+Ñ¸½İÖ®¼ı1m*32=µ¥±øÅÚ,x:4673,z:443,y:143,enabled:true,red:0.6116674,green:0.5917842,blue:0.88890016,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:°×Ä¢¹½=ºìÄ¢¹½,x:-2425,z:-2402,y:132,enabled:true,red:0.8899331,green:0.8499036,blue:0.9650016,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:·çÉñÕÙ»½+ÓğÃ«*64=·çÉñÊ®×Ö¹­,x:-2307,z:-2428,y:149,enabled:true,red:0.47896945,green:0.7372031,blue:0.0021115541,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:0x3+¸ßËÙĞŞ¸´Í°=³à³ÇµÄ³¤¹­,x:-2267,z:-2305,y:30,enabled:true,red:0.70402586,green:0.65985495,blue:0.794217,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:0xC+ÉúÓã*64=´åÓê,x:-2105,z:-2330,y:184,enabled:true,red:0.08339882,green:0.5348004,blue:0.9298301,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÉÏ¹Å³¤½£+2Ó£=ºç¹â,x:-2352,z:-2335,y:176,enabled:true,red:0.8118729,green:0.68099004,blue:0.8965981,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:0x6+³Ï»İµÄ¾íÖá=Ãùµ¶¡¤Ê³Ìú³æ,x:-2450,z:-2193,y:77,enabled:true,red:0.7441998,green:0.5137469,blue:0.13565785,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ĞÇµ¼¹İÑ§Ôº»ÕÕÂ+5·ç=ĞÇµ¼¹İÑ§Ôº½±ÕÂ,x:1159,z:-3573,y:67,enabled:true,red:0.7581736,green:0.42537093,blue:0.8574435,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ë«Éú¹­+2·ç*2=¿ñ·ÅÖ®Ê¸,x:1282,z:-3448,y:84,enabled:true,red:0.50890225,green:0.8801061,blue:0.93546206,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÕæÊµÖ®½£ºÚ*64+Ö½*64=Liniper Lifle,x:591,z:-3731,y:84,enabled:true,red:0.3653733,green:0.8143076,blue:0.8200357,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ó£*2+Ë®*8=ÇàÄñÓğÒí,x:651,z:-3679,y:71,enabled:true,red:0.027492225,green:0.73236644,blue:0.25228465,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:0xA=³¤ÃÅµÄÎ§È¹,x:366,z:-3378,y:88,enabled:true,red:0.92361706,green:0.26060867,blue:0.34073615,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:»ğ+·ç=Ê¨ÍõÌ××°Ö®Ò»=Ê¨Íõ³¤½£=ÓÂÕßÖ®Òí,x:254,z:-2406,y:111,enabled:true,red:0.31637132,green:0.7686612,blue:0.28944594,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ë®=±ùÀ¶¸ÖÌú»ú¼×Ö®Ò»=±ùÀ¶¸ÖÌú¾Ş½£=±ùÀ¶Ç¿¹­,x:254,z:-2403,y:111,enabled:true,red:0.7820049,green:0.017048359,blue:0.9218348,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:·ç+½ğ=¼±¾È±Á´ø£¬ »ğ*2+µØ*3=¾¯½äÖ®Ç½,x:247,z:-2419,y:111,enabled:true,red:0.80485207,green:0.63215774,blue:0.2576152,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Çà½ğÊ¯¿óÊ¯=Çà½ğÊ¯*4,x:276,z:-2394,y:65,enabled:true,red:0.33627707,green:0.385085,blue:0.9034641,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ºìÊ¯¿óÊ¯+Çà½ğÊ¯=ºìÊ¯*6,x:273,z:-2394,y:65,enabled:true,red:0.13512427,green:0.29929078,blue:0.39134598,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:×êÊ¯¿ó+Çà½ğÊ¯=×êÊ¯*4,x:273,z:-2403,y:65,enabled:true,red:0.7371481,green:0.76246357,blue:0.69879705,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğ¿ó+Çà½ğÊ¯=½ğ*2,x:273,z:-2406,y:65,enabled:true,red:0.4856984,green:0.7753822,blue:0.8819883,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÂÌ±¦Ê¯¿óÊ¯+Çà½ğÊ¯=ÂÌ±¦Ê¯*4,x:273,z:-2409,y:65,enabled:true,red:0.7428897,green:0.19939548,blue:0.95942634,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ê¯Ó¢¿óÊ¯+Çà½ğÊ¯=Ê¯Ó¢*5,x:273,z:-2412,y:65,enabled:true,red:0.6845917,green:0.4846065,blue:0.34112835,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ãº¿óÊ¯+Çà½ğÊ¯=Ãº*5,x:273,z:-2421,y:65,enabled:true,red:0.69945985,green:0.10821241,blue:0.12435734,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ìú¿óÊ¯+Çà½ğÊ¯=Ìú*2,x:276,z:-2421,y:65,enabled:true,red:0.9461098,green:0.46871638,blue:0.058326364,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ëé¾§=»Ø³Ç¾íÖá±±,x:293,z:-2450,y:67,enabled:true,red:0.7998951,green:0.6590529,blue:0.16767478,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÂÌ±¦Ê¯*8+Ğ¡Âó*64=½ğ¶§*16+Ãº*64=¶¯Á¦È¼ÁÏ*64,x:319,z:-2456,y:67,enabled:true,red:0.7622484,green:0.36174327,blue:0.6621694,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ìİÊ¯*32+»ğÒ©*64=½ğÆ»¹û+ÇúÆæ*64=¶¯Á¦È¼ÁÏ*64,x:319,z:-2455,y:67,enabled:true,red:0.46355426,green:0.6439958,blue:0.39976257,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:·¢½ÍÖëÑÛ*16+Åç½¦ÔÙÉúII=¶¯Á¦È¼ÁÏ*64,x:319,z:-2454,y:67,enabled:true,red:0.47846317,green:0.8021233,blue:0.8969483,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¸¡±ù*2+¶¯Á¦È¼ÁÏ*64=Ñ¹ËõÈ¼ÁÏ,x:318,z:-2456,y:67,enabled:true,red:0.9483604,green:0.31834203,blue:0.99555415,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ºìÊ¯¿é*4+Ñ¹ËõÈ¼ÁÏ*4=ÇáĞÍ¶¯Á¦È¼ÁÏ½ºÄÒ¶Ò»»¿¨,x:318,z:-2455,y:67,enabled:true,red:0.4579746,green:0.21106684,blue:0.0799582,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:²İİ®¹û½´µ°¸â+Ñ¹ËõÈ¼ÁÏ*17=ÖØĞÍ¶¯Á¦È¼ÁÏ½ºÄÒ¶Ò»»¿¨,x:318,z:-2454,y:67,enabled:true,red:0.22094846,green:0.6598402,blue:0.35108328,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:´óÊ¢Æ¡¾Æ+Ê±ÔËIII¸½Ä§Êé=Ä§µ¼Êé,x:348,z:-2445,y:66,enabled:true,red:0.5084529,green:0.97536355,blue:0.851734,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÏğÊ÷Ê÷Ãç*16+ÏòÈÕ¿û=ĞÂÒ¶£¬ ÔÙÉúÒ©Ë®II+¸½Ä§Ö®Æ¿*4=ÁÒ»ğ,x:390,z:-2369,y:68,enabled:true,red:0.57412726,green:0.7113589,blue:0.11420488,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:±ù*64+ÉúÓã*64=¾µË®£¬ ½ğÆ»¹û*16+µ°¸â=Âú¿ª,x:391,z:-2369,y:68,enabled:true,red:0.23728514,green:0.43492055,blue:0.6435686,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÁÒ»ğ*3+Êé=»ğÉñåó=½ğ²õÒí=»ğÖ®¹úÍõ×ÓµÄÁ·Ï°Ì××°Ö®Ò»,x:372,z:-2369,y:68,enabled:true,red:0.5879017,green:0.42595553,blue:0.7984427,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÁÒ»ğ*2+ÎüÑª¹íÖ®½£=ÁÒÑæÄ§Å®µÄ»¤Éí¶Ìµ¶,x:372,z:-2370,y:68,enabled:true,red:0.47981185,green:0.44641095,blue:0.82734704,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÁÒ»ğ*16+Êé*64=Îä¶û¿²Ì××°Ö®Ò»,x:367,z:-2369,y:68,enabled:true,red:0.5285979,green:0.16901797,blue:0.11847007,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÁÒ»ğ*16=ÁÒÑæ·Û*64=ÁÒÑæÄ§Å®³¤½£,x:362,z:-2369,y:68,enabled:true,red:0.10934019,green:0.8513876,blue:0.19168907,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÁÒ»ğ*16+½ğÆ»¹û*16=È¼ÉÕµÄ¿Ö¾åblahblahÌ××°Ö®Ò»,x:362,z:-2370,y:68,enabled:true,red:0.4691056,green:0.52602154,blue:0.7384762,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ĞÂÒ¶*3+Êé=´ã»ğÌ××°Ö®Ò»£¬ ĞÂÒ¶*4+Êé=ÏóÑÀµ¶,x:400,z:-2370,y:68,enabled:true,red:0.89844203,green:0.92029583,blue:0.40353936,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ĞÂÒ¶*2+Êé=Ğ¡Ä§Å®µÄµ¯¹­,x:400,z:-2371,y:68,enabled:true,red:0.06443119,green:0.8217041,blue:0.6359515,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ĞÂÒ¶*8+Êé*8=·çÉñÌ××°Ö®Ò»=ÎüÑª¹íÖ®½£,x:409,z:-2369,y:68,enabled:true,red:0.92438745,green:0.14149785,blue:0.8913394,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ĞÂÒ¶*16+Êé*64=ÉñÊ÷½üÎÀ¾üÌ××°Ö®Ò»,x:414,z:-2369,y:68,enabled:true,red:0.55340505,green:0.2303806,blue:0.66721195,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Âú¿ª*6+Êé*8=ÌìÌÃÔ¶Õ÷¾üÌ××°Ö®Ò»,x:405,z:-2369,y:73,enabled:true,red:0.05752659,green:0.8473883,blue:0.6946063,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Âú¿ª*4+Êé*8=ÌìÌÃÔ¶Õ÷¾üÅå½£,x:405,z:-2370,y:73,enabled:true,red:0.22329277,green:0.82991946,blue:0.27516973,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Âú¿ª*16+Êé*64=Ê¥ÆïÊ¿Ì××°=Ê¥ÆïÊ¿½£,x:414,z:-2369,y:73,enabled:true,red:0.43139243,green:0.53303427,blue:0.22103858,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¾µË®*4+Êé*16=±ù¾§Ì××°Ö®Ò»,x:378,z:-2369,y:73,enabled:true,red:0.13736826,green:0.924916,blue:0.46589416,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¾µË®*16+Êé*32=²¨Èû¶¬Ì××°Ö®Ò»,x:372,z:-2369,y:73,enabled:true,red:0.46462727,green:0.2403475,blue:0.28123116,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¾µË®*8+Êé*12=Áú½Ç¹­,x:372,z:-2370,y:73,enabled:true,red:0.72236675,green:0.23764908,blue:0.033527732,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¾µË®*24+Êé*32=\     /Ì××°Ö®Ò»=Ñ©·çÈĞ,x:363,z:-2369,y:73,enabled:true,red:0.5305532,green:0.6428339,blue:0.40962356,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¶Ï¿Õ+3½ğ*2=çúçêÖ®Òí,x:321,z:-2584,y:70,enabled:true,red:0.86706567,green:0.6275884,blue:0.26736534,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÏÂ½çÖ®ĞÇ+½ğ¿é*32=Ä©Ó°Ö®éâ,x:311,z:-2582,y:70,enabled:true,red:0.6889566,green:0.81266195,blue:0.83008313,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:µØ*64+Ç¿»¯Ä§Ê¯*4=½ğ*1,x:-2603,z:290,y:79,enabled:true,red:0.051549315,green:0.52153945,blue:0.96677935,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÂŞÂí¶Ì½£+1·ç*1=¹úÍõ¸ÛØ°Ê×,x:-2612,z:259,y:80,enabled:true,red:0.5748077,green:0.82109964,blue:0.7442223,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:³õ´úĞä½£+3·ç*1=¶ş´úĞä½£,x:-2605,z:240,y:75,enabled:true,red:0.5693507,green:0.6281593,blue:0.045855224,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¿§·È±­+ĞÂÒ¶*64+Ë®*16=¥«¥×¥Á©`¥Î,x:-2591,z:359,y:66,enabled:true,red:0.18325895,green:0.48956668,blue:0.15146214,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Piece of Eden+4Ó£+Ä¥ÖÆ¶ş´úĞä½£=Èı´úĞä½£,x:-2531,z:457,y:71,enabled:true,red:0.70671415,green:0.7414622,blue:0.27241832,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ä¥ÖÆ¸½Ä§Èı´úĞä½£*2=ÖÕ¼«Ğä½£,x:-2531,z:456,y:71,enabled:true,red:0.87223387,green:0.18412948,blue:0.2665525,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ĞÇ¿ÕÓãÅÉ£¨Ê§°Ü)=ÑöÍûĞÇ¿ÕµÄ×£¸£ £¨Î÷³ÇÈÎÎñ¸±²úÆ·£©,x:-2531,z:455,y:71,enabled:true,red:0.66356546,green:0.64913076,blue:0.92095447,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ó£*6+·ç*16=Ä§ÑæÒí¼×,x:-2575,z:456,y:101,enabled:true,red:0.94003063,green:0.30890656,blue:0.44700116,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ó£*4+·ç*32=¸½Ä§Èı´úĞä½£,x:-2550,z:450,y:93,enabled:true,red:0.5398797,green:0.034029543,blue:0.9094784,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:·ç+»ğ/Ë®/µØ/½ğ/Ó£=Ô­°æÂú¼¶¸½Ä§Êé,x:-2649,z:456,y:69,enabled:true,red:0.36001706,green:0.8315691,blue:0.23043346,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:±£»¤/»ğÑæ/±¬Õ¨/µ¯ÉäÎï/Ë¤Âä/Á½×çÖä/ÎŞÏŞ,x:-2649,z:453,y:69,enabled:true,red:0.6257254,green:0.80123186,blue:0.4304266,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ğ§ÂÊ/¾«×¼/ÄÍ¾Ã/Ê±ÔË/º£¾ì/¶üµö/¾­ÑéĞŞ²¹/ÏûÊ§×çÖä,x:-2649,z:459,y:69,enabled:true,red:0.525136,green:0.853625,blue:0.22305012,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:µØ*4+1µØ=Ç¿»¯Ä§Ê¯ËéÆ¬£¬ ½ğ*4+1½ğ=Ç¿»¯Ä§Ê¯,x:-2651,z:459,y:69,enabled:true,red:0.6662971,green:0.16438669,blue:0.28229922,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:·ç+1·ç=ĞÂÒ¶£¬»ğ+1»ğ=ÁÒ»ğ£¬Ë®+1Ë®=¾µË®£¬Ó£+1Ó£=Âú¿ª,x:-2651,z:453,y:69,enabled:true,red:0.4533413,green:0.2409321,blue:0.053845882,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğ*3+»ğ*2=³õ´úĞä½£,x:-2645,z:438,y:69,enabled:true,red:0.034692645,green:0.42071164,blue:0.540889,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:·ç/»ğ/Ë®/µØ/½ğ/Ó£=¶¯Á¦È¼ÁÏ*2/4/8/16/32/64,x:-2645,z:439,y:69,enabled:true,red:0.904127,green:0.6333704,blue:0.68597716,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ô²Ê¯/ÈıÉ«ÑÒ/ÄàÍÁ/É°ÍÁ/»Ò»¯ÍÁ+¸¯Èâ*4=É³×Ó*16,x:-2645,z:473,y:69,enabled:true,red:0.54653376,green:0.24044931,blue:0.5416754,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:µØÓüÑÒ*64+µØÓüğà*16=Ê¯Ó¢¿óÊ¯*64,x:-2644,z:474,y:69,enabled:true,red:0.45865113,green:0.06749958,blue:0.98458904,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¸¡±ù*32+É°Àù*64/¹Ç¿é*32=º£¾§Ê¯*64/º£¾§Ê¯×©*64,x:-2645,z:474,y:69,enabled:true,red:0.7245049,green:0.96607906,blue:0.5796027,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¸¡±ù*32+Õ³ÒºÇò*64=°µº£¾§Ê¯*64,x:-2646,z:474,y:69,enabled:true,red:0.22327489,green:0.17975843,blue:0.81841093,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¸¡±ù*64+Ó©Ê¯·Û*32=º£¾§µÆ*64,x:-2647,z:474,y:69,enabled:true,red:0.46645808,green:0.914896,blue:0.14818633,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÃºÌ¿¿é*64+ìİÊ¯*16=Ó©Ê¯*64,x:-2648,z:474,y:69,enabled:true,red:0.7994378,green:0.07494676,blue:0.5135083,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ëé¾§=»Ø³Ç¾íÖáÎ÷,x:-2663,z:471,y:74,enabled:true,red:0.2727192,green:0.7565876,blue:0.2871983,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:»ğ*7+·ç*3=ÎüÑª¹íÖ®½£,x:-2663,z:475,y:74,enabled:true,red:0.3544649,green:0.18336445,blue:0.8606309,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:»ğ*64+Ç¿»¯Ä§Ê¯*4=Ë®,x:184,z:-2338,y:72,enabled:true,red:0.80294687,green:0.1322273,blue:0.90809166,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ÓÍ·ÈË1ºÅ,x:106,z:-2026,y:77,enabled:true,red:0.74788713,green:0.7876929,blue:0.6202689,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ä©ÈÕÊ¹Õß+3»ğ*2=ÉúÁéºÆ½Ù,x:40,z:-1957,y:70,enabled:true,red:0.12716115,green:0.5709012,blue:0.85545945,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÍèÄ¾¹­+1Ë®=Ë«Éú¹­,x:472,z:-3215,y:64,enabled:true,red:0.97316784,green:0.110230386,blue:0.8102792,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ø£¸Ö+°ÂµÂÈüµÄÎ²Éù=À³µÂÇ¿¹­,x:1280,z:-3448,y:84,enabled:true,red:0.347606,green:0.21223605,blue:0.7942711,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:0x8+ÔÂ×ÓµÄÒ¹Ïü°ü×Ó=Ô¸ÍûÈ¨ÕÈ,x:853,z:-4344,y:67,enabled:true,red:0.21502703,green:0.53832823,blue:0.09505445,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¼±¾È±Á´ø+¸¡±ù*64=±ù·û¡¤±ù±¬,x:2910,z:-4535,y:82,enabled:true,red:0.86188436,green:0.58294326,blue:0.78211784,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:»»¾­ÑéÆ¿µÄ´åÃñ,x:155,z:997,y:59,enabled:true,red:0.028887868,green:0.7903951,blue:0.16177988,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:16å¤æ—¥ç¥­å¤§å¸ˆçº§å…‘æ¢åˆ¸=æ—¶å…‰æ—…äººå¥—è£… ä¹‹ä¸€,x:4575,z:537,y:130,enabled:true,red:0.9017261,green:0.13169843,blue:0.3271951,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç”Ÿé¸¡è‚‰=8éª¨ç²‰,x:4558,z:531,y:75,enabled:true,red:0.2858997,green:0.7798541,blue:0.54815096,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:éª¨å¤´*64=ç‹—è›‹,x:4534,z:335,y:63,enabled:true,red:0.95319426,green:0.4169532,blue:0.6375738,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ä»™äººæŒ*16+è™ç¾äºº*16=Pricy Block,x:4266,z:485,y:71,enabled:true,red:0.2691785,green:0.18408853,blue:0.1917479,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:Î±*64+Î²*64+å–·ä¼¤å®³2*64+å–·æ²»ç–—2*64=åŒå­åœ£å‰‘ç®±,x:-135,z:-3314,y:122,enabled:true,red:0.36749113,green:0.31116343,blue:0.78265166,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ï¼ˆé»„æ²¹å°åˆ€+é»„é‡‘æ±¤å‹º+æ¶é­”é•¿å‰‘+é»„æ²¹é•ï¼‰*64=ï¼ˆÎ±+Î²ï¼‰*64,x:-73,z:-3339,y:108,enabled:true,red:0.47401607,green:0.117958724,blue:0.75850743,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç¬¦å¡=çƒŸèŠ±ç«ç®­/ä¸¢ä¸¢çƒ(æ•°é‡ä¸å®šï¼‰,x:482,z:291,y:70,enabled:true,red:0.8243947,green:0.2506581,blue:0.5788765,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:wild stars=ä¿¡æ ‡*2,x:146,z:232,y:82,enabled:true,red:0.2165026,green:0.5676198,blue:0.45792913,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:17åŠ³åŠ¨èŠ‚å…‘æ¢,x:146,z:212,y:80,enabled:true,red:0.4151972,green:0.81527793,blue:0.22045392,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:16å¤æ—¥ç¥­å…‘æ¢,x:146,z:113,y:87,enabled:true,red:0.034119964,green:0.5569255,blue:0.1680708,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:17æ˜¥èŠ‚å…‘æ¢,x:340,z:339,y:69,enabled:true,red:0.021262348,green:0.16947562,blue:0.09786099,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç¢æ™¶*1=å›åŸå·è½´æ¨±,x:433,z:203,y:79,enabled:true,red:0.54354185,green:0.55634165,blue:0.04228592,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç½—é©¬çŸ­å‰‘+1é‡‘*1=ä¸Šå¤é•¿å‰‘~comma~å¾æœé•¿å‰‘+2åœ°*2=é‡æœ¨æ—,x:448,z:198,y:82,enabled:true,red:0.9737596,green:0.2406441,blue:0.59800184,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:0x1+åšä¸½å¾¡å¸ï¼ˆ+ä¸€å †é™„é­”ï¼‰=å·«å¥³çš„å‘é¥°,x:447,z:216,y:81,enabled:true,red:0.39917678,green:0.5821638,blue:0.42969435,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å¾æœé•¿å‰‘+2é£*2=æ–­ç©º,x:-6,z:227,y:78,enabled:true,red:0.26762855,green:0.71047556,blue:0.7702471,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ä¸¸æœ¨å¼“+1é£*1=äºŒè¿å¼“,x:21,z:325,y:97,enabled:true,red:0.8242031,green:0.55333924,blue:0.018342376,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç»¿å®çŸ³=é™„é­”ä¹‹ç“¶,x:286,z:347,y:72,enabled:true,red:0.16102606,green:0.04227853,blue:0.6707166,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:äºŒè¿å¼“+2æ°´*2=å¥¥å¾·èµ›çš„å°¾å£°,x:271,z:355,y:64,enabled:true,red:0.71570903,green:0.121830165,blue:0.53984225,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘*64+å¼ºåŒ–é­”çŸ³*4=æ¨±,x:151,z:434,y:51,enabled:true,red:0.634711,green:0.924507,blue:0.84481746,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘+åœ°*5=æ³•æ–,x:251,z:2834,y:74,enabled:true,red:0.11782038,green:0.52729744,blue:0.7354963,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ°´*8+ç«*8=æ­»ç¥å¥‘çº¦,x:251,z:2833,y:74,enabled:true,red:0.45360267,green:0.56271064,blue:0.9482483,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:åœ°*4+é£*2=å«ç¬‘åŠæ­¥ç™«,x:251,z:2832,y:74,enabled:true,red:0.6153586,green:0.46120054,blue:0.5184303,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é£*4+é‡‘*6=ç«ç®­å–·å°„å™¨*8,x:251,z:2831,y:74,enabled:true,red:0.81550026,green:0.39385813,blue:0.73658437,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ°´*8+é£*12=çº¢æ˜ŸäºŒé”…å¤´,x:251,z:2830,y:74,enabled:true,red:0.20418102,green:0.21769488,blue:0.60716957,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ°´*2+é£*2=é±¼æ‘†å°¾,x:251,z:2829,y:74,enabled:true,red:0.8599405,green:0.7884318,blue:0.2358653,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ¨±*8+é‡‘=ä¸æœ½ä¹‹å®ˆæŠ¤,x:305,z:263,y:156,enabled:true,red:0.6134483,green:0.09552014,blue:0.7563299,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ¨±+é£*4=å‡¤å‡°å·è½´ï¼Œæ¨±*12+é‡‘*16=å‡¤å‡°å·è½´æ— é™,x:306,z:263,y:156,enabled:true,red:0.25582814,green:0.9119945,blue:0.43682367,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘*32+é£*16=å¥‡å¦™æ¼‚æµ®é­”æ–,x:307,z:263,y:156,enabled:true,red:0.32335252,green:0.14016294,blue:0.91470313,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ä»™äººæŒ*16+ç‚¼è¯é”…=æ–¯å¦ç´¢å§†åœ£æ°´,x:361,z:335,y:70,enabled:true,red:0.042780876,green:0.4730512,blue:0.4273097,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é+é’é‡‘çŸ³å¿«*16=æ´æ´é‹,x:360,z:339,y:71,enabled:true,red:0.7048649,green:0.28594798,blue:0.24496424,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:çŸ³é”¹+æœ¨ç‚­*6=çŸ¿å·¥çš„å¿…ä¿®è¯¾,x:361,z:339,y:71,enabled:true,red:0.28458834,green:0.18294531,blue:0.17667222,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:è¥¿ç“œ*32+é’é‡‘çŸ³å—*16=ä¸ªäººç”¨é¿æš‘å™¨,x:362,z:339,y:71,enabled:true,red:0.84995526,green:0.95376724,blue:0.33611572,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é’é‡‘çŸ³å—*8+ç»¿å®çŸ³å—*8=è·³è·ƒè€…å¡”å…‹çš„è¡€*4,x:363,z:339,y:71,enabled:true,red:0.7376524,green:0.4033063,blue:0.44108993,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é’é‡‘çŸ³å—*48+é’»çŸ³å—*32=å·æ¥çš„é’»çŸ³ä¸‰è§’è£¤,x:360,z:340,y:71,enabled:true,red:0.33276403,green:0.17416626,blue:0.5436076,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ·±è‰²æ©¡æ ‘æ ‘è‹—*5+ä¿¡æ ‡=ä¸–ç•Œæ ‘çš„å«©æ,x:361,z:340,y:71,enabled:true,red:0.7998356,green:0.48933905,blue:0.5495307,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç‡§çŸ³*64+é’»çŸ³å—*8=å“¥å¸ƒæ—ç«ç®­é´é’»çŸ³ç‰ˆ,x:362,z:340,y:71,enabled:true,red:0.24854237,green:0.35561723,blue:0.74870807,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:çš®é©è£¤å­+é‡‘é”­*6=çŸ¿å·¥çš„åŒå±‚è£¤,x:363,z:340,y:71,enabled:true,red:0.12542373,green:0.9298692,blue:0.25573254,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç³–*64+é‡‘å—*32=æ´çˆ·æ¹–,x:370,z:338,y:71,enabled:true,red:0.31415582,green:0.52094233,blue:0.15598708,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ä¸‹ç•Œä¹‹æ˜Ÿ+é‡‘å—*32=éº’éºŸä¹‹å¼,x:370,z:339,y:71,enabled:true,red:0.918472,green:0.38530463,blue:0.9749046,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:çµé­‚æ²™*64+é‡‘å—*32=æœ«æ—¥å›å“,x:370,z:340,y:71,enabled:true,red:0.33765548,green:0.09871733,blue:0.794076,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æœ«å½±ä¹‹çœ¼*16+é‡‘å—*32=é‡‘è—ä¹‹å‰‘,x:371,z:338,y:71,enabled:true,red:0.24305695,green:0.8686319,blue:0.94203866,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é“é•+èŠ±ç›†*6=çŸ¿å·¥çš„ä¿¡ä»°,x:371,z:339,y:71,enabled:true,red:0.5925723,green:0.5616436,blue:0.47666907,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å²©æµ†æ¡¶+é‡‘èƒ¡èåœ*22=çµæ¢¦çš„èŠ‚æ“æ‰“åŠ«å™¨,x:371,z:340,y:71,enabled:true,red:0.3647564,green:0.34046936,blue:0.52550393,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å—ç“œç¯*6+é‡‘å—*16=å›¢å‘˜æ‰‹æ–,x:372,z:338,y:71,enabled:true,red:0.6155705,green:0.6191509,blue:0.40784472,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å²©æµ†æ¡¶+å‘é…µè››çœ¼*38=æä¹å¤§å¾€ç”Ÿ,x:373,z:341,y:71,enabled:true,red:0.10485834,green:0.33557612,blue:0.93137413,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å²©æµ†æ¡¶+å‘é…µè››çœ¼*20=æ²³è±šæ¯’,x:373,z:342,y:71,enabled:true,red:0.121605694,green:0.6307352,blue:0.19258362,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç´«è‰²æŸ“æ–™*6+å‘é…µè››çœ¼*32=å¤§éº»è€å¹²å¦ˆ,x:373,z:343,y:71,enabled:true,red:0.53795934,green:0.0017476082,blue:0.7632164,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ¯’é©¬é“ƒè–¯*8+é©¬é“ƒè–¯*32=å®šç–¯,x:373,z:344,y:71,enabled:true,red:0.8975826,green:0.40158683,blue:0.76009715,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç»¿å®çŸ³å—*64+é‡‘å—*16=æ°å®åˆ‡å‰²æœº,x:374,z:343,y:71,enabled:true,red:0.8960884,green:0.83279455,blue:0.91751444,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ°å®åˆ‡å‰²æœº+é‡‘å—*64=æ— ç—›æ”¹è¿›å‹,x:374,z:344,y:71,enabled:true,red:0.6621478,green:0.40096992,blue:0.55259025,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é’»çŸ³å‰‘+éª¨å—*32=çµé­‚ä¹‹ç‰ï¼Œé’»çŸ³*28+è—¤è”“*12=è®°å¿†ä¹‹ç¼š,x:371,z:351,y:71,enabled:true,red:0.2915147,green:0.41586202,blue:0.6565443,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é’»çŸ³*28+æ¯”è¾ƒå™¨*4=æ— è§£ä¹‹é”ï¼Œé’»çŸ³*18+ç”Ÿé²‘é±¼*10=è¸Œèº‡,x:372,z:351,y:71,enabled:true,red:0.49315792,green:0.19410056,blue:0.9743086,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:è¤çŸ³*10+çº¢çŸ³å—*5=å¤ªé˜³ä¹‹å…‰ï¼Œæ»¨èŠ*6+ç™½éƒé‡‘*6=æ— å½¢ä¼™ä¼´,x:373,z:351,y:71,enabled:true,red:0.10530162,green:0.39858967,blue:0.19321,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é’»çŸ³å—*16=éª¨å—*32ï¼ˆå¥½è ¢ï¼‰,x:374,z:350,y:71,enabled:true,red:0.68677014,green:0.120431244,blue:0.2616462,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å…ƒç´ ä¹‹ç«*3+å…ƒç´ ç”Ÿå‘½*2=å†¬æ³‰ç«é…’,x:362,z:335,y:70,enabled:true,red:0.5005527,green:0.24998689,blue:0.32519078,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å…ƒç´ ä¹‹æ°´*3+å…ƒç´ ç©ºæ°”*2=ç¾å‘³é£è›‡,x:363,z:335,y:70,enabled:true,red:0.6194229,green:0.40966696,blue:0.33457977,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æš—å½±è£‚ç‰‡+å…ƒç´ ä¹‹åœŸ*2=è¯ºæ ¼å¼—æ ¼è¯å‰‚,x:363,z:334,y:70,enabled:true,red:0.003125608,green:0.09574753,blue:0.99181694,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å…ƒç´ ä¹‹ç«+å…ƒç´ ä¹‹åœŸ*2=é¾™æ¯çº¢æ¤’,x:362,z:334,y:70,enabled:true,red:0.47741264,green:0.41328442,blue:0.8732689,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ‘é›¨+è´¤è€…ä¹‹çŸ³ï¼Œå…°å¤åˆ©è¨+Aishiter Banzai!,x:437,z:269,y:72,enabled:true,red:0.11906612,green:0.91348135,blue:0.532806,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ–©é¾™å‰‘+wild starsï¼Œ ç¥åœ£å…¶æ‹‰æˆ˜æ–§+å‹‡æ°”å·è½´,x:438,z:269,y:72,enabled:true,red:0.40197295,green:0.54034036,blue:0.43362504,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç›‘å·¥çš„é—è¨€+ç©ºæ–©ç§˜ç±ï¼Œå‘¢å–ƒå‘“è¯­+æ½®æ±ç¬¦å’’,x:437,z:270,y:72,enabled:true,red:0.41584224,green:0.52036804,blue:0.5846184,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å…‘æ¢åˆ¸*16+è´¤è€…ä¹‹çŸ³=0xC,x:442,z:302,y:59,enabled:true,red:0.5038489,green:0.6941255,blue:0.44329178,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:0xF*4+é’»çŸ³å—*32=0x6,x:442,z:301,y:59,enabled:true,red:0.82152927,green:0.63633025,blue:0.37864262,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç¢æ™¶*1=å›åŸå·è½´å—,x:242,z:2827,y:73,enabled:true,red:0.34298193,green:0.1305545,blue:0.15146035,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é“å—*6+æ©¡æ ‘å¶*64=æ–°å¶ï¼Œé‡‘å—*6+äº‘æ‰å¶*64=çƒˆç«,x:240,z:2825,y:73,enabled:true,red:0.06411666,green:0.1336953,blue:0.47078085,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é’é‡‘å—*16+ç™½æ¡¦å¶*64=é•œæ°´ï¼Œé’»çŸ³å—*16+ä¸›æ—*64=æ»¡å¼€,x:239,z:2825,y:73,enabled:true,red:0.24056321,green:0.0664922,blue:0.15448427,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é’»çŸ³+éª¨ç²‰*16=å—ç“œæ´¾*4+çƒ¤åœŸè±†*32=åŠ¨åŠ›ç‡ƒæ–™*64,x:237,z:2825,y:73,enabled:true,red:0.82468283,green:0.9620814,blue:0.8214005,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æµ·æ™¶ç¢ç‰‡*4+å°éº¦ç§*64=é’é‡‘çŸ³*8+çº¢çŸ³*4=åŠ¨åŠ›ç‡ƒæ–™*64,x:236,z:2825,y:73,enabled:true,red:0.63508224,green:0.870675,blue:0.06531358,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ–°å¶*8+è—¤è”“*16=ç¥ˆæ„¿çš„é£ä¹‹å‘é¥°,x:230,z:2834,y:78,enabled:true,red:0.4211282,green:0.18187141,blue:0.48753047,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ–°å¶*8+é»„ç»¿è‰²åœ°æ¯¯*16=ä¼ æ‰¿çš„é£ä¹‹ç¥­ä»ª,x:231,z:2834,y:78,enabled:true,red:0.679959,green:0.5441292,blue:0.73090494,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ–°å¶*8+è‰*32=é—å¤±çš„é£ä¹‹æºé•œ,x:232,z:2834,y:78,enabled:true,red:0.6047316,green:0.5471151,blue:0.26291853,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ–°å¶*8+è·å¶*16=ä»£è¡Œçš„é£ä¹‹ç¥è°•,x:233,z:2834,y:78,enabled:true,red:0.06983304,green:0.66003066,blue:0.7239735,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ–°å¶*8+å°éº¦ç§å­*64=æ—©è‹—é¢åŒ…,x:234,z:2834,y:78,enabled:true,red:0.5347192,green:0.8578892,blue:0.8107094,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ–°å¶*8+åœ°ç‹±ç–£*16=å¼¥å¼¥åˆ‡ä¸¸,x:175,z:2811,y:73,enabled:true,red:0.4618557,green:0.269063,blue:0.19098437,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:çƒˆç«*8+çº¢çŸ³*24=æ—­æ—¥ä¹‹å¿ƒ,x:176,z:2811,y:73,enabled:true,red:0.44812256,green:0.14266002,blue:0.1153779,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é•œæ°´*8+å¤œè§†ä¹‹ç®­ï¼ˆ1min)*32=ç½ªæ­Œ,x:177,z:2811,y:73,enabled:true,red:0.92623055,green:0.69409597,blue:0.9351009,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ»¡å¼€*4+ç«ç‘°çº¢*64=å¿ƒæ¸¡,x:178,z:2811,y:73,enabled:true,red:0.8622386,green:0.846273,blue:0.698761,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é£*8+åœ°*10=è£‚å¤©è€…äº”å·,x:187,z:2832,y:73,enabled:true,red:0.88778883,green:0.13236588,blue:0.09870732,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ°´*4+é‡‘=é­”æ³•å‘å°„å™¨ï¼Œé£*2+ç«=è¿·ä½ èµ·é£å‘å°„å™¨,x:186,z:2832,y:73,enabled:true,red:0.32669777,green:0.9653278,blue:0.89069927,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ–°å¶*64+æ»¨èŠ*64=ç»å¯¹é¢†åŸŸ,x:175,z:2832,y:84,enabled:true,red:0.37024188,green:0.40421832,blue:0.5259197,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é’é‡‘çŸ³å—*64=è“è‰²æ½œå½±ç›’ï¼ˆå‘çˆ¹å‘¢å§ï¼‰,x:297,z:2817,y:74,enabled:true,red:0.8571387,green:0.7704395,blue:0.12574679,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ¸©æ³‰æ—…é¦†ä¼˜æƒ åˆ¸=æ¸©æ³‰è›‹=å†°é•‡ç‰›å¥¶ï¼ˆ1æ¢1~comma~5æ¢6ï¼‰,x:423,z:2915,y:74,enabled:true,red:0.6698157,green:0.8841637,blue:0.1177389,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ²³è±š*30+å°ä¸‘é±¼*30=æ¸©æ³‰æ—…é¦†ä¼˜æƒ åˆ¸,x:423,z:2920,y:74,enabled:true,red:0.5801913,green:0.008321941,blue:0.57895243,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:éª¨ç²‰*4+çº¢çŸ³*2=ç¼å¸¦,x:426,z:2688,y:65,enabled:true,red:0.09356356,green:0.0856967,blue:0.7295434,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:0x0ç–¾é£åˆƒé›·+æ˜Ÿå²›é¦†å­¦é™¢å¥–ç« ç¬¬ä¸€å=åƒç¾½åˆ‡,x:566,z:2735,y:72,enabled:true,red:0.22939306,green:0.80183214,blue:0.11811024,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç§‹ç”°å°ç”ºç±³*8+æ¸©æ³‰è›‹*16+è·³è·ƒè¯æ°´2=é»‘å…”å¥—è£…,x:195,z:2288,y:81,enabled:true,red:0.40187895,green:0.4462155,blue:0.5248797,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ¨±*6+æ°´*16=é»‘å…”å¥—è£…,x:195,z:2307,y:79,enabled:true,red:0.9178921,green:0.057292104,blue:0.825182,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘ç²’=çŸ¿æ³‰æ°´=å•¤é…’=æ¸…é…’*0.5=çº¢é…’*0.33=æ‹‰é¢*0.5,x:186,z:2368,y:67,enabled:true,red:0.53281295,green:0.039569378,blue:0.7425491,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ä¸‹ç•Œä¹‹æ˜Ÿ+ä¸‹ç•Œä¹‹æ˜Ÿ=Zvezdaé…’,x:185,z:2368,y:66,enabled:true,red:0.54225814,green:0.64855546,blue:0.6181376,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘ç²’=ç‰›å¥¶=å†°ï¼Œå°éº¦ç§å­=ç³–*0.33=å¯å¯è±†*0.2,x:147,z:2408,y:66,enabled:true,red:0.5170637,green:0.45386314,blue:0.6808255,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘ç²’+è¤çŸ³ç²‰=å†ç”Ÿè¯æ°´ï¼Œæ°´æ¡¶=å†°ï¼Œå†°*4=æµ®å†°,x:147,z:2410,y:66,enabled:true,red:0.8503689,green:0.8729957,blue:0.8348266,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘+ç«=DragonBlade~comma~é‡‘*2+åœ°*4=eden,x:17,z:2552,y:69,enabled:true,red:0.87228096,green:0.40251136,blue:0.6991239,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç‰›å¥¶+å°éº¦*7=æ‹›ç‰Œå¥¶èŒ¶ï¼Œç‰›å¥¶+æœ«å½±çç *13=çç å¥¶èŒ¶,x:15,z:2564,y:68,enabled:true,red:0.5338762,green:0.5267627,blue:0.9184123,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç‰›å¥¶+é‡‘ç²’*20=èŠ’æœç²’å¥¶èŒ¶ï¼Œç‰›å¥¶+æµ®å†°*3=åŒå€å†°å—å¥¶èŒ¶,x:16,z:2564,y:68,enabled:true,red:0.74560165,green:0.4090883,blue:0.8817246,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:è¥¿ç“œ+ç»¿å®çŸ³*3=é²œæ¦¨è¥¿ç“œæ±,x:17,z:2564,y:68,enabled:true,red:0.0121126175,green:0.046438634,blue:0.063034356,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç”˜è”—*6+è¤çŸ³*8=èŠ¦èŸæŸ æª¬æ±,x:18,z:2564,y:68,enabled:true,red:0.7549273,green:0.7132715,blue:0.6141414,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æµ®å†°+ç²˜æ¶²çƒ*6=å¤æ—¥ç‰¹é¥®,x:19,z:2564,y:68,enabled:true,red:0.97836673,green:0.5314966,blue:0.20199478,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç«ç„°å¼¹*15+é’»çŸ³*3=çˆ†è£‚å†°å—,x:20,z:2564,y:68,enabled:true,red:0.7751743,green:0.26104498,blue:0.21072358,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å°éº¦=ç»’çƒè‘±=å…°èŠ±=å‘æ—¥è‘µ=ç‰¡ä¸¹=ä¸é¦™=ç«ç‘°ä¸›,x:80,z:2380,y:91,enabled:true,red:0.5347861,green:0.4778229,blue:0.3448373,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:çº¸*64+ç¾½æ¯›*64=æ€¥æ•‘ç»·å¸¦ï¼Œ0xE+æ—©å­£çš„æ‰‹è®°=æ¢å¤ç¬¦å’’,x:81,z:2380,y:91,enabled:true,red:0.55022466,green:0.6069477,blue:0.7693098,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ä¸¸æœ¨å¼“+1ç«*1=æœ«æ—¥å°„å¼©,x:291,z:2497,y:72,enabled:true,red:0.22392279,green:0.68643963,blue:0.71289563,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:äºŒè¿å¼“+2åœ°*5=æ¯’èš,x:355,z:477,y:85,enabled:true,red:0.7983131,green:0.17914647,blue:0.67627877,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:WWR 2017 åŒ—,x:-34,z:-15239,y:98,enabled:true,red:0.6001319,green:0.6596553,blue:0.691694,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æŸ”è½¯çš„ç¤¼å“åˆ¸*14=æ¶ˆå¤å°åƒç¤¼ç›’-é¢é£Ÿä¹‹äºŒ,x:342,z:274,y:71,enabled:true,red:0.6615411,green:0.23274148,blue:0.17805564,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æŸ”è½¯çš„ç¤¼å“åˆ¸*12=é²œå«©æ»‘æ¶¦ç¤¼ç›’,x:365,z:276,y:82,enabled:true,red:0.2583956,green:0.068297386,blue:0.59055674,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æŸ”è½¯çš„ç¤¼å“åˆ¸*16=æ¶ˆå¤æ°´ç”Ÿç¤¼ç›’-å‹äººå¸,x:471,z:291,y:70,enabled:true,red:0.33375126,green:0.5506778,blue:0.6476232,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æŸ”è½¯çš„ç¤¼å“åˆ¸*18=é‡å‹èƒ½é‡ç¤¼ç›’,x:393,z:297,y:70,enabled:true,red:0.25565076,green:0.3822773,blue:0.33084399,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æŸ”è½¯çš„ç¤¼å“åˆ¸*15=æ¶ˆå¤å°åƒç¤¼ç›’,x:347,z:298,y:71,enabled:true,red:0.6974076,green:0.14029896,blue:0.81914574,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æŸ”è½¯çš„ç¤¼å“åˆ¸*14=æ¶ˆå¤å°åƒç¤¼ç›’-é¢é£Ÿä¹‹ä¸€,x:450,z:349,y:71,enabled:true,red:0.059845507,green:0.13848352,blue:0.34561402,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æŸ”è½¯çš„ç¤¼å“åˆ¸*18=æ¶ˆå¤æ°´ç”Ÿç¤¼ç›’-çˆ±åƒé±¼,x:390,z:356,y:70,enabled:true,red:0.6095999,green:0.19582832,blue:0.045660794,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç«æŠŠ=2017 WWR Instructions,x:374,z:351,y:71,enabled:true,red:0.20990318,green:0.37511045,blue:0.14945197,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:2017å¤æ—¥ç¥­Â·æ–¹å½¢è¥¿ç“œå…‘æ¢,x:181,z:309,y:65,enabled:true,red:0.81416523,green:0.05197227,blue:0.15490311,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:WWR 2017 å—,x:192,z:14874,y:72,enabled:true,red:0.6921541,green:0.57039064,blue:0.17966133,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:WWR 2017 ä¸œ,x:15161,z:-346,y:69,enabled:true,red:0.6964879,green:0.84704936,blue:0.45431066,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:WWR 2017 è¥¿,x:-15009,z:-555,y:64,enabled:true,red:0.5423153,green:0.54784834,blue:0.8836794,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æœ«å½±æ°´æ™¶*64+çº¸*64=å¢æ©çŸ³,x:1684,z:2296,y:63,enabled:true,red:0.17053723,green:0.73783934,blue:0.4223829,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æœ«æ—¥å°„å¼©+2é‡‘*2=ç§˜æ³•æ˜Ÿåˆº,x:2750,z:2884,y:69,enabled:true,red:0.92164975,green:0.40311188,blue:0.0015407205,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘*4+æ°´*5=é¬¼æ‰‹ï¼Œ åœ°*6+é£*25=é£è¡Œçš„ä¿¡ä»°,x:-2460,z:-2294,y:159,enabled:true,red:0.83951944,green:0.28027576,blue:0.2004233,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ©¡æ ‘æ ‘å¶*64+ä¸›æ—æ ‘å¶*64=åŸå­è¿å¼©,x:-2555,z:-3851,y:71,enabled:true,red:0.9391589,green:0.9807679,blue:0.16285521,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:åƒµå°¸çš„å¤´*24+å¤§å‰å¤§åˆ©ï¼Œæ™šä¸Šåƒé¸¡*64=Kar.98K,x:1545,z:2336,y:64,enabled:true,red:0.027552664,green:0.977143,blue:0.59861887,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:çˆ¬è¡Œè€…çš„å¤´*16+å¤§å‰å¤§åˆ©ï¼Œæ™šä¸Šåƒé¸¡*64=Micro UZI,x:1545,z:2335,y:64,enabled:true,red:0.91900575,green:0.19862813,blue:0.56181896,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å‡‹é›¶éª·é«…å¤´*64+å¤§å‰å¤§åˆ©ï¼Œæ™šä¸Šåƒé¸¡*64=å¹³åº•é”…,x:1546,z:2335,y:64,enabled:true,red:0.63689303,green:0.67488706,blue:0.3234194,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç»¿å®çŸ³å—*6=é˜ç¿…ï¼Œç»¿å®çŸ³å—*16+è¿…æ·ä¹‹ç®­1m*32=å•å…µç‚®,x:4673,z:443,y:143,enabled:true,red:0.6116674,green:0.5917842,blue:0.88890016,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç™½è˜‘è‡=çº¢è˜‘è‡,x:-2425,z:-2402,y:132,enabled:true,red:0.8899331,green:0.8499036,blue:0.9650016,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é£ç¥å¬å”¤+ç¾½æ¯›*64=é£ç¥åå­—å¼“,x:-2307,z:-2428,y:149,enabled:true,red:0.47896945,green:0.7372031,blue:0.0021115541,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:0x3+é«˜é€Ÿä¿®å¤æ¡¶=èµ¤åŸçš„é•¿å¼“,x:-2267,z:-2305,y:30,enabled:true,red:0.70402586,green:0.65985495,blue:0.794217,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:0xC+ç”Ÿé±¼*64=æ‘é›¨,x:-2105,z:-2330,y:184,enabled:true,red:0.08339882,green:0.5348004,blue:0.9298301,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ä¸Šå¤é•¿å‰‘+2æ¨±=è™¹å…‰,x:-2352,z:-2335,y:176,enabled:true,red:0.8118729,green:0.68099004,blue:0.8965981,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:0x6+è¯šæƒ çš„å·è½´=é¸£åˆ€Â·é£Ÿé“è™«,x:-2450,z:-2193,y:77,enabled:true,red:0.7441998,green:0.5137469,blue:0.13565785,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ˜Ÿå¯¼é¦†å­¦é™¢å¾½ç« +5é£=æ˜Ÿå¯¼é¦†å­¦é™¢å¥–ç« ,x:1159,z:-3573,y:67,enabled:true,red:0.7581736,green:0.42537093,blue:0.8574435,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:åŒç”Ÿå¼“+2é£*2=ç‹‚æ”¾ä¹‹çŸ¢,x:1282,z:-3448,y:84,enabled:true,red:0.50890225,green:0.8801061,blue:0.93546206,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:çœŸå®ä¹‹å‰‘é»‘*64+çº¸*64=Liniper Lifle,x:591,z:-3731,y:84,enabled:true,red:0.3653733,green:0.8143076,blue:0.8200357,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ¨±*2+æ°´*8=é’é¸Ÿç¾½ç¿¼,x:651,z:-3679,y:71,enabled:true,red:0.027492225,green:0.73236644,blue:0.25228465,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:0xA=é•¿é—¨çš„å›´è£™,x:366,z:-3378,y:88,enabled:true,red:0.92361706,green:0.26060867,blue:0.34073615,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç«+é£=ç‹®ç‹å¥—è£…ä¹‹ä¸€=ç‹®ç‹é•¿å‰‘=å‹‡è€…ä¹‹ç¿¼,x:254,z:-2406,y:111,enabled:true,red:0.31637132,green:0.7686612,blue:0.28944594,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ°´=å†°è“é’¢é“æœºç”²ä¹‹ä¸€=å†°è“é’¢é“å·¨å‰‘=å†°è“å¼ºå¼“,x:254,z:-2403,y:111,enabled:true,red:0.7820049,green:0.017048359,blue:0.9218348,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é£+é‡‘=æ€¥æ•‘ç»·å¸¦ï¼Œ ç«*2+åœ°*3=è­¦æˆ’ä¹‹å¢™,x:247,z:-2419,y:111,enabled:true,red:0.80485207,green:0.63215774,blue:0.2576152,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é’é‡‘çŸ³çŸ¿çŸ³=é’é‡‘çŸ³*4,x:276,z:-2394,y:65,enabled:true,red:0.33627707,green:0.385085,blue:0.9034641,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:çº¢çŸ³çŸ¿çŸ³+é’é‡‘çŸ³=çº¢çŸ³*6,x:273,z:-2394,y:65,enabled:true,red:0.13512427,green:0.29929078,blue:0.39134598,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é’»çŸ³çŸ¿+é’é‡‘çŸ³=é’»çŸ³*4,x:273,z:-2403,y:65,enabled:true,red:0.7371481,green:0.76246357,blue:0.69879705,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘çŸ¿+é’é‡‘çŸ³=é‡‘*2,x:273,z:-2406,y:65,enabled:true,red:0.4856984,green:0.7753822,blue:0.8819883,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç»¿å®çŸ³çŸ¿çŸ³+é’é‡‘çŸ³=ç»¿å®çŸ³*4,x:273,z:-2409,y:65,enabled:true,red:0.7428897,green:0.19939548,blue:0.95942634,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:çŸ³è‹±çŸ¿çŸ³+é’é‡‘çŸ³=çŸ³è‹±*5,x:273,z:-2412,y:65,enabled:true,red:0.6845917,green:0.4846065,blue:0.34112835,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç…¤çŸ¿çŸ³+é’é‡‘çŸ³=ç…¤*5,x:273,z:-2421,y:65,enabled:true,red:0.69945985,green:0.10821241,blue:0.12435734,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é“çŸ¿çŸ³+é’é‡‘çŸ³=é“*2,x:276,z:-2421,y:65,enabled:true,red:0.9461098,green:0.46871638,blue:0.058326364,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç¢æ™¶=å›åŸå·è½´åŒ—,x:293,z:-2450,y:67,enabled:true,red:0.7998951,green:0.6590529,blue:0.16767478,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç»¿å®çŸ³*8+å°éº¦*64=é‡‘é”­*16+ç…¤*64=åŠ¨åŠ›ç‡ƒæ–™*64,x:319,z:-2456,y:67,enabled:true,red:0.7622484,green:0.36174327,blue:0.6621694,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç‡§çŸ³*32+ç«è¯*64=é‡‘è‹¹æœ+æ›²å¥‡*64=åŠ¨åŠ›ç‡ƒæ–™*64,x:319,z:-2455,y:67,enabled:true,red:0.46355426,green:0.6439958,blue:0.39976257,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å‘é…µè››çœ¼*16+å–·æº…å†ç”ŸII=åŠ¨åŠ›ç‡ƒæ–™*64,x:319,z:-2454,y:67,enabled:true,red:0.47846317,green:0.8021233,blue:0.8969483,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æµ®å†°*2+åŠ¨åŠ›ç‡ƒæ–™*64=å‹ç¼©ç‡ƒæ–™,x:318,z:-2456,y:67,enabled:true,red:0.9483604,green:0.31834203,blue:0.99555415,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:çº¢çŸ³å—*4+å‹ç¼©ç‡ƒæ–™*4=è½»å‹åŠ¨åŠ›ç‡ƒæ–™èƒ¶å›Šå…‘æ¢å¡,x:318,z:-2455,y:67,enabled:true,red:0.4579746,green:0.21106684,blue:0.0799582,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:è‰è“æœé…±è›‹ç³•+å‹ç¼©ç‡ƒæ–™*17=é‡å‹åŠ¨åŠ›ç‡ƒæ–™èƒ¶å›Šå…‘æ¢å¡,x:318,z:-2454,y:67,enabled:true,red:0.22094846,green:0.6598402,blue:0.35108328,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å¤§ç››å•¤é…’+æ—¶è¿IIIé™„é­”ä¹¦=é­”å¯¼ä¹¦,x:348,z:-2445,y:66,enabled:true,red:0.5084529,green:0.97536355,blue:0.851734,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ©¡æ ‘æ ‘è‹—*16+å‘æ—¥è‘µ=æ–°å¶ï¼Œ å†ç”Ÿè¯æ°´II+é™„é­”ä¹‹ç“¶*4=çƒˆç«,x:390,z:-2369,y:68,enabled:true,red:0.57412726,green:0.7113589,blue:0.11420488,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å†°*64+ç”Ÿé±¼*64=é•œæ°´ï¼Œ é‡‘è‹¹æœ*16+è›‹ç³•=æ»¡å¼€,x:391,z:-2369,y:68,enabled:true,red:0.23728514,green:0.43492055,blue:0.6435686,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:çƒˆç«*3+ä¹¦=ç«ç¥å¼©=é‡‘è‰ç¿¼=ç«ä¹‹å›½ç‹å­çš„ç»ƒä¹ å¥—è£…ä¹‹ä¸€,x:372,z:-2369,y:68,enabled:true,red:0.5879017,green:0.42595553,blue:0.7984427,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:çƒˆç«*2+å¸è¡€é¬¼ä¹‹å‰‘=çƒˆç„°é­”å¥³çš„æŠ¤èº«çŸ­åˆ€,x:372,z:-2370,y:68,enabled:true,red:0.47981185,green:0.44641095,blue:0.82734704,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:çƒˆç«*16+ä¹¦*64=æ­¦å°”åå¥—è£…ä¹‹ä¸€,x:367,z:-2369,y:68,enabled:true,red:0.5285979,green:0.16901797,blue:0.11847007,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:çƒˆç«*16=çƒˆç„°ç²‰*64=çƒˆç„°é­”å¥³é•¿å‰‘,x:362,z:-2369,y:68,enabled:true,red:0.10934019,green:0.8513876,blue:0.19168907,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:çƒˆç«*16+é‡‘è‹¹æœ*16=ç‡ƒçƒ§çš„ææƒ§blahblahå¥—è£…ä¹‹ä¸€,x:362,z:-2370,y:68,enabled:true,red:0.4691056,green:0.52602154,blue:0.7384762,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ–°å¶*3+ä¹¦=æ·¬ç«å¥—è£…ä¹‹ä¸€ï¼Œ æ–°å¶*4+ä¹¦=è±¡ç‰™åˆ€,x:400,z:-2370,y:68,enabled:true,red:0.89844203,green:0.92029583,blue:0.40353936,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ–°å¶*2+ä¹¦=å°é­”å¥³çš„å¼¹å¼“,x:400,z:-2371,y:68,enabled:true,red:0.06443119,green:0.8217041,blue:0.6359515,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ–°å¶*8+ä¹¦*8=é£ç¥å¥—è£…ä¹‹ä¸€=å¸è¡€é¬¼ä¹‹å‰‘,x:409,z:-2369,y:68,enabled:true,red:0.92438745,green:0.14149785,blue:0.8913394,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ–°å¶*16+ä¹¦*64=ç¥æ ‘è¿‘å«å†›å¥—è£…ä¹‹ä¸€,x:414,z:-2369,y:68,enabled:true,red:0.55340505,green:0.2303806,blue:0.66721195,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ»¡å¼€*6+ä¹¦*8=å¤©å ‚è¿œå¾å†›å¥—è£…ä¹‹ä¸€,x:405,z:-2369,y:73,enabled:true,red:0.05752659,green:0.8473883,blue:0.6946063,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ»¡å¼€*4+ä¹¦*8=å¤©å ‚è¿œå¾å†›ä½©å‰‘,x:405,z:-2370,y:73,enabled:true,red:0.22329277,green:0.82991946,blue:0.27516973,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ»¡å¼€*16+ä¹¦*64=åœ£éª‘å£«å¥—è£…=åœ£éª‘å£«å‰‘,x:414,z:-2369,y:73,enabled:true,red:0.43139243,green:0.53303427,blue:0.22103858,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é•œæ°´*4+ä¹¦*16=å†°æ™¶å¥—è£…ä¹‹ä¸€,x:378,z:-2369,y:73,enabled:true,red:0.13736826,green:0.924916,blue:0.46589416,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é•œæ°´*16+ä¹¦*32=æ³¢å¡å†¬å¥—è£…ä¹‹ä¸€,x:372,z:-2369,y:73,enabled:true,red:0.46462727,green:0.2403475,blue:0.28123116,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é•œæ°´*8+ä¹¦*12=é¾™è§’å¼“,x:372,z:-2370,y:73,enabled:true,red:0.72236675,green:0.23764908,blue:0.033527732,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é•œæ°´*24+ä¹¦*32=\     /å¥—è£…ä¹‹ä¸€=é›ªé£åˆƒ,x:363,z:-2369,y:73,enabled:true,red:0.5305532,green:0.6428339,blue:0.40962356,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ–­ç©º+3é‡‘*2=ç¥ç€ä¹‹ç¿¼,x:321,z:-2584,y:70,enabled:true,red:0.86706567,green:0.6275884,blue:0.26736534,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ä¸‹ç•Œä¹‹æ˜Ÿ+é‡‘å—*32=æœ«å½±ä¹‹æ®,x:311,z:-2582,y:70,enabled:true,red:0.6889566,green:0.81266195,blue:0.83008313,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:åœ°*64+å¼ºåŒ–é­”çŸ³*4=é‡‘*1,x:-2603,z:290,y:79,enabled:true,red:0.051549315,green:0.52153945,blue:0.96677935,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç½—é©¬çŸ­å‰‘+1é£*1=å›½ç‹æ¸¯åŒ•é¦–,x:-2612,z:259,y:80,enabled:true,red:0.5748077,green:0.82109964,blue:0.7442223,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:åˆä»£è¢–å‰‘+3é£*1=äºŒä»£è¢–å‰‘,x:-2605,z:240,y:75,enabled:true,red:0.5693507,green:0.6281593,blue:0.045855224,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å’–å•¡æ¯+æ–°å¶*64+æ°´*16=ã‚«ãƒ—ãƒãƒ¼ãƒ,x:-2591,z:359,y:66,enabled:true,red:0.18325895,green:0.48956668,blue:0.15146214,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:Piece of Eden+4æ¨±+ç£¨åˆ¶äºŒä»£è¢–å‰‘=ä¸‰ä»£è¢–å‰‘,x:-2531,z:457,y:71,enabled:true,red:0.70671415,green:0.7414622,blue:0.27241832,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç£¨åˆ¶é™„é­”ä¸‰ä»£è¢–å‰‘*2=ç»ˆæè¢–å‰‘,x:-2531,z:456,y:71,enabled:true,red:0.87223387,green:0.18412948,blue:0.2665525,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ˜Ÿç©ºé±¼æ´¾ï¼ˆå¤±è´¥)=ä»°æœ›æ˜Ÿç©ºçš„ç¥ç¦ ï¼ˆè¥¿åŸä»»åŠ¡å‰¯äº§å“ï¼‰,x:-2531,z:455,y:71,enabled:true,red:0.66356546,green:0.64913076,blue:0.92095447,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ¨±*6+é£*16=é­”ç„°ç¿¼ç”²,x:-2575,z:456,y:101,enabled:true,red:0.94003063,green:0.30890656,blue:0.44700116,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ¨±*4+é£*32=é™„é­”ä¸‰ä»£è¢–å‰‘,x:-2550,z:450,y:93,enabled:true,red:0.5398797,green:0.034029543,blue:0.9094784,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é£+ç«/æ°´/åœ°/é‡‘/æ¨±=åŸç‰ˆæ»¡çº§é™„é­”ä¹¦,x:-2649,z:456,y:69,enabled:true,red:0.36001706,green:0.8315691,blue:0.23043346,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ä¿æŠ¤/ç«ç„°/çˆ†ç‚¸/å¼¹å°„ç‰©/æ‘”è½/ä¸¤è¯…å’’/æ— é™,x:-2649,z:453,y:69,enabled:true,red:0.6257254,green:0.80123186,blue:0.4304266,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ•ˆç‡/ç²¾å‡†/è€ä¹…/æ—¶è¿/æµ·çœ·/é¥µé’“/ç»éªŒä¿®è¡¥/æ¶ˆå¤±è¯…å’’,x:-2649,z:459,y:69,enabled:true,red:0.525136,green:0.853625,blue:0.22305012,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:åœ°*4+1åœ°=å¼ºåŒ–é­”çŸ³ç¢ç‰‡ï¼Œ é‡‘*4+1é‡‘=å¼ºåŒ–é­”çŸ³,x:-2651,z:459,y:69,enabled:true,red:0.6662971,green:0.16438669,blue:0.28229922,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é£+1é£=æ–°å¶ï¼Œç«+1ç«=çƒˆç«ï¼Œæ°´+1æ°´=é•œæ°´ï¼Œæ¨±+1æ¨±=æ»¡å¼€,x:-2651,z:453,y:69,enabled:true,red:0.4533413,green:0.2409321,blue:0.053845882,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘*3+ç«*2=åˆä»£è¢–å‰‘,x:-2645,z:438,y:69,enabled:true,red:0.034692645,green:0.42071164,blue:0.540889,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é£/ç«/æ°´/åœ°/é‡‘/æ¨±=åŠ¨åŠ›ç‡ƒæ–™*2/4/8/16/32/64,x:-2645,z:439,y:69,enabled:true,red:0.904127,green:0.6333704,blue:0.68597716,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:åœ†çŸ³/ä¸‰è‰²å²©/æ³¥åœŸ/ç ‚åœŸ/ç°åŒ–åœŸ+è…è‚‰*4=æ²™å­*16,x:-2645,z:473,y:69,enabled:true,red:0.54653376,green:0.24044931,blue:0.5416754,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:åœ°ç‹±å²©*64+åœ°ç‹±ç–£*16=çŸ³è‹±çŸ¿çŸ³*64,x:-2644,z:474,y:69,enabled:true,red:0.45865113,green:0.06749958,blue:0.98458904,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æµ®å†°*32+ç ‚ç ¾*64/éª¨å—*32=æµ·æ™¶çŸ³*64/æµ·æ™¶çŸ³ç –*64,x:-2645,z:474,y:69,enabled:true,red:0.7245049,green:0.96607906,blue:0.5796027,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æµ®å†°*32+ç²˜æ¶²çƒ*64=æš—æµ·æ™¶çŸ³*64,x:-2646,z:474,y:69,enabled:true,red:0.22327489,green:0.17975843,blue:0.81841093,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æµ®å†°*64+è¤çŸ³ç²‰*32=æµ·æ™¶ç¯*64,x:-2647,z:474,y:69,enabled:true,red:0.46645808,green:0.914896,blue:0.14818633,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç…¤ç‚­å—*64+ç‡§çŸ³*16=è¤çŸ³*64,x:-2648,z:474,y:69,enabled:true,red:0.7994378,green:0.07494676,blue:0.5135083,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç¢æ™¶=å›åŸå·è½´è¥¿,x:-2663,z:471,y:74,enabled:true,red:0.2727192,green:0.7565876,blue:0.2871983,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç«*7+é£*3=å¸è¡€é¬¼ä¹‹å‰‘,x:-2663,z:475,y:74,enabled:true,red:0.3544649,green:0.18336445,blue:0.8606309,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç«*64+å¼ºåŒ–é­”çŸ³*4=æ°´,x:184,z:-2338,y:72,enabled:true,red:0.80294687,green:0.1322273,blue:0.90809166,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ¥å¤´äºº1å·,x:106,z:-2026,y:77,enabled:true,red:0.74788713,green:0.7876929,blue:0.6202689,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æœ«æ—¥ä½¿è€…+3ç«*2=ç”Ÿçµæµ©åŠ«,x:40,z:-1957,y:70,enabled:true,red:0.12716115,green:0.5709012,blue:0.85545945,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ä¸¸æœ¨å¼“+1æ°´=åŒç”Ÿå¼“,x:472,z:-3215,y:64,enabled:true,red:0.97316784,green:0.110230386,blue:0.8102792,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å…€é’¢+å¥¥å¾·èµ›çš„å°¾å£°=è±å¾·å¼ºå¼“,x:1280,z:-3448,y:84,enabled:true,red:0.347606,green:0.21223605,blue:0.7942711,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:0x8+æœˆå­çš„å¤œå®µåŒ…å­=æ„¿æœ›æƒæ–,x:853,z:-4344,y:67,enabled:true,red:0.21502703,green:0.53832823,blue:0.09505445,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ€¥æ•‘ç»·å¸¦+æµ®å†°*64=å†°ç¬¦Â·å†°çˆ†,x:2910,z:-4535,y:82,enabled:true,red:0.86188436,green:0.58294326,blue:0.78211784,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ¢ç»éªŒç“¶çš„æ‘æ°‘,x:155,z:997,y:59,enabled:true,red:0.028887868,green:0.7903951,blue:0.16177988,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
 name:Lv.12,x:-1457,z:-1506,y:70,enabled:true,red:0.6940286,green:0.7804498,blue:0.2039668,suffix:,world:28add276-0dba-4e02-88b8-3877b9ff870e,dimensions:0#
-name:Ä©ÈÕÉäåó+2µØ*2=µØÓüĞÌ¾ß,x:-3937,z:32,y:117,enabled:true,red:0.9186921,green:0.08171028,blue:0.7821828,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:0x9=ÎüÑª¹í»¯,x:-3967,z:14,y:71,enabled:true,red:0.18375063,green:0.7711233,blue:0.30626488,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÏÂ½çÖ®ĞÇ+ÑÒ½¬¸à*64=²»ĞàĞÇ»ğ,x:-3937,z:-55,y:72,enabled:true,red:0.73235196,green:0.0068555474,blue:0.9030339,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ìİÊ¯=ÁÒÑæ·Û*2£¬·¢½ÍÖëÑÛ*6=¶ñ»êÀá*2£¬Ó©Ê¯·Û*6=ÉÁË¸Î÷¹Ï,x:-3821,z:54,y:71,enabled:true,red:0.58013904,green:0.15632719,blue:0.10930395,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¹úÍõ¸ÛØ°Ê×+2½ğ*3=Òø×±µ¶,x:-3825,z:116,y:72,enabled:true,red:0.35515887,green:0.86287546,blue:0.30733687,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÂŞÂí¶Ì½£*128+»ÆÓÍĞ¡µ¶*128£¨È«²¿ĞŞ¹ı£©=ºìÑ©½£¡¤°×Óêµ¶,x:-3889,z:-11,y:77,enabled:true,red:0.70859253,green:0.22471452,blue:0.6157156,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÂÌ±¦Ê¯*8+¸½Ä§½ğÆ»¹û=ÎüÑª¹íÖ®½£,x:-3885,z:34,y:79,enabled:true,red:0.2771197,green:0.46289915,blue:0.92729676,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:»ğ*12+½ğ*6=ÃÆ»ğ×ÆºË£¬ ½ğ*5+µØ*10=²Ôñ··Ö¶Ï,x:-2461,z:-3941,y:79,enabled:true,red:0.4226899,green:0.8462376,blue:0.21595508,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ë®*11+»ğ*7=Ë¹ÂåÀ­¿ËµÄ·è¿ñ£¬½ğ*2+»ğ*4=¿ËÂŞ×ôÖ®Ä§½£,x:-2461,z:-3942,y:79,enabled:true,red:0.44636238,green:0.07701576,blue:0.14961255,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:³à³ÇµÄ³¤¹­£¨1ÄÍ¾Ã£©+4½ğ=Éîº£ÂÁ²Ä*6,x:-2621,z:-4034,y:64,enabled:true,red:0.19743723,green:0.642745,blue:0.5523855,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Éîº£ÂÁ²Ä*10+4Ë®=³à³Ç¸Ä,x:-2620,z:-4035,y:64,enabled:true,red:0.29885155,green:0.046266317,blue:0.69790226,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğ=¸½Ä§½ğÆ»¹û,x:1690,z:1842,y:83,enabled:true,red:0.7811366,green:0.611152,blue:0.23010802,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÒûÑª½£Ä£¾ß+ÑªÎÆÕÂ¿Î½ğ*8=ÒûÑª½£,x:1684,z:1791,y:80,enabled:true,red:0.29556233,green:0.97149825,blue:0.77584416,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¿ñ·ÅÖ®Ê¸+3·ç*2=·çÖ®Á¦,x:1592,z:1789,y:101,enabled:true,red:0.08343625,green:0.71370894,blue:0.65019995,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ô¶»÷+3·ç*2=ÑîµÄ·´Çú¹­,x:1651,z:1646,y:127,enabled:true,red:0.38319534,green:0.7317276,blue:0.7492449,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ó£*6+½ğ*64=ÈÕÂäÄ§ÕÈ,x:1633,z:1645,y:95,enabled:true,red:0.810132,green:0.6751739,blue:0.4494397,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:µØ*4=ÍÁ¶İ¡¤ÍÁÊ¯Á÷*32£¬»ğ*5=»ğ¶İ¡¤·ïÏÉ»ğ*32,x:1547,z:1695,y:68,enabled:true,red:0.50599676,green:0.35250515,blue:0.63788253,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ë®+·ç*4=±ù·û¡¤±ù±¬*32£¬½ğ+Ë®*4=½ğË®·û¡¤Ë®ÒøÖ®¶¾*32,x:1548,z:1695,y:68,enabled:true,red:0.33487314,green:0.22095269,blue:0.3904385,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğ+·ç*2=·û¿¨¡¤Ã¨Éñ»¤¶Ü*32,x:1549,z:1695,y:68,enabled:true,red:0.37040716,green:0.56869584,blue:0.45000094,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:0xD+»ğÉñåó=À×Éñß÷ß÷Çò£¬ 0xD+Áåß÷µÄÓã¹ŞÍ·=°ôÇòĞ¬,x:-176,z:-190,y:67,enabled:true,red:0.91555446,green:0.32676536,blue:0.9608849,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:0x5+·ÛºìÉ«È¾ÁÏ=ÃùµÄºÍ·şÎèÒÂ,x:-97,z:-241,y:70,enabled:true,red:0.30719894,green:0.90995,blue:0.48995125,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æœ«æ—¥å°„å¼©+2åœ°*2=åœ°ç‹±åˆ‘å…·,x:-3937,z:32,y:117,enabled:true,red:0.9186921,green:0.08171028,blue:0.7821828,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:0x9=å¸è¡€é¬¼åŒ–,x:-3967,z:14,y:71,enabled:true,red:0.18375063,green:0.7711233,blue:0.30626488,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ä¸‹ç•Œä¹‹æ˜Ÿ+å²©æµ†è†*64=ä¸æœ½æ˜Ÿç«,x:-3937,z:-55,y:72,enabled:true,red:0.73235196,green:0.0068555474,blue:0.9030339,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç‡§çŸ³=çƒˆç„°ç²‰*2ï¼Œå‘é…µè››çœ¼*6=æ¶é­‚æ³ª*2ï¼Œè¤çŸ³ç²‰*6=é—ªçƒè¥¿ç“œ,x:-3821,z:54,y:71,enabled:true,red:0.58013904,green:0.15632719,blue:0.10930395,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å›½ç‹æ¸¯åŒ•é¦–+2é‡‘*3=é“¶å¦†åˆ€,x:-3825,z:116,y:72,enabled:true,red:0.35515887,green:0.86287546,blue:0.30733687,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç½—é©¬çŸ­å‰‘*128+é»„æ²¹å°åˆ€*128ï¼ˆå…¨éƒ¨ä¿®è¿‡ï¼‰=çº¢é›ªå‰‘Â·ç™½é›¨åˆ€,x:-3889,z:-11,y:77,enabled:true,red:0.70859253,green:0.22471452,blue:0.6157156,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç»¿å®çŸ³*8+é™„é­”é‡‘è‹¹æœ=å¸è¡€é¬¼ä¹‹å‰‘,x:-3885,z:34,y:79,enabled:true,red:0.2771197,green:0.46289915,blue:0.92729676,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç«*12+é‡‘*6=é—·ç«ç¼æ ¸ï¼Œ é‡‘*5+åœ°*10=è‹ç©¹åˆ†æ–­,x:-2461,z:-3941,y:79,enabled:true,red:0.4226899,green:0.8462376,blue:0.21595508,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ°´*11+ç«*7=æ–¯æ´›æ‹‰å…‹çš„ç–¯ç‹‚ï¼Œé‡‘*2+ç«*4=å…‹ç½—ä½ä¹‹é­”å‰‘,x:-2461,z:-3942,y:79,enabled:true,red:0.44636238,green:0.07701576,blue:0.14961255,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:èµ¤åŸçš„é•¿å¼“ï¼ˆ1è€ä¹…ï¼‰+4é‡‘=æ·±æµ·é“æ*6,x:-2621,z:-4034,y:64,enabled:true,red:0.19743723,green:0.642745,blue:0.5523855,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ·±æµ·é“æ*10+4æ°´=èµ¤åŸæ”¹,x:-2620,z:-4035,y:64,enabled:true,red:0.29885155,green:0.046266317,blue:0.69790226,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘=é™„é­”é‡‘è‹¹æœ,x:1690,z:1842,y:83,enabled:true,red:0.7811366,green:0.611152,blue:0.23010802,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é¥®è¡€å‰‘æ¨¡å…·+è¡€çº¹ç« è¯¾é‡‘*8=é¥®è¡€å‰‘,x:1684,z:1791,y:80,enabled:true,red:0.29556233,green:0.97149825,blue:0.77584416,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç‹‚æ”¾ä¹‹çŸ¢+3é£*2=é£ä¹‹åŠ›,x:1592,z:1789,y:101,enabled:true,red:0.08343625,green:0.71370894,blue:0.65019995,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:è¿œå‡»+3é£*2=æ¨çš„åæ›²å¼“,x:1651,z:1646,y:127,enabled:true,red:0.38319534,green:0.7317276,blue:0.7492449,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ¨±*6+é‡‘*64=æ—¥è½é­”æ–,x:1633,z:1645,y:95,enabled:true,red:0.810132,green:0.6751739,blue:0.4494397,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:åœ°*4=åœŸéÂ·åœŸçŸ³æµ*32ï¼Œç«*5=ç«éÂ·å‡¤ä»™ç«*32,x:1547,z:1695,y:68,enabled:true,red:0.50599676,green:0.35250515,blue:0.63788253,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ°´+é£*4=å†°ç¬¦Â·å†°çˆ†*32ï¼Œé‡‘+æ°´*4=é‡‘æ°´ç¬¦Â·æ°´é“¶ä¹‹æ¯’*32,x:1548,z:1695,y:68,enabled:true,red:0.33487314,green:0.22095269,blue:0.3904385,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘+é£*2=ç¬¦å¡Â·çŒ«ç¥æŠ¤ç›¾*32,x:1549,z:1695,y:68,enabled:true,red:0.37040716,green:0.56869584,blue:0.45000094,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:0xD+ç«ç¥å¼©=é›·ç¥å–µå–µçƒï¼Œ 0xD+é“ƒå–µçš„é±¼ç½å¤´=æ£’çƒé‹,x:-176,z:-190,y:67,enabled:true,red:0.91555446,green:0.32676536,blue:0.9608849,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:0x5+ç²‰çº¢è‰²æŸ“æ–™=é¸£çš„å’Œæœèˆè¡£,x:-97,z:-241,y:70,enabled:true,red:0.30719894,green:0.90995,blue:0.48995125,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
 name:0x7=I Scream!,x:-172,z:-243,y:78,enabled:true,red:0.881352,green:0.56005543,blue:0.31717044,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğ¶§*16=Ç§ÀïÌï±ãµ±¡¤Õ¨ÖíÅÅ·¹,x:-1473,z:-554,y:72,enabled:true,red:0.072238624,green:0.71830964,blue:0.012741804,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¸½Ä§½ğÆ»¹û+¾µË®*16=±ù·âÄ§ÕÈ,x:-1005,z:-14152,y:127,enabled:true,red:0.7000237,green:0.18564439,blue:0.87399405,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğ¶§*12+ÂÌ±¦Ê¯*2=Ç§ÀïÌï±ãµ±¡¤Å£Èâ¸Ç·¹,x:-1475,z:-554,y:72,enabled:true,red:0.56422263,green:0.4342094,blue:0.26566,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:·ç*64+ĞÂÒ¶*64=Ê¥ÁéÄ§ÕÈ,x:260,z:268,y:115,enabled:true,red:0.9234543,green:0.56654596,blue:0.4409111,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğ*12+ÁÒ»ğ*64=ÁÒ»ğÄ§ÕÈ,x:3708,z:-4216,y:68,enabled:true,red:0.014353037,green:0.83175516,blue:0.6504078,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:(½ğ*4+²»ËÀÍ¼ÌÚ)*5+edenËéÆ¬*32=À×öªÆÆ»µÕß,x:-2454,z:-3931,y:64,enabled:true,red:0.062871814,green:0.7229727,blue:0.7705319,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğ¶§*16+¶ñ»êÖ®Àá=Ç§ÀïÌï±ãµ±¡¤¼¦Èâ¼¦µ°·¹,x:-1472,z:-554,y:72,enabled:true,red:0.7709853,green:0.18027955,blue:0.20513582,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ĞÂÒ¶*32+ÏğÊ÷Ê÷Ò¶*64=·ãÒ¶Ä§ÕÈ,x:185,z:2832,y:73,enabled:true,red:0.5254596,green:0.06084156,blue:0.46502876,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ë«×ÓÊ¥½£Ïä+½ğ*6=À×ÃùÄ§ÕÈ,x:1865,z:-482,y:106,enabled:true,red:0.8539968,green:0.42490005,blue:0.66925806,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:µØ*32+ĞÂÒ¶*64=´óµØÄ§ÕÈ,x:1442,z:2338,y:108,enabled:true,red:0.62528884,green:0.59883446,blue:0.8259917,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ó£*64+µòÁã÷¼÷ÃÍ·Â­*64=°µºÚÄ§ÕÈ£¨¾íÀÏÊ¦ÄãÔÚ¶ºÎÒ£©,x:-2242,z:3160,y:65,enabled:true,red:0.9490058,green:0.83384496,blue:0.62533873,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÉÏ¹Å³¤½£+2½ğ*2=¶ñÄ§Ö®Éà,x:-2242,z:3394,y:71,enabled:true,red:0.05833268,green:0.797943,blue:0.38487166,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘é”­*16=åƒé‡Œç”°ä¾¿å½“Â·ç‚¸çŒªæ’é¥­,x:-1473,z:-554,y:72,enabled:true,red:0.072238624,green:0.71830964,blue:0.012741804,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é™„é­”é‡‘è‹¹æœ+é•œæ°´*16=å†°å°é­”æ–,x:-1005,z:-14152,y:127,enabled:true,red:0.7000237,green:0.18564439,blue:0.87399405,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘é”­*12+ç»¿å®çŸ³*2=åƒé‡Œç”°ä¾¿å½“Â·ç‰›è‚‰ç›–é¥­,x:-1475,z:-554,y:72,enabled:true,red:0.56422263,green:0.4342094,blue:0.26566,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é£*64+æ–°å¶*64=åœ£çµé­”æ–,x:260,z:268,y:115,enabled:true,red:0.9234543,green:0.56654596,blue:0.4409111,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘*12+çƒˆç«*64=çƒˆç«é­”æ–,x:3708,z:-4216,y:68,enabled:true,red:0.014353037,green:0.83175516,blue:0.6504078,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:(é‡‘*4+ä¸æ­»å›¾è…¾)*5+edenç¢ç‰‡*32=é›·éœ†ç ´åè€…,x:-2454,z:-3931,y:64,enabled:true,red:0.062871814,green:0.7229727,blue:0.7705319,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘é”­*16+æ¶é­‚ä¹‹æ³ª=åƒé‡Œç”°ä¾¿å½“Â·é¸¡è‚‰é¸¡è›‹é¥­,x:-1472,z:-554,y:72,enabled:true,red:0.7709853,green:0.18027955,blue:0.20513582,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ–°å¶*32+æ©¡æ ‘æ ‘å¶*64=æ«å¶é­”æ–,x:185,z:2832,y:73,enabled:true,red:0.5254596,green:0.06084156,blue:0.46502876,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:åŒå­åœ£å‰‘ç®±+é‡‘*6=é›·é¸£é­”æ–,x:1865,z:-482,y:106,enabled:true,red:0.8539968,green:0.42490005,blue:0.66925806,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:åœ°*32+æ–°å¶*64=å¤§åœ°é­”æ–,x:1442,z:2338,y:108,enabled:true,red:0.62528884,green:0.59883446,blue:0.8259917,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ¨±*64+å‡‹é›¶éª·é«…å¤´é¢…*64=æš—é»‘é­”æ–ï¼ˆå·è€å¸ˆä½ åœ¨é€—æˆ‘ï¼‰,x:-2242,z:3160,y:65,enabled:true,red:0.9490058,green:0.83384496,blue:0.62533873,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ä¸Šå¤é•¿å‰‘+2é‡‘*2=æ¶é­”ä¹‹èˆŒ,x:-2242,z:3394,y:71,enabled:true,red:0.05833268,green:0.797943,blue:0.38487166,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
 name:lv.20,x:-3214,z:1067,y:65,enabled:true,red:0.64292437,green:0.9722924,blue:0.4285283,suffix:,world:28add276-0dba-4e02-88b8-3877b9ff870e,dimensions:0#
-name:0xF+É­ÁÖµÄ¹ûÊµ=ÁúÃ¨µÄºÉÒ¶É¡,x:2248,z:-1937,y:88,enabled:true,red:0.031001866,green:0.09405482,blue:0.20426947,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ç¿»¯Ä§Ê¯ËéÆ¬*4=Ç¿»¯Ä§Ê¯,x:-429,z:-2421,y:79,enabled:true,red:0.6175153,green:0.8179309,blue:0.61895776,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ç¿»¯Ä§Ê¯+ËÄ¼¶Ë®¾§*4=Îå¼¶Ë®¾§,x:-429,z:-2422,y:79,enabled:true,red:0.49847037,green:0.7242984,blue:0.53200775,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:×êÊ¯*16=Õ½ÓÑÍÅÃú¿Ì»¤ĞØ¼×,x:-439,z:-2424,y:75,enabled:true,red:0.3008002,green:0.7230897,blue:0.87083703,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:×êÊ¯*32=Î×Ë¹À­µÂ£¨×êÊ¯¸«£©,x:-439,z:-2423,y:75,enabled:true,red:0.16719401,green:0.76497346,blue:0.92885214,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:×êÊ¯*16=º××ì³ú,x:-438,z:-2423,y:75,enabled:true,red:0.8962776,green:0.3298313,blue:0.31650245,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:×êÊ¯*16=Ñ©Âş³Ç·À¾ßÌ×Ö®Ò»£¬ ×êÊ¯*32=Ñ©Âş³ÇÊØÎÀ¸Ö¹­/½£,x:-429,z:-2482,y:72,enabled:true,red:0.03374952,green:0.15700668,blue:0.8866579,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¶ñ»êÖ®Àá*6=Ñ©Âş³ÇÊØÎÀ¸Ö¼ı*32,x:-429,z:-2481,y:72,enabled:true,red:0.839165,green:0.7949353,blue:0.60837096,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:×êÊ¯*16=¿¾ÂíÁåÊí*32=Å£ÅÅ*32,x:-514,z:-2516,y:72,enabled:true,red:0.13929826,green:0.4990328,blue:0.09470439,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:×êÊ¯*16=Á¦Á¿Ò©Ë®8min=ÉúÃü»Ø¸´Ò©Ë®I=ÔÙÉúÒ©Ë®I,x:-515,z:-2516,y:72,enabled:true,red:0.33335924,green:0.4655965,blue:0.8206883,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ê±¹âÖ®³¾¶Ò»»1,x:-387,z:-2450,y:85,enabled:true,red:0.21005815,green:0.22085965,blue:0.81035364,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ê±¹âÖ®³¾¶Ò»»2,x:-386,z:-2432,y:85,enabled:true,red:0.10006952,green:0.085752845,blue:0.22637928,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¶şÁ¬¹­+2½ğ*2=Ô¶»÷,x:-384,z:-2437,y:90,enabled:true,red:0.5528365,green:0.29863912,blue:0.5486406,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:·ç*64+Ç¿»¯Ä§Ê¯=»ğ,x:231,z:2232,y:97,enabled:true,red:0.47561413,green:0.015673637,blue:0.30660737,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÏÄÈÕ¼ÀÎ÷¹Ï+¡£¡£¡£=Á¹·çÖ®Óğ,x:-8,z:222,y:78,enabled:true,red:0.1788742,green:0.8384915,blue:0.7003704,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÏÂ½çÖ®ĞÇ+½ğ¿é*32=Ë®ÔÂÁ÷¹â,x:118,z:3771,y:116,enabled:true,red:0.077010274,green:0.13819057,blue:0.84725887,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ĞÇ¼¹+3Ó£=ÀèÃ÷,x:-446,z:4101,y:71,enabled:true,red:0.6352639,green:0.5687921,blue:0.6094511,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ïß*2+Ö½*4=ÇçÌìÍŞÍŞ,x:186,z:2374,y:64,enabled:true,red:0.5483361,green:0.7695536,blue:0.9964903,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÂÌ±¦Ê¯*16+Ìú¶§/½ğ¶§*16=±ùÀ¶»ú¼×ºĞ/Ê¨ÍõÌ××°,x:189,z:2832,y:73,enabled:true,red:0.5409286,green:0.81443006,blue:0.38417065,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğ¶§*64+ÏÂ½çÖ®ĞÇ=»Æ½ğÎäÊ¿Åå½££¨ÒÑÒÆ³ı),x:1638,z:402,y:68,enabled:true,red:0.6037857,green:0.26804632,blue:0.086262584,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:£¨ÏÂ½çÖ®ĞÇ*9+ÁúÏ¢*64£©*2+µØ*64=ÔÉÊ¯»ğÅÚ,x:1637,z:402,y:68,enabled:true,red:0.61479956,green:0.79060936,blue:0.63934267,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ä¥ÖÆÉÁ³¤ÑÒ*64+×êÊ¯¿é*32=À¼¹ÅÀûÈø,x:1440,z:-1332,y:99,enabled:true,red:0.2725442,green:0.37720156,blue:0.08728963,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÏûÊ§×çÖä+°ó¶¨×çÖä=×å³¤µÄôá¼ı(Î´¸üĞÂ,x:9843,z:3947,y:100,enabled:true,red:0.43972707,green:0.3777401,blue:0.47650242,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:2016Ê¥µ®¶Ò»»,x:9483,z:3452,y:69,enabled:true,red:0.6588609,green:0.8440129,blue:0.115873456,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:×å³¤µÄôá¼ı*7+½ğ¶§*64=ÇıÖğÕßÖ®¶Ü(Î´¸üĞÂ,x:14531,z:4788,y:89,enabled:true,red:0.3546849,green:0.52588093,blue:0.08149201,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğ¶§*16+Ìú¶§*4=Õ¨ÖíÅÅ¸Ç·¹,x:-2495,z:-4691,y:65,enabled:true,red:0.89732623,green:0.09398723,blue:0.68662703,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğ¶§*16+×êÊ¯=Ç××Ó¸Ç·¹,x:-2494,z:-4691,y:65,enabled:true,red:0.6537935,green:0.45577908,blue:0.23433548,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğ¶§*16+ÂÌ±¦Ê¯=Å£Èâ¸Ç·¹,x:-2493,z:-4691,y:65,enabled:true,red:0.73377305,green:0.25953454,blue:0.8099673,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:£¨£¨°ËØÔÂ¯+1»ğ*32£©*8+Âú¿ª*4£©*2+·ç*64=ÎíÓê»ğ»¨,x:-4394,z:-1271,y:119,enabled:true,red:0.44123697,green:0.32827854,blue:0.9860515,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğ¶§*16+Ìú¶§*32=±ùÀ¶»ú¼×ºĞ,x:390,z:-2370,y:68,enabled:true,red:0.4456998,green:0.28463322,blue:0.44614655,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ìú¶§*32+×êÊ¯*16=Ê¨ÍõÌ××°,x:389,z:-2370,y:68,enabled:true,red:0.32686877,green:0.77160877,blue:0.5261189,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğ+Refinery IronicOil£¨65536£©=ÖØ×°»ú¼×,x:387,z:-2426,y:64,enabled:true,red:0.21623296,green:0.852996,blue:0.8480056,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ó£*8+½ğ*32=X£¬ X+Ä§ÑæÒí¼×=Ä§ÑæÒí¼×X,x:274,z:-2410,y:77,enabled:true,red:0.354222,green:0.14328235,blue:0.21460629,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:5½ğ*2+5»ğ*4=ÁúÑ×Ä§ÕÈ,x:-538,z:-2538,y:74,enabled:true,red:0.47363365,green:0.66840607,blue:0.89856935,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:»ğÒ©*2+²£Á§Æ¿=Íæ¾ßÊÖÀ×£¬ Íæ¾ßÊÖÀ×*64+5»ğ*4=·¢ÉäÆ÷,x:239,z:-2410,y:84,enabled:true,red:0.45027685,green:0.6076399,blue:0.8123006,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÒøÎÆ¼ı*64+5Ë®*12=Íæ¾ßÊÖÅÚ,x:238,z:-2411,y:84,enabled:true,red:0.47709268,green:0.17515308,blue:0.3718627,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:0x2+ç³ÏëÖ®½£=Ìì¿Õ¹úÍõµÄÅå½£,x:1887,z:-478,y:133,enabled:true,red:0.38886338,green:0.92905074,blue:0.7700542,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ìì¿Õ¹úÍõµÄÅå½£+5Ó£*4=Ìì¿ÕÖ®Éñ½£,x:1887,z:-479,y:133,enabled:true,red:0.48051947,green:0.35409772,blue:0.41148698,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ë®*16+5½ğ*8=ËøÁ´Ä§ÕÈ,x:2249,z:-1877,y:81,enabled:true,red:0.80350244,green:0.46703184,blue:0.6985117,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÏÂ½çÖ®ĞÇ+½ğ¿é*32=ìø,x:4492,z:337,y:63,enabled:true,red:0.34254706,green:0.09895331,blue:0.67359126,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Òø×±µ¶+3½ğ*3=¼ªµÂ±¦,x:4460,z:452,y:70,enabled:true,red:0.20491844,green:0.70628303,blue:0.30857533,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ï¦Âä²ĞÏ¼+²»°²Ö®·ç=³ÁÖØµÄÒÅÎï¿é,x:4442,z:166,y:76,enabled:true,red:0.7130793,green:0.5940175,blue:0.9196426,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½µÁÙÕßÖ®ÏÒ+±È±öµÄ¼áÊØ=¼áÓ²µÄÄ¾ÖÊ¿é,x:4441,z:167,y:76,enabled:true,red:0.81027085,green:0.25724775,blue:0.11902219,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:³ÁÖØµÄÒÅÎï¿é+¼áÓ²µÄÄ¾ÖÊ¿é=Õ¶Áú½£,x:4442,z:167,y:76,enabled:true,red:0.7942565,green:0.8742738,blue:0.058711767,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Î×Ê¦Ö®´Ì+3Ó£=ºç¹â+3Ó£=±ÌÀ¶Å­»ğ,x:4573,z:341,y:91,enabled:true,red:0.7000953,green:0.72876674,blue:0.16864818,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÓİÃÀÈË*4=Ä©µØÖò,x:4660,z:409,y:66,enabled:true,red:0.11372149,green:0.5363963,blue:0.41433036,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¹ÇÍ·*64+Ìú¿é*8=ÊØ»¤ÉñÕÙ»½,x:4635,z:423,y:65,enabled:true,red:0.522061,green:0.95903987,blue:0.1584993,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:×êÊ¯¿é*16+²»ËÀÍ¼ÌÚ=ÃÍÇİM-VI×÷Õ½·ş,x:4500,z:371,y:97,enabled:true,red:0.7545341,green:0.30333364,blue:0.9705211,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¹­+ÁÒÑæ·Û*32=°«ÈËµöÓã¸Í,x:4520,z:326,y:64,enabled:true,red:0.9163493,green:0.6603517,blue:0.9794904,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÁÒÑæ°ô*40+ÑÒ½¬¸à*16=¿½ÎÊÕßµÄÁ¯Ãõ,x:4521,z:326,y:64,enabled:true,red:0.7410355,green:0.37928653,blue:0.14804757,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÁÒÑæ°ô*24+ÑÒ½¬¸à*12=¹â½àµÄ¿½ÎÊ°ô,x:4522,z:326,y:64,enabled:true,red:0.3030473,green:0.40796375,blue:0.38066798,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğºúÂÜ²·*3+Ãµ¹åºì*32=ÍâĞÇÈË¾Õ»¨Ì½Õë2015°æ,x:4519,z:326,y:64,enabled:true,red:0.3825395,green:0.820668,blue:0.71860754,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ìú»¤ÍÈ+ÖÓ=ÆÆËéµÄÕê²Ù´ø£¬ ÂíÁåÊí+·¢½ÍÖëÑÛ*5=¶¾ÂíÁåÊí,x:4520,z:325,y:64,enabled:true,red:0.7242427,green:0.11225897,blue:0.92362165,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Æ¤¸ï·À¾ßÖ®Ò»+½ğ¶§*6=¿ó¹¤Ì××°Ö®Ò»,x:4519,z:321,y:64,enabled:true,red:0.03370303,green:0.5125705,blue:0.49123847,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ìú¸ä+Ä¾Ì¿*8=¿ó¹¤µÄĞÅÑö,x:4520,z:321,y:64,enabled:true,red:0.11340952,green:0.38356352,blue:0.11742556,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ê¯²ù+ìİÊ¯*8=¿ó¹¤µÄ±ØĞŞ¿Î,x:4521,z:321,y:64,enabled:true,red:0.0028463006,green:0.12429762,blue:0.0076370835,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğ¿é*3+ÂÌ±¦Ê¯*18=ÊØ²ÆÅ«µÄÄ¹Ö¾Ãú,x:4522,z:321,y:64,enabled:true,red:0.52442324,green:0.025764167,blue:0.8222536,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:×êÊ¯²ù+ÏÂ½çÖ®ĞÇ*3=²»°²Ö®·ç,x:4525,z:326,y:64,enabled:true,red:0.5664745,green:0.013318539,blue:0.22056514,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:·ÛºìÉ«È¾ÁÏ*32+ÂÌ±¦Ê¯¿é*16=Ãú¿ÌÓÚºì»ê,x:4526,z:325,y:64,enabled:true,red:0.63400227,green:0.84594005,blue:0.32391518,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ñô¹â´«¸ĞÆ÷*32+º£¾§É°Àù*64=½µÁÙÕßÖ®ÏÒ,x:4525,z:325,y:64,enabled:true,red:0.08431858,green:0.6007852,blue:0.34823513,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:°°+ÊìÍÃÈâ*64=±È±öµÄ¼áÊØ,x:4524,z:325,y:64,enabled:true,red:0.8758225,green:0.7063842,blue:0.90225106,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¹ÇÍ·*64+Ìú¿é*8=ÊØ»¤ÉñÕÙ»½,x:4525,z:324,y:64,enabled:true,red:0.6448706,green:0.60701615,blue:0.46192908,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÏÂ½çÖ®ĞÇ*9+×êÊ¯¿é*40=²Ôñ··Ö¶Ï,x:4532,z:326,y:64,enabled:true,red:0.96316725,green:0.8556503,blue:0.24807268,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:÷¼÷ÃÍ·Â­*10+Áé»êÉ³*64=Ë¹ÂåÀ­¿ËµÄ·è¿ñ,x:4531,z:326,y:64,enabled:true,red:0.3673163,green:0.5988911,blue:0.608178,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğ¿é*46+ÂÌ±¦Ê¯¿é*52=ÒÔÌ«ĞĞÕß,x:4532,z:325,y:64,enabled:true,red:0.6109286,green:0.37559295,blue:0.33747524,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğ¿é*16+Ïß*32=¾«ÖÂµÄ½ğË¿Á¬¿ãÍà,x:4531,z:325,y:64,enabled:true,red:0.4581688,green:0.8260753,blue:0.55870825,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:µØ*10+Ë®*8=ÆÛµĞ½á½ç,x:4517,z:299,y:66,enabled:true,red:0.29272014,green:0.03634,blue:0.5713742,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğ*4+µØ*6=ÂíÏ·ÍÅÇ½°å,x:4516,z:299,y:66,enabled:true,red:0.96928364,green:0.17237335,blue:0.2979228,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ó£*2+Ë®*8=Ç§ÄêÉ±,x:4515,z:299,y:66,enabled:true,red:0.6884155,green:0.8278531,blue:0.06108737,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ó£+µØ*4=à©à©²»ĞİµÄÁúĞÄ,x:4514,z:299,y:66,enabled:true,red:0.74152833,green:0.24594069,blue:0.38620389,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:·ç*8+½ğ*2=¹â½àµÄ¿½ÎÊ°ô,x:4513,z:299,y:66,enabled:true,red:0.09386712,green:0.5315228,blue:0.9797973,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:»ğ*12+·ç*12=µÂ¹ú½Ó¹ÇÄ¾,x:4512,z:299,y:66,enabled:true,red:0.48414195,green:0.56090176,blue:0.18911582,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğ*2+Ë®*4=»Ö¸´Ò©Ë®×¢ÉäÆ÷,x:4512,z:300,y:66,enabled:true,red:0.088846326,green:0.071645916,blue:0.09031284,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:·ç*8=MG M134£¬»ğ*8=GAU-8 Avenger,x:4513,z:268,y:66,enabled:true,red:0.13959438,green:0.8979325,blue:0.2025721,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:»ğ*3+½ğ=Ä©ÈÕ»ØÏì,x:4512,z:268,y:66,enabled:true,red:0.5260443,green:0.5346993,blue:0.79236287,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğ*4+µØ*6=ŠZÇİÄ¿,x:4512,z:269,y:66,enabled:true,red:0.62704545,green:0.841558,blue:0.66883415,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:»ğ*10+½ğ*10=ÁúÏ¢»ğÅÚ,x:4512,z:270,y:66,enabled:true,red:0.7913057,green:0.7902812,blue:0.7470012,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ë®*12+»ğ*15=ºìÓ£,x:4513,z:270,y:66,enabled:true,red:0.1250292,green:0.94626963,blue:0.974294,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğ*3+µØ*17=ÖØÖıµÄÀ×¹â¶ğ½ğ¸«,x:4514,z:270,y:66,enabled:true,red:0.6020346,green:0.8114004,blue:0.5395966,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ó£*5+Ë®*11=Á÷É³ÑªÈĞ,x:4514,z:271,y:66,enabled:true,red:0.44987798,green:0.33560413,blue:0.961899,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:»ğ*12+µØ*3=ÒÔÌ«ĞĞÕß,x:4516,z:268,y:66,enabled:true,red:0.5090953,green:0.8090992,blue:0.49782044,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:»ğ*12+·ç*10=¸ç²¼ÁÖ»ğ¼ıÑ¥,x:4516,z:267,y:66,enabled:true,red:0.29774308,green:0.15905333,blue:0.35869193,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:µØ*7+½ğ*4=Miss.Sunday,x:4517,z:267,y:66,enabled:true,red:0.48108625,green:0.08996296,blue:0.6335365,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:·ç*16+Ë®*6=¹·Í·ÈË¿ó¹¤µÄÀ¯Öò,x:4517,z:268,y:66,enabled:true,red:0.32316023,green:0.70412886,blue:0.18151659,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğ*8+»ğ*4=¾²µçÎüÒıÆ÷,x:4517,z:269,y:66,enabled:true,red:0.75186384,green:0.14966571,blue:0.9632298,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ë®*4+·ç*4=Ê®×ãÄ¿Èí¿ø,x:4517,z:270,y:66,enabled:true,red:0.86261475,green:0.14332443,blue:0.9571515,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ó£+»ğ*12=Ç§Ò¶ÔÂÊØ,x:4516,z:270,y:66,enabled:true,red:0.7323855,green:0.22900921,blue:0.50158376,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ó£*2+Ë®*16=ÂÜÀ­µÄ¼ÙÃæ,x:4515,z:270,y:66,enabled:true,red:0.9274658,green:0.4042045,blue:0.564472,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:º£¾§µÆ*32=×êÊ¯*64=Ëª·çÖÆÊ½×°±¸¶Ò»»È¯,x:4796,z:371,y:64,enabled:true,red:0.61994404,green:0.509985,blue:0.9749918,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¶Ò»»È¯=»Ö¸´Ò©¼Á×¢ÉäÆ÷*10=ÉÕÈâ¶¨Ê³¡¤¿¾Å£Èâ,x:4796,z:370,y:64,enabled:true,red:0.79055995,green:0.4059341,blue:0.78248864,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¶Ò»»È¯=ÖÎÁÆÖ®½£*20=¸½Ä§½ğÆ»¹û*24,x:4797,z:371,y:64,enabled:true,red:0.6127647,green:0.9246776,blue:0.6249939,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¶Ò»»È¯=Ëª·çÖÆÊ½×°±¸Ö®Ò»,x:4795,z:373,y:64,enabled:true,red:0.27454776,green:0.7310734,blue:0.22772491,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÉñÃØµÄ¶´¿Ú,x:4789,z:448,y:76,enabled:true,red:0.83379227,green:0.37578994,blue:0.40279335,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¼ÒÄİÖ®·å+3»ğ*2=¸ğÁÖË¹Í¨´ó¾ıÖ®ÉÈ,x:-2787,z:3074,y:72,enabled:true,red:0.64214194,green:0.057605803,blue:0.9960866,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¿İËÀµÄ¹àÄ¾=ÏòÈÕ¿û,x:-2820,z:3406,y:69,enabled:true,red:0.16795546,green:0.69749177,blue:0.7949567,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÉÏ¹Å³¤½£+2Ë®*2=ÀÏÎ×Õ¥Ö­»ú,x:-2915,z:924,y:79,enabled:true,red:0.08486569,green:0.536237,blue:0.7463739,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¹úÍõ¸ÛØ°Ê×+2Ë®*2=¼ÒÄİÖ®·ç,x:-3033,z:829,y:69,enabled:true,red:0.94841963,green:0.99069184,blue:0.40884876,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¹úÍõ¸ÛØ°Ê×+2Ë®*3=Î×Ê¦Ö®´Ì,x:-2410,z:716,y:77,enabled:true,red:0.018568575,green:0.99436766,blue:0.40644604,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Õ÷·ş³¤½£+2½ğ*2=¶ñÒâÄ§½£,x:-3988,z:-2068,y:66,enabled:true,red:0.05497253,green:0.55089116,blue:0.81724524,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ä©ÈÕÉäåó+2·ç*2=ĞÇ¼¹,x:-1687,z:-3629,y:80,enabled:true,red:0.44651777,green:0.8725645,blue:0.029703557,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÀÏÎ×Õ¥Ö­»ú+3»ğ*2=Ô÷ºŞÁÑÆ¬,x:2635,z:2441,y:69,enabled:true,red:0.68960464,green:0.07044405,blue:0.40702802,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ë«Éú¹­+2»ğ*2=ÂÓÑ»Ö®Á¦,x:3057,z:2167,y:69,enabled:true,red:0.7772289,green:0.07522458,blue:0.6952197,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ó£*2+½ğ*8=È«²ØÖ®½£,x:-3788,z:-353,y:65,enabled:true,red:0.6033255,green:0.038427055,blue:0.08329022,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:»ğ*6+·ç*12=ÊØ»¤ÉñÕÙ»½(ÁíÒ»°æ±¾,x:-3788,z:-354,y:65,enabled:true,red:0.6642954,green:0.25843126,blue:0.66155404,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğ*4+Ë®*16=¶´Ò¯ºş,x:-3789,z:-354,y:65,enabled:true,red:0.045367062,green:0.5394593,blue:0.676989,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Å£ÈôÍè+ÂÌ±¦Ê¯¿é*64=Å£ÈôÍè ·¡Ê½,x:-3794,z:-289,y:64,enabled:true,red:0.8678203,green:0.15442878,blue:0.089692235,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ä§½£+ÉñÖ®¶÷»İ=¿ËÂŞ×ôÖ®Ä§½£,x:-4094,z:-481,y:3,enabled:true,red:0.2881425,green:0.75902367,blue:0.09649062,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¿ËÂŞ×ôÖ®Ä§½£+Å£ÈôÍè ·¡Ê½=·¢ÊÎ,x:-4152,z:-383,y:105,enabled:true,red:0.07623786,green:0.77451444,blue:0.58241767,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¿Õ¾Æ±­(renamed)+½ğ¶§*6=´óÊ¢Æ¡¾Æ,x:-3695,z:-291,y:32,enabled:true,red:0.52853096,green:0.6635068,blue:0.27788115,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Å£ÈôÍè ·¡Ê½+Ä§µ¼Êé=Ä§½£,x:-3777,z:-333,y:11,enabled:true,red:0.18662989,green:0.41744375,blue:0.07343143,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¼ı*64+±¬ÁÑ×ÏËÌ¹û*64=·´ÖØÁ¦×°ÖÃ*16,x:1432,z:-1302,y:207,enabled:true,red:0.47187567,green:0.11764872,blue:0.98009634,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÓùÓ°Ä£¾ß+Ä©Ó°ÕäÖé*64=ÓùÓ°,x:1432,z:-1301,y:207,enabled:true,red:0.6130688,green:0.29744464,blue:0.7644682,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:£¨ÓùÓ°*2£©+£¨ÓùÓ°Ä£¾ß*2£©*6=ÓùÓ°ÖÕ¸Ä,x:1433,z:-1301,y:207,enabled:true,red:0.32936037,green:0.13790035,blue:0.33728182,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ĞÅ±ê*3+Ä©Ó°Ë®¾§*64=±³ÅÑÕßÖ®½£,x:1438,z:-1287,y:207,enabled:true,red:0.48028493,green:0.9635676,blue:0.9533135,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÏÂ½çÖ®ĞÇ+×êÊ¯¿é*10=ËÀÉñÆõÔ¼¡¤³à,x:1438,z:-1286,y:207,enabled:true,red:0.63470674,green:0.8031403,blue:0.16865212,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:TNT*16+×êÊ¯*8=»ğ¼ıÅçÉäÆ÷*64,x:1437,z:-1284,y:207,enabled:true,red:0.8317128,green:0.04219675,blue:0.67120695,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:TNT*16+×êÊ¯*16=ÃÔÄãÆğ·É·¢ÉäÆ÷,x:1436,z:-1284,y:207,enabled:true,red:0.77975374,green:0.34098715,blue:0.89813334,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Õâ¿ÉÄÜÊÇ¼ÙÄÌ(re)+Õâ¿ÉÄÜÊÇ¼ÙÑÒ½¬(re)=ºìĞÇ¶ş¹øÍ·,x:1435,z:-1284,y:207,enabled:true,red:0.15305793,green:0.13203901,blue:0.6346333,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¼ı*64+ºÓëà*64=·´Î¸¼ı*64,x:1437,z:-1285,y:206,enabled:true,red:0.08954948,green:0.43000638,blue:0.083456635,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:³ªÆ¬(cat)+×êÊ¯*64=º¬Ğ¦°ë²½ñ²*64,x:1436,z:-1285,y:206,enabled:true,red:0.9404518,green:0.79906684,blue:0.13485312,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:TNT*16=Î±¡¤ÂİĞı½£,x:1428,z:-1283,y:206,enabled:true,red:0.22129315,green:0.22764218,blue:0.68557644,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:0xB=»úÆ÷ÈËÑ¥,x:1428,z:-1284,y:206,enabled:true,red:0.50115955,green:0.7311725,blue:0.27828628,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ê¥¹âÖ®¼ı*64+Æ»¹û*64=Ê¥ÁéÒ©*64,x:1426,z:-1285,y:206,enabled:true,red:0.8369381,green:0.3682211,blue:0.21102381,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Êé+×êÊ¯=Ä§·¨-Tia frarer*4,x:1428,z:-1284,y:202,enabled:true,red:0.14362425,green:0.6563831,blue:0.32620257,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:×êÊ¯*8+TMT*32=¿ÕÏ®Õ½Êõ¡¤ºäÕ¨,x:1428,z:-1285,y:202,enabled:true,red:0.45517838,green:0.7720294,blue:0.23652595,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:×êÊ¯+TNT*4=³¬¡¤ÉñÂŞÌìÕ÷,x:1428,z:-1286,y:202,enabled:true,red:0.65850055,green:0.56158876,blue:0.21500093,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÌÇ*64+×êÊ¯*16=Ê¥¹âÖ®¼ı*16,x:1428,z:-1287,y:202,enabled:true,red:0.44799697,green:0.41866732,blue:0.84639287,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¸¯Èâ*64+×êÊ¯*16=ÕæÊµÖ®¼ı¡¤ºÚ*16,x:1428,z:-1288,y:202,enabled:true,red:0.9086049,green:0.696059,blue:0.7981588,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¼ı*64+×êÊ¯*16=ÕæÊµÖ®¼ı¡¤»Ò*16,x:1429,z:-1285,y:202,enabled:true,red:0.77996886,green:0.97029096,blue:0.54402834,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:×êÊ¯¿é*32+±³ÅÑÕßÖ®½£=Ô­Á¦Ö®¹­,x:1429,z:-1286,y:202,enabled:true,red:0.18618411,green:0.3007204,blue:0.413826,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ô­Á¦Ö®¹­+×êÊ¯¿é*64=Ô­Á¦Ö®¹­¡¤¸Ä,x:1429,z:-1287,y:202,enabled:true,red:0.08192074,green:0.23329061,blue:0.99619764,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ó£*2+µØ*16=À¼¹ÅÀûÈø,x:1410,z:-1299,y:210,enabled:true,red:0.29030383,green:0.33814847,blue:0.62340695,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ë®*8+·ç*12=ÓğÒ¶,x:1411,z:-1300,y:210,enabled:true,red:0.36052287,green:0.33598942,blue:0.13759965,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:»ğ*6+µØ*4=ÈğøL ¸Ä,x:1410,z:-1301,y:210,enabled:true,red:0.78038365,green:0.50280476,blue:0.026472926,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ó£*20+»ğ*32=ÃÎÏëÌìÉú,x:1409,z:-1300,y:210,enabled:true,red:0.4379422,green:0.10826105,blue:0.66926616,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Óà½ı¶Ì¹­*256£¨ĞŞ¹ı£©=Ş±¶÷µÄÉóÅĞÊ®×Ö¹­,x:1409,z:-1354,y:203,enabled:true,red:0.48267776,green:0.30505937,blue:0.6413072,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÃØ·¨ĞÇ´Ì+3»ğ*2=Ğ«Î²Ê¨,x:1364,z:-1244,y:142,enabled:true,red:0.8937778,green:0.38226342,blue:0.68629843,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÕÙ»½¾²¾²,x:1605,z:-1265,y:65,enabled:true,red:0.7901899,green:0.1646173,blue:0.53758204,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¶ñÄ§³¤½£*128+±¡ÈĞ²ù*128=ÔÉÊ¯·¨ÕÈ,x:1727,z:-1436,y:101,enabled:true,red:0.6920112,green:0.77019376,blue:0.4068426,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¶ñÄ§³¤½£*16+½©Ê¬×°¼×*8=ÔÎÑ£Í»Ï®,x:1727,z:-1438,y:101,enabled:true,red:0.3491403,green:0.9535387,blue:0.16615945,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:³±Ï«·ûÖä*10=ËÀÉñÆõÔ¼¡¤³à,x:1727,z:-1440,y:101,enabled:true,red:0.8070825,green:0.6812028,blue:0.18757915,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÍèÄ¾¹­*32+½©Ê¬×°¼×*32=Ğ°¹­-°ÍÂ³µÏÑÇ,x:1732,z:-1439,y:100,enabled:true,red:0.4855929,green:0.058113515,blue:0.57375044,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÍèÄ¾¹­*64+¸ÊÕá*128×é=ºÚÌ´Ä¾&°×ÏóÑÀ,x:1732,z:-1437,y:100,enabled:true,red:0.15113175,green:0.15623564,blue:0.42764568,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÍèÄ¾¹­*128+¹­¼ı´óÊ¦µÄ³¤¹­*128=»ÃÏë±À»µ,x:1732,z:-1435,y:100,enabled:true,red:0.61641866,green:0.38859582,blue:0.94916385,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¹­¼ı´óÊ¦µÄ³¤¹­*128+Óà½ı¶Ì¹­*128=Ş±¶÷µÄÉóÅĞÊ®×Ö¹­,x:1803,z:-1489,y:71,enabled:true,red:0.40124774,green:0.07637429,blue:0.8487152,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:1½ğ*32+·äÃÛÆ»¹ûÌÇ*16=Ç¬À¤Ò»ÖÀ,x:1806,z:-1489,y:71,enabled:true,red:0.28521043,green:0.17748857,blue:0.39932758,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÏÂ½çÖ®ĞÇ+½ğ¿é*32=¿¨É¼µÄ×·Òä,x:1801,z:-1489,y:71,enabled:true,red:0.20246273,green:0.6960055,blue:0.77528286,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:×êÊ¯¿é*32+TNT*64=1876 LX3,x:1429,z:-1301,y:206,enabled:true,red:0.80195147,green:0.36061096,blue:0.56792516,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ò¶Ä£¾ß+ÉúÃü½á¾§=ÓğÒ¶,x:1429,z:-1297,y:206,enabled:true,red:0.065236926,green:0.57556623,blue:0.17638451,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÉúÃü½á¾§*16+Ò¶Ä£¾ß=ÔÂÉñ(¥¢¥ë¥Æ¥ß¥¹)¹­,x:1429,z:-1295,y:206,enabled:true,red:0.9569021,green:0.9768553,blue:0.2977271,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:(ÖÍÁôÔÙÉúÒ©Ë®II*2)*2=ÉúÃü½á¾§,x:1429,z:-1293,y:206,enabled:true,red:0.53820455,green:0.6075759,blue:0.19990623,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÂŞÂí¶Ì½£+1µØ=Õ÷·ş³¤½£,x:4617,z:282,y:73,enabled:true,red:0.18096572,green:0.70473635,blue:0.14854342,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Õ÷·ş³¤½£+3»ğ*2=Ä©ÈÕÊ¹Õß,x:4618,z:282,y:73,enabled:true,red:0.5442566,green:0.9316339,blue:0.94965214,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:0xF+æ£®æ—çš„æœå®=é¾™çŒ«çš„è·å¶ä¼,x:2248,z:-1937,y:88,enabled:true,red:0.031001866,green:0.09405482,blue:0.20426947,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å¼ºåŒ–é­”çŸ³ç¢ç‰‡*4=å¼ºåŒ–é­”çŸ³,x:-429,z:-2421,y:79,enabled:true,red:0.6175153,green:0.8179309,blue:0.61895776,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å¼ºåŒ–é­”çŸ³+å››çº§æ°´æ™¶*4=äº”çº§æ°´æ™¶,x:-429,z:-2422,y:79,enabled:true,red:0.49847037,green:0.7242984,blue:0.53200775,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é’»çŸ³*16=æˆ˜å‹å›¢é“­åˆ»æŠ¤èƒ¸ç”²,x:-439,z:-2424,y:75,enabled:true,red:0.3008002,green:0.7230897,blue:0.87083703,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é’»çŸ³*32=å·«æ–¯æ‹‰å¾·ï¼ˆé’»çŸ³æ–§ï¼‰,x:-439,z:-2423,y:75,enabled:true,red:0.16719401,green:0.76497346,blue:0.92885214,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é’»çŸ³*16=é¹¤å˜´é”„,x:-438,z:-2423,y:75,enabled:true,red:0.8962776,green:0.3298313,blue:0.31650245,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é’»çŸ³*16=é›ªæ¼«åŸé˜²å…·å¥—ä¹‹ä¸€ï¼Œ é’»çŸ³*32=é›ªæ¼«åŸå®ˆå«é’¢å¼“/å‰‘,x:-429,z:-2482,y:72,enabled:true,red:0.03374952,green:0.15700668,blue:0.8866579,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ¶é­‚ä¹‹æ³ª*6=é›ªæ¼«åŸå®ˆå«é’¢ç®­*32,x:-429,z:-2481,y:72,enabled:true,red:0.839165,green:0.7949353,blue:0.60837096,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é’»çŸ³*16=çƒ¤é©¬é“ƒè–¯*32=ç‰›æ’*32,x:-514,z:-2516,y:72,enabled:true,red:0.13929826,green:0.4990328,blue:0.09470439,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é’»çŸ³*16=åŠ›é‡è¯æ°´8min=ç”Ÿå‘½å›å¤è¯æ°´I=å†ç”Ÿè¯æ°´I,x:-515,z:-2516,y:72,enabled:true,red:0.33335924,green:0.4655965,blue:0.8206883,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ—¶å…‰ä¹‹å°˜å…‘æ¢1,x:-387,z:-2450,y:85,enabled:true,red:0.21005815,green:0.22085965,blue:0.81035364,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ—¶å…‰ä¹‹å°˜å…‘æ¢2,x:-386,z:-2432,y:85,enabled:true,red:0.10006952,green:0.085752845,blue:0.22637928,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:äºŒè¿å¼“+2é‡‘*2=è¿œå‡»,x:-384,z:-2437,y:90,enabled:true,red:0.5528365,green:0.29863912,blue:0.5486406,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é£*64+å¼ºåŒ–é­”çŸ³=ç«,x:231,z:2232,y:97,enabled:true,red:0.47561413,green:0.015673637,blue:0.30660737,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å¤æ—¥ç¥­è¥¿ç“œ+ã€‚ã€‚ã€‚=å‡‰é£ä¹‹ç¾½,x:-8,z:222,y:78,enabled:true,red:0.1788742,green:0.8384915,blue:0.7003704,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ä¸‹ç•Œä¹‹æ˜Ÿ+é‡‘å—*32=æ°´æœˆæµå…‰,x:118,z:3771,y:116,enabled:true,red:0.077010274,green:0.13819057,blue:0.84725887,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ˜Ÿè„Š+3æ¨±=é»æ˜,x:-446,z:4101,y:71,enabled:true,red:0.6352639,green:0.5687921,blue:0.6094511,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:çº¿*2+çº¸*4=æ™´å¤©å¨ƒå¨ƒ,x:186,z:2374,y:64,enabled:true,red:0.5483361,green:0.7695536,blue:0.9964903,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç»¿å®çŸ³*16+é“é”­/é‡‘é”­*16=å†°è“æœºç”²ç›’/ç‹®ç‹å¥—è£…,x:189,z:2832,y:73,enabled:true,red:0.5409286,green:0.81443006,blue:0.38417065,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘é”­*64+ä¸‹ç•Œä¹‹æ˜Ÿ=é»„é‡‘æ­¦å£«ä½©å‰‘ï¼ˆå·²ç§»é™¤),x:1638,z:402,y:68,enabled:true,red:0.6037857,green:0.26804632,blue:0.086262584,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ï¼ˆä¸‹ç•Œä¹‹æ˜Ÿ*9+é¾™æ¯*64ï¼‰*2+åœ°*64=é™¨çŸ³ç«ç‚®,x:1637,z:402,y:68,enabled:true,red:0.61479956,green:0.79060936,blue:0.63934267,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç£¨åˆ¶é—ªé•¿å²©*64+é’»çŸ³å—*32=å…°å¤åˆ©è¨,x:1440,z:-1332,y:99,enabled:true,red:0.2725442,green:0.37720156,blue:0.08728963,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ¶ˆå¤±è¯…å’’+ç»‘å®šè¯…å’’=æ—é•¿çš„ç¿ç®­(æœªæ›´æ–°,x:9843,z:3947,y:100,enabled:true,red:0.43972707,green:0.3777401,blue:0.47650242,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:2016åœ£è¯å…‘æ¢,x:9483,z:3452,y:69,enabled:true,red:0.6588609,green:0.8440129,blue:0.115873456,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ—é•¿çš„ç¿ç®­*7+é‡‘é”­*64=é©±é€è€…ä¹‹ç›¾(æœªæ›´æ–°,x:14531,z:4788,y:89,enabled:true,red:0.3546849,green:0.52588093,blue:0.08149201,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘é”­*16+é“é”­*4=ç‚¸çŒªæ’ç›–é¥­,x:-2495,z:-4691,y:65,enabled:true,red:0.89732623,green:0.09398723,blue:0.68662703,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘é”­*16+é’»çŸ³=äº²å­ç›–é¥­,x:-2494,z:-4691,y:65,enabled:true,red:0.6537935,green:0.45577908,blue:0.23433548,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘é”­*16+ç»¿å®çŸ³=ç‰›è‚‰ç›–é¥­,x:-2493,z:-4691,y:65,enabled:true,red:0.73377305,green:0.25953454,blue:0.8099673,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ï¼ˆï¼ˆå…«å¦ç‚‰+1ç«*32ï¼‰*8+æ»¡å¼€*4ï¼‰*2+é£*64=é›¾é›¨ç«èŠ±,x:-4394,z:-1271,y:119,enabled:true,red:0.44123697,green:0.32827854,blue:0.9860515,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘é”­*16+é“é”­*32=å†°è“æœºç”²ç›’,x:390,z:-2370,y:68,enabled:true,red:0.4456998,green:0.28463322,blue:0.44614655,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é“é”­*32+é’»çŸ³*16=ç‹®ç‹å¥—è£…,x:389,z:-2370,y:68,enabled:true,red:0.32686877,green:0.77160877,blue:0.5261189,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘+Refinery IronicOilï¼ˆ65536ï¼‰=é‡è£…æœºç”²,x:387,z:-2426,y:64,enabled:true,red:0.21623296,green:0.852996,blue:0.8480056,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ¨±*8+é‡‘*32=Xï¼Œ X+é­”ç„°ç¿¼ç”²=é­”ç„°ç¿¼ç”²X,x:274,z:-2410,y:77,enabled:true,red:0.354222,green:0.14328235,blue:0.21460629,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:5é‡‘*2+5ç«*4=é¾™ç‚é­”æ–,x:-538,z:-2538,y:74,enabled:true,red:0.47363365,green:0.66840607,blue:0.89856935,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç«è¯*2+ç»ç’ƒç“¶=ç©å…·æ‰‹é›·ï¼Œ ç©å…·æ‰‹é›·*64+5ç«*4=å‘å°„å™¨,x:239,z:-2410,y:84,enabled:true,red:0.45027685,green:0.6076399,blue:0.8123006,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é“¶çº¹ç®­*64+5æ°´*12=ç©å…·æ‰‹ç‚®,x:238,z:-2411,y:84,enabled:true,red:0.47709268,green:0.17515308,blue:0.3718627,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:0x2+ç»¯æƒ³ä¹‹å‰‘=å¤©ç©ºå›½ç‹çš„ä½©å‰‘,x:1887,z:-478,y:133,enabled:true,red:0.38886338,green:0.92905074,blue:0.7700542,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å¤©ç©ºå›½ç‹çš„ä½©å‰‘+5æ¨±*4=å¤©ç©ºä¹‹ç¥å‰‘,x:1887,z:-479,y:133,enabled:true,red:0.48051947,green:0.35409772,blue:0.41148698,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ°´*16+5é‡‘*8=é”é“¾é­”æ–,x:2249,z:-1877,y:81,enabled:true,red:0.80350244,green:0.46703184,blue:0.6985117,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ä¸‹ç•Œä¹‹æ˜Ÿ+é‡‘å—*32=ç¦…,x:4492,z:337,y:63,enabled:true,red:0.34254706,green:0.09895331,blue:0.67359126,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é“¶å¦†åˆ€+3é‡‘*3=å‰å¾·å®,x:4460,z:452,y:70,enabled:true,red:0.20491844,green:0.70628303,blue:0.30857533,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å¤•è½æ®‹éœ+ä¸å®‰ä¹‹é£=æ²‰é‡çš„é—ç‰©å—,x:4442,z:166,y:76,enabled:true,red:0.7130793,green:0.5940175,blue:0.9196426,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é™ä¸´è€…ä¹‹å¼¦+æ¯”å®¾çš„åšå®ˆ=åšç¡¬çš„æœ¨è´¨å—,x:4441,z:167,y:76,enabled:true,red:0.81027085,green:0.25724775,blue:0.11902219,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ²‰é‡çš„é—ç‰©å—+åšç¡¬çš„æœ¨è´¨å—=æ–©é¾™å‰‘,x:4442,z:167,y:76,enabled:true,red:0.7942565,green:0.8742738,blue:0.058711767,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å·«å¸ˆä¹‹åˆº+3æ¨±=è™¹å…‰+3æ¨±=ç¢§è“æ€’ç«,x:4573,z:341,y:91,enabled:true,red:0.7000953,green:0.72876674,blue:0.16864818,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:è™ç¾äºº*4=æœ«åœ°çƒ›,x:4660,z:409,y:66,enabled:true,red:0.11372149,green:0.5363963,blue:0.41433036,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:éª¨å¤´*64+é“å—*8=å®ˆæŠ¤ç¥å¬å”¤,x:4635,z:423,y:65,enabled:true,red:0.522061,green:0.95903987,blue:0.1584993,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é’»çŸ³å—*16+ä¸æ­»å›¾è…¾=çŒ›ç¦½M-VIä½œæˆ˜æœ,x:4500,z:371,y:97,enabled:true,red:0.7545341,green:0.30333364,blue:0.9705211,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å¼“+çƒˆç„°ç²‰*32=çŸ®äººé’“é±¼ç«¿,x:4520,z:326,y:64,enabled:true,red:0.9163493,green:0.6603517,blue:0.9794904,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:çƒˆç„°æ£’*40+å²©æµ†è†*16=æ‹·é—®è€…çš„æ€œæ‚¯,x:4521,z:326,y:64,enabled:true,red:0.7410355,green:0.37928653,blue:0.14804757,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:çƒˆç„°æ£’*24+å²©æµ†è†*12=å…‰æ´çš„æ‹·é—®æ£’,x:4522,z:326,y:64,enabled:true,red:0.3030473,green:0.40796375,blue:0.38066798,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘èƒ¡èåœ*3+ç«ç‘°çº¢*32=å¤–æ˜ŸäººèŠèŠ±æ¢é’ˆ2015ç‰ˆ,x:4519,z:326,y:64,enabled:true,red:0.3825395,green:0.820668,blue:0.71860754,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é“æŠ¤è…¿+é’Ÿ=ç ´ç¢çš„è´æ“å¸¦ï¼Œ é©¬é“ƒè–¯+å‘é…µè››çœ¼*5=æ¯’é©¬é“ƒè–¯,x:4520,z:325,y:64,enabled:true,red:0.7242427,green:0.11225897,blue:0.92362165,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:çš®é©é˜²å…·ä¹‹ä¸€+é‡‘é”­*6=çŸ¿å·¥å¥—è£…ä¹‹ä¸€,x:4519,z:321,y:64,enabled:true,red:0.03370303,green:0.5125705,blue:0.49123847,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é“é•+æœ¨ç‚­*8=çŸ¿å·¥çš„ä¿¡ä»°,x:4520,z:321,y:64,enabled:true,red:0.11340952,green:0.38356352,blue:0.11742556,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:çŸ³é“²+ç‡§çŸ³*8=çŸ¿å·¥çš„å¿…ä¿®è¯¾,x:4521,z:321,y:64,enabled:true,red:0.0028463006,green:0.12429762,blue:0.0076370835,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘å—*3+ç»¿å®çŸ³*18=å®ˆè´¢å¥´çš„å¢“å¿—é“­,x:4522,z:321,y:64,enabled:true,red:0.52442324,green:0.025764167,blue:0.8222536,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é’»çŸ³é“²+ä¸‹ç•Œä¹‹æ˜Ÿ*3=ä¸å®‰ä¹‹é£,x:4525,z:326,y:64,enabled:true,red:0.5664745,green:0.013318539,blue:0.22056514,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç²‰çº¢è‰²æŸ“æ–™*32+ç»¿å®çŸ³å—*16=é“­åˆ»äºçº¢é­‚,x:4526,z:325,y:64,enabled:true,red:0.63400227,green:0.84594005,blue:0.32391518,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é˜³å…‰ä¼ æ„Ÿå™¨*32+æµ·æ™¶ç ‚ç ¾*64=é™ä¸´è€…ä¹‹å¼¦,x:4525,z:325,y:64,enabled:true,red:0.08431858,green:0.6007852,blue:0.34823513,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é+ç†Ÿå…”è‚‰*64=æ¯”å®¾çš„åšå®ˆ,x:4524,z:325,y:64,enabled:true,red:0.8758225,green:0.7063842,blue:0.90225106,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:éª¨å¤´*64+é“å—*8=å®ˆæŠ¤ç¥å¬å”¤,x:4525,z:324,y:64,enabled:true,red:0.6448706,green:0.60701615,blue:0.46192908,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ä¸‹ç•Œä¹‹æ˜Ÿ*9+é’»çŸ³å—*40=è‹ç©¹åˆ†æ–­,x:4532,z:326,y:64,enabled:true,red:0.96316725,green:0.8556503,blue:0.24807268,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:éª·é«…å¤´é¢…*10+çµé­‚æ²™*64=æ–¯æ´›æ‹‰å…‹çš„ç–¯ç‹‚,x:4531,z:326,y:64,enabled:true,red:0.3673163,green:0.5988911,blue:0.608178,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘å—*46+ç»¿å®çŸ³å—*52=ä»¥å¤ªè¡Œè€…,x:4532,z:325,y:64,enabled:true,red:0.6109286,green:0.37559295,blue:0.33747524,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘å—*16+çº¿*32=ç²¾è‡´çš„é‡‘ä¸è¿è£¤è¢œ,x:4531,z:325,y:64,enabled:true,red:0.4581688,green:0.8260753,blue:0.55870825,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:åœ°*10+æ°´*8=æ¬ºæ•Œç»“ç•Œ,x:4517,z:299,y:66,enabled:true,red:0.29272014,green:0.03634,blue:0.5713742,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘*4+åœ°*6=é©¬æˆå›¢å¢™æ¿,x:4516,z:299,y:66,enabled:true,red:0.96928364,green:0.17237335,blue:0.2979228,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ¨±*2+æ°´*8=åƒå¹´æ€,x:4515,z:299,y:66,enabled:true,red:0.6884155,green:0.8278531,blue:0.06108737,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ¨±+åœ°*4=å–‹å–‹ä¸ä¼‘çš„é¾™å¿ƒ,x:4514,z:299,y:66,enabled:true,red:0.74152833,green:0.24594069,blue:0.38620389,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é£*8+é‡‘*2=å…‰æ´çš„æ‹·é—®æ£’,x:4513,z:299,y:66,enabled:true,red:0.09386712,green:0.5315228,blue:0.9797973,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç«*12+é£*12=å¾·å›½æ¥éª¨æœ¨,x:4512,z:299,y:66,enabled:true,red:0.48414195,green:0.56090176,blue:0.18911582,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘*2+æ°´*4=æ¢å¤è¯æ°´æ³¨å°„å™¨,x:4512,z:300,y:66,enabled:true,red:0.088846326,green:0.071645916,blue:0.09031284,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é£*8=MG M134ï¼Œç«*8=GAU-8 Avenger,x:4513,z:268,y:66,enabled:true,red:0.13959438,green:0.8979325,blue:0.2025721,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç«*3+é‡‘=æœ«æ—¥å›å“,x:4512,z:268,y:66,enabled:true,red:0.5260443,green:0.5346993,blue:0.79236287,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘*4+åœ°*6=å¥ªç¦½ç›®,x:4512,z:269,y:66,enabled:true,red:0.62704545,green:0.841558,blue:0.66883415,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç«*10+é‡‘*10=é¾™æ¯ç«ç‚®,x:4512,z:270,y:66,enabled:true,red:0.7913057,green:0.7902812,blue:0.7470012,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ°´*12+ç«*15=çº¢æ¨±,x:4513,z:270,y:66,enabled:true,red:0.1250292,green:0.94626963,blue:0.974294,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘*3+åœ°*17=é‡é“¸çš„é›·å…‰å¨¥é‡‘æ–§,x:4514,z:270,y:66,enabled:true,red:0.6020346,green:0.8114004,blue:0.5395966,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ¨±*5+æ°´*11=æµæ²™è¡€åˆƒ,x:4514,z:271,y:66,enabled:true,red:0.44987798,green:0.33560413,blue:0.961899,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç«*12+åœ°*3=ä»¥å¤ªè¡Œè€…,x:4516,z:268,y:66,enabled:true,red:0.5090953,green:0.8090992,blue:0.49782044,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç«*12+é£*10=å“¥å¸ƒæ—ç«ç®­é´,x:4516,z:267,y:66,enabled:true,red:0.29774308,green:0.15905333,blue:0.35869193,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:åœ°*7+é‡‘*4=Miss.Sunday,x:4517,z:267,y:66,enabled:true,red:0.48108625,green:0.08996296,blue:0.6335365,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é£*16+æ°´*6=ç‹—å¤´äººçŸ¿å·¥çš„èœ¡çƒ›,x:4517,z:268,y:66,enabled:true,red:0.32316023,green:0.70412886,blue:0.18151659,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘*8+ç«*4=é™ç”µå¸å¼•å™¨,x:4517,z:269,y:66,enabled:true,red:0.75186384,green:0.14966571,blue:0.9632298,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ°´*4+é£*4=åè¶³ç›®è½¯ç›”,x:4517,z:270,y:66,enabled:true,red:0.86261475,green:0.14332443,blue:0.9571515,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ¨±+ç«*12=åƒå¶æœˆå®ˆ,x:4516,z:270,y:66,enabled:true,red:0.7323855,green:0.22900921,blue:0.50158376,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ¨±*2+æ°´*16=èæ‹‰çš„å‡é¢,x:4515,z:270,y:66,enabled:true,red:0.9274658,green:0.4042045,blue:0.564472,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æµ·æ™¶ç¯*32=é’»çŸ³*64=éœœé£åˆ¶å¼è£…å¤‡å…‘æ¢åˆ¸,x:4796,z:371,y:64,enabled:true,red:0.61994404,green:0.509985,blue:0.9749918,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å…‘æ¢åˆ¸=æ¢å¤è¯å‰‚æ³¨å°„å™¨*10=çƒ§è‚‰å®šé£ŸÂ·çƒ¤ç‰›è‚‰,x:4796,z:370,y:64,enabled:true,red:0.79055995,green:0.4059341,blue:0.78248864,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å…‘æ¢åˆ¸=æ²»ç–—ä¹‹å‰‘*20=é™„é­”é‡‘è‹¹æœ*24,x:4797,z:371,y:64,enabled:true,red:0.6127647,green:0.9246776,blue:0.6249939,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å…‘æ¢åˆ¸=éœœé£åˆ¶å¼è£…å¤‡ä¹‹ä¸€,x:4795,z:373,y:64,enabled:true,red:0.27454776,green:0.7310734,blue:0.22772491,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç¥ç§˜çš„æ´å£,x:4789,z:448,y:76,enabled:true,red:0.83379227,green:0.37578994,blue:0.40279335,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å®¶å¦®ä¹‹å³°+3ç«*2=è‘›æ—æ–¯é€šå¤§å›ä¹‹æ‰‡,x:-2787,z:3074,y:72,enabled:true,red:0.64214194,green:0.057605803,blue:0.9960866,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ¯æ­»çš„çŒæœ¨=å‘æ—¥è‘µ,x:-2820,z:3406,y:69,enabled:true,red:0.16795546,green:0.69749177,blue:0.7949567,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ä¸Šå¤é•¿å‰‘+2æ°´*2=è€å·«æ¦¨æ±æœº,x:-2915,z:924,y:79,enabled:true,red:0.08486569,green:0.536237,blue:0.7463739,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å›½ç‹æ¸¯åŒ•é¦–+2æ°´*2=å®¶å¦®ä¹‹é£,x:-3033,z:829,y:69,enabled:true,red:0.94841963,green:0.99069184,blue:0.40884876,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å›½ç‹æ¸¯åŒ•é¦–+2æ°´*3=å·«å¸ˆä¹‹åˆº,x:-2410,z:716,y:77,enabled:true,red:0.018568575,green:0.99436766,blue:0.40644604,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å¾æœé•¿å‰‘+2é‡‘*2=æ¶æ„é­”å‰‘,x:-3988,z:-2068,y:66,enabled:true,red:0.05497253,green:0.55089116,blue:0.81724524,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æœ«æ—¥å°„å¼©+2é£*2=æ˜Ÿè„Š,x:-1687,z:-3629,y:80,enabled:true,red:0.44651777,green:0.8725645,blue:0.029703557,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:è€å·«æ¦¨æ±æœº+3ç«*2=æ†æ¨è£‚ç‰‡,x:2635,z:2441,y:69,enabled:true,red:0.68960464,green:0.07044405,blue:0.40702802,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:åŒç”Ÿå¼“+2ç«*2=æ é¸¦ä¹‹åŠ›,x:3057,z:2167,y:69,enabled:true,red:0.7772289,green:0.07522458,blue:0.6952197,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ¨±*2+é‡‘*8=å…¨è—ä¹‹å‰‘,x:-3788,z:-353,y:65,enabled:true,red:0.6033255,green:0.038427055,blue:0.08329022,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç«*6+é£*12=å®ˆæŠ¤ç¥å¬å”¤(å¦ä¸€ç‰ˆæœ¬,x:-3788,z:-354,y:65,enabled:true,red:0.6642954,green:0.25843126,blue:0.66155404,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘*4+æ°´*16=æ´çˆ·æ¹–,x:-3789,z:-354,y:65,enabled:true,red:0.045367062,green:0.5394593,blue:0.676989,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç‰›è‹¥ä¸¸+ç»¿å®çŸ³å—*64=ç‰›è‹¥ä¸¸ è´°å¼,x:-3794,z:-289,y:64,enabled:true,red:0.8678203,green:0.15442878,blue:0.089692235,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é­”å‰‘+ç¥ä¹‹æ©æƒ =å…‹ç½—ä½ä¹‹é­”å‰‘,x:-4094,z:-481,y:3,enabled:true,red:0.2881425,green:0.75902367,blue:0.09649062,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å…‹ç½—ä½ä¹‹é­”å‰‘+ç‰›è‹¥ä¸¸ è´°å¼=å‘é¥°,x:-4152,z:-383,y:105,enabled:true,red:0.07623786,green:0.77451444,blue:0.58241767,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç©ºé…’æ¯(renamed)+é‡‘é”­*6=å¤§ç››å•¤é…’,x:-3695,z:-291,y:32,enabled:true,red:0.52853096,green:0.6635068,blue:0.27788115,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç‰›è‹¥ä¸¸ è´°å¼+é­”å¯¼ä¹¦=é­”å‰‘,x:-3777,z:-333,y:11,enabled:true,red:0.18662989,green:0.41744375,blue:0.07343143,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç®­*64+çˆ†è£‚ç´«é¢‚æœ*64=åé‡åŠ›è£…ç½®*16,x:1432,z:-1302,y:207,enabled:true,red:0.47187567,green:0.11764872,blue:0.98009634,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å¾¡å½±æ¨¡å…·+æœ«å½±çç *64=å¾¡å½±,x:1432,z:-1301,y:207,enabled:true,red:0.6130688,green:0.29744464,blue:0.7644682,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ï¼ˆå¾¡å½±*2ï¼‰+ï¼ˆå¾¡å½±æ¨¡å…·*2ï¼‰*6=å¾¡å½±ç»ˆæ”¹,x:1433,z:-1301,y:207,enabled:true,red:0.32936037,green:0.13790035,blue:0.33728182,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ä¿¡æ ‡*3+æœ«å½±æ°´æ™¶*64=èƒŒå›è€…ä¹‹å‰‘,x:1438,z:-1287,y:207,enabled:true,red:0.48028493,green:0.9635676,blue:0.9533135,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ä¸‹ç•Œä¹‹æ˜Ÿ+é’»çŸ³å—*10=æ­»ç¥å¥‘çº¦Â·èµ¤,x:1438,z:-1286,y:207,enabled:true,red:0.63470674,green:0.8031403,blue:0.16865212,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:TNT*16+é’»çŸ³*8=ç«ç®­å–·å°„å™¨*64,x:1437,z:-1284,y:207,enabled:true,red:0.8317128,green:0.04219675,blue:0.67120695,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:TNT*16+é’»çŸ³*16=è¿·ä½ èµ·é£å‘å°„å™¨,x:1436,z:-1284,y:207,enabled:true,red:0.77975374,green:0.34098715,blue:0.89813334,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:è¿™å¯èƒ½æ˜¯å‡å¥¶(re)+è¿™å¯èƒ½æ˜¯å‡å²©æµ†(re)=çº¢æ˜ŸäºŒé”…å¤´,x:1435,z:-1284,y:207,enabled:true,red:0.15305793,green:0.13203901,blue:0.6346333,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç®­*64+æ²³è±š*64=åèƒƒç®­*64,x:1437,z:-1285,y:206,enabled:true,red:0.08954948,green:0.43000638,blue:0.083456635,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å”±ç‰‡(cat)+é’»çŸ³*64=å«ç¬‘åŠæ­¥ç™«*64,x:1436,z:-1285,y:206,enabled:true,red:0.9404518,green:0.79906684,blue:0.13485312,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:TNT*16=ä¼ªÂ·èºæ—‹å‰‘,x:1428,z:-1283,y:206,enabled:true,red:0.22129315,green:0.22764218,blue:0.68557644,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:0xB=æœºå™¨äººé´,x:1428,z:-1284,y:206,enabled:true,red:0.50115955,green:0.7311725,blue:0.27828628,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:åœ£å…‰ä¹‹ç®­*64+è‹¹æœ*64=åœ£çµè¯*64,x:1426,z:-1285,y:206,enabled:true,red:0.8369381,green:0.3682211,blue:0.21102381,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ä¹¦+é’»çŸ³=é­”æ³•-Tia frarer*4,x:1428,z:-1284,y:202,enabled:true,red:0.14362425,green:0.6563831,blue:0.32620257,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é’»çŸ³*8+TMT*32=ç©ºè¢­æˆ˜æœ¯Â·è½°ç‚¸,x:1428,z:-1285,y:202,enabled:true,red:0.45517838,green:0.7720294,blue:0.23652595,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é’»çŸ³+TNT*4=è¶…Â·ç¥ç½—å¤©å¾,x:1428,z:-1286,y:202,enabled:true,red:0.65850055,green:0.56158876,blue:0.21500093,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç³–*64+é’»çŸ³*16=åœ£å…‰ä¹‹ç®­*16,x:1428,z:-1287,y:202,enabled:true,red:0.44799697,green:0.41866732,blue:0.84639287,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:è…è‚‰*64+é’»çŸ³*16=çœŸå®ä¹‹ç®­Â·é»‘*16,x:1428,z:-1288,y:202,enabled:true,red:0.9086049,green:0.696059,blue:0.7981588,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç®­*64+é’»çŸ³*16=çœŸå®ä¹‹ç®­Â·ç°*16,x:1429,z:-1285,y:202,enabled:true,red:0.77996886,green:0.97029096,blue:0.54402834,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é’»çŸ³å—*32+èƒŒå›è€…ä¹‹å‰‘=åŸåŠ›ä¹‹å¼“,x:1429,z:-1286,y:202,enabled:true,red:0.18618411,green:0.3007204,blue:0.413826,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:åŸåŠ›ä¹‹å¼“+é’»çŸ³å—*64=åŸåŠ›ä¹‹å¼“Â·æ”¹,x:1429,z:-1287,y:202,enabled:true,red:0.08192074,green:0.23329061,blue:0.99619764,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ¨±*2+åœ°*16=å…°å¤åˆ©è¨,x:1410,z:-1299,y:210,enabled:true,red:0.29030383,green:0.33814847,blue:0.62340695,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ°´*8+é£*12=ç¾½å¶,x:1411,z:-1300,y:210,enabled:true,red:0.36052287,green:0.33598942,blue:0.13759965,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç«*6+åœ°*4=ç‘é³¯ æ”¹,x:1410,z:-1301,y:210,enabled:true,red:0.78038365,green:0.50280476,blue:0.026472926,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ¨±*20+ç«*32=æ¢¦æƒ³å¤©ç”Ÿ,x:1409,z:-1300,y:210,enabled:true,red:0.4379422,green:0.10826105,blue:0.66926616,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ä½™çƒ¬çŸ­å¼“*256ï¼ˆä¿®è¿‡ï¼‰=è–‡æ©çš„å®¡åˆ¤åå­—å¼“,x:1409,z:-1354,y:203,enabled:true,red:0.48267776,green:0.30505937,blue:0.6413072,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç§˜æ³•æ˜Ÿåˆº+3ç«*2=èå°¾ç‹®,x:1364,z:-1244,y:142,enabled:true,red:0.8937778,green:0.38226342,blue:0.68629843,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å¬å”¤é™é™,x:1605,z:-1265,y:65,enabled:true,red:0.7901899,green:0.1646173,blue:0.53758204,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ¶é­”é•¿å‰‘*128+è–„åˆƒé“²*128=é™¨çŸ³æ³•æ–,x:1727,z:-1436,y:101,enabled:true,red:0.6920112,green:0.77019376,blue:0.4068426,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ¶é­”é•¿å‰‘*16+åƒµå°¸è£…ç”²*8=æ™•çœ©çªè¢­,x:1727,z:-1438,y:101,enabled:true,red:0.3491403,green:0.9535387,blue:0.16615945,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ½®æ±ç¬¦å’’*10=æ­»ç¥å¥‘çº¦Â·èµ¤,x:1727,z:-1440,y:101,enabled:true,red:0.8070825,green:0.6812028,blue:0.18757915,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ä¸¸æœ¨å¼“*32+åƒµå°¸è£…ç”²*32=é‚ªå¼“-å·´é²è¿ªäºš,x:1732,z:-1439,y:100,enabled:true,red:0.4855929,green:0.058113515,blue:0.57375044,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ä¸¸æœ¨å¼“*64+ç”˜è”—*128ç»„=é»‘æª€æœ¨&ç™½è±¡ç‰™,x:1732,z:-1437,y:100,enabled:true,red:0.15113175,green:0.15623564,blue:0.42764568,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ä¸¸æœ¨å¼“*128+å¼“ç®­å¤§å¸ˆçš„é•¿å¼“*128=å¹»æƒ³å´©å,x:1732,z:-1435,y:100,enabled:true,red:0.61641866,green:0.38859582,blue:0.94916385,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å¼“ç®­å¤§å¸ˆçš„é•¿å¼“*128+ä½™çƒ¬çŸ­å¼“*128=è–‡æ©çš„å®¡åˆ¤åå­—å¼“,x:1803,z:-1489,y:71,enabled:true,red:0.40124774,green:0.07637429,blue:0.8487152,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:1é‡‘*32+èœ‚èœœè‹¹æœç³–*16=ä¹¾å¤ä¸€æ·,x:1806,z:-1489,y:71,enabled:true,red:0.28521043,green:0.17748857,blue:0.39932758,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ä¸‹ç•Œä¹‹æ˜Ÿ+é‡‘å—*32=å¡æ‰çš„è¿½å¿†,x:1801,z:-1489,y:71,enabled:true,red:0.20246273,green:0.6960055,blue:0.77528286,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é’»çŸ³å—*32+TNT*64=1876 LX3,x:1429,z:-1301,y:206,enabled:true,red:0.80195147,green:0.36061096,blue:0.56792516,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å¶æ¨¡å…·+ç”Ÿå‘½ç»“æ™¶=ç¾½å¶,x:1429,z:-1297,y:206,enabled:true,red:0.065236926,green:0.57556623,blue:0.17638451,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç”Ÿå‘½ç»“æ™¶*16+å¶æ¨¡å…·=æœˆç¥(ã‚¢ãƒ«ãƒ†ãƒŸã‚¹)å¼“,x:1429,z:-1295,y:206,enabled:true,red:0.9569021,green:0.9768553,blue:0.2977271,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:(æ»ç•™å†ç”Ÿè¯æ°´II*2)*2=ç”Ÿå‘½ç»“æ™¶,x:1429,z:-1293,y:206,enabled:true,red:0.53820455,green:0.6075759,blue:0.19990623,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç½—é©¬çŸ­å‰‘+1åœ°=å¾æœé•¿å‰‘,x:4617,z:282,y:73,enabled:true,red:0.18096572,green:0.70473635,blue:0.14854342,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å¾æœé•¿å‰‘+3ç«*2=æœ«æ—¥ä½¿è€…,x:4618,z:282,y:73,enabled:true,red:0.5442566,green:0.9316339,blue:0.94965214,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
 name:Home1,x:-2309,z:-4598,y:65,enabled:true,red:0.55889994,green:0.86589783,blue:0.4954301,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÌÇ*64+×êÊ¯*16=Ê¥¹âÖ®¼ı*8,x:293,z:2709,y:72,enabled:true,red:0.6651074,green:0.08153921,blue:0.26948035,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ê¥¹âÖ®¼ı*8+ÌÇ*8=¾øÍûµ»ÑÔ,x:293,z:2710,y:72,enabled:true,red:0.9370291,green:0.7717997,blue:0.57231957,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:2017 Ê¥µ®¶Ò»»,x:173,z:158,y:67,enabled:true,red:0.8913901,green:0.2572441,blue:0.80629027,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğ¶§*64+²£Á§Æ¿*64=¹âÃ÷Ôç²ÍÄÌ*32,x:-1474,z:-552,y:72,enabled:true,red:0.491642,green:0.14020044,blue:0.3958869,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Î×Å®µÄ·¢ÊÎ+5Ó£*64=Î×Å®µÄ·¢ÊÎ¡¤ÖØ·Ä,x:447,z:215,y:81,enabled:true,red:0.4593879,green:0.27304637,blue:0.9514356,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÃùµÄºÍ·şÎèÒÂ+5Ó£*64=ÃùµÄÓ¡»¨ÎèÒÂ,x:-96,z:-241,y:70,enabled:true,red:0.9960306,green:0.6056686,blue:0.39800727,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç³–*64+é’»çŸ³*16=åœ£å…‰ä¹‹ç®­*8,x:293,z:2709,y:72,enabled:true,red:0.6651074,green:0.08153921,blue:0.26948035,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:åœ£å…‰ä¹‹ç®­*8+ç³–*8=ç»æœ›ç¥·è¨€,x:293,z:2710,y:72,enabled:true,red:0.9370291,green:0.7717997,blue:0.57231957,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:2017 åœ£è¯å…‘æ¢,x:173,z:158,y:67,enabled:true,red:0.8913901,green:0.2572441,blue:0.80629027,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘é”­*64+ç»ç’ƒç“¶*64=å…‰æ˜æ—©é¤å¥¶*32,x:-1474,z:-552,y:72,enabled:true,red:0.491642,green:0.14020044,blue:0.3958869,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å·«å¥³çš„å‘é¥°+5æ¨±*64=å·«å¥³çš„å‘é¥°Â·é‡çºº,x:447,z:215,y:81,enabled:true,red:0.4593879,green:0.27304637,blue:0.9514356,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é¸£çš„å’Œæœèˆè¡£+5æ¨±*64=é¸£çš„å°èŠ±èˆè¡£,x:-96,z:-241,y:70,enabled:true,red:0.9960306,green:0.6056686,blue:0.39800727,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
 name:east corner 1,x:1936,z:-207,y:64,enabled:true,red:0.32644665,green:0.09868276,blue:0.02678603,suffix:,world:,dimensions:0#
 name:east corner 4,x:1936,z:754,y:64,enabled:true,red:0.38473207,green:0.7860823,blue:0.34600037,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
 name:east corner 2,x:2704,z:-206,y:64,enabled:true,red:0.7037385,green:0.5166387,blue:0.41690427,suffix:,world:,dimensions:0#
 name:east corner 3,x:2704,z:754,y:75,enabled:true,red:0.4964981,green:0.5903001,blue:0.76399845,suffix:,world:,dimensions:0#
-name:0x0ºÕË¹ÌáÑÇÖ®ÈĞ+·¢ÊÎ=Ó¢ĞÛÔ¸Íû(ÒÑÒÆ³ı£©,x:-1036,z:-1284,y:90,enabled:true,red:0.8501046,green:0.34462094,blue:0.10880518,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¾µË®*64+Ë®*32=¸ßÑ¹Ë®Ç¹,x:1310,z:-3639,y:77,enabled:true,red:0.59153986,green:0.7876689,blue:0.45606935,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:·ç*64+2·ç*64=ĞîÁ¦Çò,x:1728,z:2438,y:162,enabled:true,red:0.4192791,green:0.3911239,blue:0.66318446,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:2·ç*64+ĞÂÒ¶*64=Áñµ¯É¢ÉäÆ÷,x:131,z:2392,y:69,enabled:true,red:0.6641687,green:0.015281975,blue:0.6620199,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:2Ë®*64+¾µË®*64=Íæ¾ßË®Ç¹,x:130,z:2393,y:69,enabled:true,red:0.43791282,green:0.019546092,blue:0.8157666,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÁúÃ¨µÄºÉÒ¶É¡£¨ÄÍ¾ÃX¾­ĞŞX¾£¼¬X£©+5·ç*64=ÁúÃ¨µÄÉñÊ÷Æíµ»,x:2247,z:-1936,y:88,enabled:true,red:0.16217262,green:0.48505938,blue:0.9651334,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğÇÂ£¨Ğ§ÂÊ4ÄÍ¾Ã3£©+¸¯Èâ*64=²ùÑ©Æ÷,x:-466,z:-2404,y:70,enabled:true,red:0.4851799,green:0.23819524,blue:0.9136187,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÑÌ»¨»ğÇòĞŞ¸´µã,x:-14,z:913,y:66,enabled:true,red:0.41862506,green:0.5429511,blue:0.75014764,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:£¨I Scream!+4Ë®*4£©*4+5·ç*64=¥á©`¥ô¥§,x:1810,z:-550,y:217,enabled:true,red:0.19523442,green:0.25374478,blue:0.7594786,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ãùµ¶Ê³Ìú³æ£¨¾­ĞŞXºáÉ¨XÏûÊ§×çÖäI£©+·ç*64=º®±ùÈÚÌú,x:294,z:183,y:64,enabled:true,red:0.43474817,green:0.19878852,blue:0.3866291,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:£¨º®±ùÈÚÌú+5Ó£*4£©*3+Ó£*6=´µÑ©,x:295,z:183,y:64,enabled:true,red:0.007056892,green:0.94605964,blue:0.27523082,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ô¸ÍûÈ¨ÕÈ£¨Ğ§ÂÊXÄÍ¾ÃXÊ±ÔËXÏûÊ§×çÖäI£©+5½ğ*64=È¨ÕÈEX,x:157,z:411,y:52,enabled:true,red:0.6374495,green:0.5718233,blue:0.9240909,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¸É²İ¿é*16+1·ç*1=ÌæÉíµ¾²İÈË,x:-931,z:-1214,y:98,enabled:true,red:0.6287065,green:0.20029873,blue:0.9637726,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:×êÊ¯*64×é+cat*32=º¬Ğ¦°ë²½¹­,x:1435,z:-1285,y:206,enabled:true,red:0.94932264,green:0.19603449,blue:0.7575816,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:£¨I~comma~Scream+ÎíÓê»ğ»¨£©*16+ß÷×¦Òø±Ò*4=ÎíÓê»ğ»¨ÕÀ·Å,x:-4393,z:-1272,y:119,enabled:true,red:0.7550141,green:0.48788023,blue:0.50806177,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:0x4+StartDash=Õæ¼§µÄ°Á½¿ÊôĞÔ,x:-18,z:950,y:77,enabled:true,red:0.49526918,green:0.5131048,blue:0.13317305,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:³İÓ£·ç»¤£¨+Ò»¶Ñ¸½Ä§£©+Õæ¼§µÄ°Á½¿ÊôĞÔ*16=³à¥ÎŠª,x:858,z:2775,y:70,enabled:true,red:0.08758116,green:0.4441223,blue:0.9962475,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:µ­À¶É«´øÓÔÌÕÍß*64+ğ¤ÍÁ¿é*64=ÌÕ´ÉÖØ¶Ü,x:29,z:2574,y:69,enabled:true,red:0.446603,green:0.5773425,blue:0.8649795,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:0x0ºÕË¹ÌáÑÇÖ®ÈĞ+·¢ÊÎ=Ó¢ĞÛÔ¸Íû,x:545,z:2437,y:76,enabled:true,red:0.68381625,green:0.3161254,blue:0.43598717,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:£¨ĞÂÒ¶+ÁÒ»ğ+¾µË®+Âú¿ª£©*64*2=ÙF·½¤ËÎ¢Ğ¦¤à,x:-3,z:238,y:95,enabled:true,red:0.69835186,green:0.46068478,blue:0.8148036,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÁÒÑæÄ§Å®³¤½£+ÁÒÑæÄ§Å®µÄ»¤Éí¶Ìµ¶=Ä§Å®µÄ½£Ğ¾,x:2169,z:-1960,y:102,enabled:true,red:0.44406247,green:0.10254258,blue:0.7985,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÎüÑª¹íÖ®³¾*16+Ä§Å®µÄ½£Ğ¾*8=Ä§Å®Ö®ĞÄ,x:2170,z:-1959,y:102,enabled:true,red:0.1673398,green:0.8080601,blue:0.65430045,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ä§Å®Ö®ĞÄ*4+Ä§Å®µÄ½£Ğ¾*8=¥µ¥Æ¥é¤Î„‡,x:2169,z:-1959,y:102,enabled:true,red:0.9915077,green:0.40903318,blue:0.3155257,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÎüÑª¹íÖ®½£+ÎüÑª¹í»¯=ÎüÑª¹íÖ®³¾,x:-3968,z:15,y:71,enabled:true,red:0.77057725,green:0.812059,blue:0.4232449,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ä§Å®Ö®ĞÄ+½şÈóµÄ»¨°ê*16=Ì«Ñô»¨Ö®¶Ü,x:-1074,z:-1253,y:88,enabled:true,red:0.09270495,green:0.6377122,blue:0.046426773,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:£¨ÈŞÇò´Ğ*64+ÁÒ»ğ*2£©*64+ÊéÓë±Ê=Ë¼Äî±à×ºµÄĞÅ¼ş,x:-2664,z:436,y:79,enabled:true,red:0.22372389,green:0.9425367,blue:0.65489537,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ë¼Äî±à×ºµÄĞÅ¼ş*16+Ó£*48=¥Ö¥í©`¥Á,x:-2665,z:437,y:79,enabled:true,red:0.10908663,green:0.9858386,blue:0.7870959,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:I scream+ÏòÈÕ¿û=½şÈóµÄ»¨°ê,x:-1687,z:-3628,y:80,enabled:true,red:0.207986,green:0.40201664,blue:0.80255914,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¸ß¼¶·û¿¨+ß÷×¦Òø±Ò=´Î¼¶·û¿¨*8,x:326,z:-2405,y:64,enabled:true,red:0.20566523,green:0.6215843,blue:0.50968844,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:·ç+ß÷×¦Òø±Ò=Ç¿»¯Ä§Ê¯ËéÆ¬*2,x:326,z:-2406,y:64,enabled:true,red:0.8142493,green:0.7211825,blue:0.7998322,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:·ç*16+Ç¿»¯Ä§Ê¯=AAM*64,x:238,z:-2410,y:84,enabled:true,red:0.52608496,green:0.26661462,blue:0.28888345,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:»ğ*16+Ç¿»¯Ä§Ê¯=RPG-7*64,x:237,z:-2410,y:84,enabled:true,red:0.60314256,green:0.845703,blue:0.45020157,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ë®*32+Ç¿»¯Ä§Ê¯*32=ÇáĞÍÎ¢³å,x:237,z:-2411,y:84,enabled:true,red:0.004726231,green:0.9985962,blue:0.44984955,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:»ğ*48+Ç¿»¯Ä§Ê¯*32=±¬ÁÑÎ¢³å,x:236,z:-2411,y:84,enabled:true,red:0.47784036,green:0.67083097,blue:0.54490685,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğ*64+Ç¿»¯Ä§Ê¯*32=M249,x:236,z:-2410,y:84,enabled:true,red:0.6392816,green:0.47869718,blue:0.8545495,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ó£*64+Ç¿»¯Ä§Ê¯*64=NG-7,x:235,z:-2410,y:84,enabled:true,red:0.45294994,green:0.6605272,blue:0.3146394,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:µØ*64+Ç¿»¯Ä§Ê¯*32=SCAR20,x:235,z:-2411,y:84,enabled:true,red:0.6525792,green:0.5010515,blue:0.3004588,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÇàÄñÓğÒí+ß÷×¦Òø±Ò*2=Éı¼¶,x:-2308,z:-2428,y:148,enabled:true,red:0.98682296,green:0.85476923,blue:0.14658636,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÖÕ¼«Ğä½£*ß÷×¦Òø±Ò*12=Éı¼¶,x:-2576,z:457,y:101,enabled:true,red:0.40571177,green:0.19056618,blue:0.49762005,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ä§Å®Ö®ĞÄ+ß÷×¦Òø±Ò=È¥ÏûÊ§×çÖä,x:-2662,z:475,y:74,enabled:true,red:0.32332718,green:0.7640343,blue:0.53037864,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ëé¾§+ß÷×¦Òø±Ò=´Î¼¶Ëé¾§*4£¬ĞÂÒ¶+ß÷×¦Òø±Ò=Ç¿»¯Ä§Ê¯ËéÆ¬*2,x:203,z:2833,y:83,enabled:true,red:0.09090543,green:0.45995885,blue:0.5495335,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ì«Ñô»¨Ö®¶Ü+ß÷×¦Òø±Ò*6=È¥ÏûÊ§×çÖä,x:204,z:2832,y:83,enabled:true,red:0.26340652,green:0.43287903,blue:0.16683692,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¸ß¼¶·çË®¾§+ß÷×¦Òø±Ò=´Î¼¶·çË®¾§*2,x:2445,z:349,y:81,enabled:true,red:0.3711934,green:0.06149131,blue:0.3690387,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:1·ç+ß÷×¦Òø±Ò=Ç¿»¯Ä§Ê¯ËéÆ¬,x:2446,z:349,y:81,enabled:true,red:0.81302387,green:0.6465334,blue:0.5196785,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:£¨ÃÔÄã°ËØÔÂ¯+1»ğ*32£©*8+·ç*64=ÎíÓê»ğ»¨³õÁµ,x:-4395,z:-1272,y:119,enabled:true,red:0.26930016,green:0.600888,blue:0.637476,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:0x0èµ«æ–¯æäºšä¹‹åˆƒ+å‘é¥°=è‹±é›„æ„¿æœ›(å·²ç§»é™¤ï¼‰,x:-1036,z:-1284,y:90,enabled:true,red:0.8501046,green:0.34462094,blue:0.10880518,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é•œæ°´*64+æ°´*32=é«˜å‹æ°´æª,x:1310,z:-3639,y:77,enabled:true,red:0.59153986,green:0.7876689,blue:0.45606935,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é£*64+2é£*64=è“„åŠ›çƒ,x:1728,z:2438,y:162,enabled:true,red:0.4192791,green:0.3911239,blue:0.66318446,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:2é£*64+æ–°å¶*64=æ¦´å¼¹æ•£å°„å™¨,x:131,z:2392,y:69,enabled:true,red:0.6641687,green:0.015281975,blue:0.6620199,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:2æ°´*64+é•œæ°´*64=ç©å…·æ°´æª,x:130,z:2393,y:69,enabled:true,red:0.43791282,green:0.019546092,blue:0.8157666,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é¾™çŒ«çš„è·å¶ä¼ï¼ˆè€ä¹…Xç»ä¿®Xè†æ£˜Xï¼‰+5é£*64=é¾™çŒ«çš„ç¥æ ‘ç¥ˆç¥·,x:2247,z:-1936,y:88,enabled:true,red:0.16217262,green:0.48505938,blue:0.9651334,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘é”¹ï¼ˆæ•ˆç‡4è€ä¹…3ï¼‰+è…è‚‰*64=é“²é›ªå™¨,x:-466,z:-2404,y:70,enabled:true,red:0.4851799,green:0.23819524,blue:0.9136187,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:çƒŸèŠ±ç«çƒä¿®å¤ç‚¹,x:-14,z:913,y:66,enabled:true,red:0.41862506,green:0.5429511,blue:0.75014764,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ï¼ˆI Scream!+4æ°´*4ï¼‰*4+5é£*64=ãƒ¡ãƒ¼ãƒ´ã‚§,x:1810,z:-550,y:217,enabled:true,red:0.19523442,green:0.25374478,blue:0.7594786,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é¸£åˆ€é£Ÿé“è™«ï¼ˆç»ä¿®Xæ¨ªæ‰«Xæ¶ˆå¤±è¯…å’’Iï¼‰+é£*64=å¯’å†°èé“,x:294,z:183,y:64,enabled:true,red:0.43474817,green:0.19878852,blue:0.3866291,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ï¼ˆå¯’å†°èé“+5æ¨±*4ï¼‰*3+æ¨±*6=å¹é›ª,x:295,z:183,y:64,enabled:true,red:0.007056892,green:0.94605964,blue:0.27523082,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ„¿æœ›æƒæ–ï¼ˆæ•ˆç‡Xè€ä¹…Xæ—¶è¿Xæ¶ˆå¤±è¯…å’’Iï¼‰+5é‡‘*64=æƒæ–EX,x:157,z:411,y:52,enabled:true,red:0.6374495,green:0.5718233,blue:0.9240909,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å¹²è‰å—*16+1é£*1=æ›¿èº«ç¨»è‰äºº,x:-931,z:-1214,y:98,enabled:true,red:0.6287065,green:0.20029873,blue:0.9637726,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é’»çŸ³*64ç»„+cat*32=å«ç¬‘åŠæ­¥å¼“,x:1435,z:-1285,y:206,enabled:true,red:0.94932264,green:0.19603449,blue:0.7575816,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ï¼ˆI~comma~Scream+é›¾é›¨ç«èŠ±ï¼‰*16+å–µçˆªé“¶å¸*4=é›¾é›¨ç«èŠ±ç»½æ”¾,x:-4393,z:-1272,y:119,enabled:true,red:0.7550141,green:0.48788023,blue:0.50806177,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:0x4+StartDash=çœŸå§¬çš„å‚²å¨‡å±æ€§,x:-18,z:950,y:77,enabled:true,red:0.49526918,green:0.5131048,blue:0.13317305,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é½¿æ¨±é£æŠ¤ï¼ˆ+ä¸€å †é™„é­”ï¼‰+çœŸå§¬çš„å‚²å¨‡å±æ€§*16=èµ¤ãƒå§«,x:858,z:2775,y:70,enabled:true,red:0.08758116,green:0.4441223,blue:0.9962475,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ·¡è“è‰²å¸¦é‡‰é™¶ç“¦*64+é»åœŸå—*64=é™¶ç“·é‡ç›¾,x:29,z:2574,y:69,enabled:true,red:0.446603,green:0.5773425,blue:0.8649795,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:0x0èµ«æ–¯æäºšä¹‹åˆƒ+å‘é¥°=è‹±é›„æ„¿æœ›,x:545,z:2437,y:76,enabled:true,red:0.68381625,green:0.3161254,blue:0.43598717,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ï¼ˆæ–°å¶+çƒˆç«+é•œæ°´+æ»¡å¼€ï¼‰*64*2=è²´æ–¹ã«å¾®ç¬‘ã‚€,x:-3,z:238,y:95,enabled:true,red:0.69835186,green:0.46068478,blue:0.8148036,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:çƒˆç„°é­”å¥³é•¿å‰‘+çƒˆç„°é­”å¥³çš„æŠ¤èº«çŸ­åˆ€=é­”å¥³çš„å‰‘èŠ¯,x:2169,z:-1960,y:102,enabled:true,red:0.44406247,green:0.10254258,blue:0.7985,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å¸è¡€é¬¼ä¹‹å°˜*16+é­”å¥³çš„å‰‘èŠ¯*8=é­”å¥³ä¹‹å¿ƒ,x:2170,z:-1959,y:102,enabled:true,red:0.1673398,green:0.8080601,blue:0.65430045,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é­”å¥³ä¹‹å¿ƒ*4+é­”å¥³çš„å‰‘èŠ¯*8=ã‚µãƒ†ãƒ©ã®å‰£,x:2169,z:-1959,y:102,enabled:true,red:0.9915077,green:0.40903318,blue:0.3155257,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å¸è¡€é¬¼ä¹‹å‰‘+å¸è¡€é¬¼åŒ–=å¸è¡€é¬¼ä¹‹å°˜,x:-3968,z:15,y:71,enabled:true,red:0.77057725,green:0.812059,blue:0.4232449,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é­”å¥³ä¹‹å¿ƒ+æµ¸æ¶¦çš„èŠ±ç“£*16=å¤ªé˜³èŠ±ä¹‹ç›¾,x:-1074,z:-1253,y:88,enabled:true,red:0.09270495,green:0.6377122,blue:0.046426773,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ï¼ˆç»’çƒè‘±*64+çƒˆç«*2ï¼‰*64+ä¹¦ä¸ç¬”=æ€å¿µç¼–ç¼€çš„ä¿¡ä»¶,x:-2664,z:436,y:79,enabled:true,red:0.22372389,green:0.9425367,blue:0.65489537,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ€å¿µç¼–ç¼€çš„ä¿¡ä»¶*16+æ¨±*48=ãƒ–ãƒ­ãƒ¼ãƒ,x:-2665,z:437,y:79,enabled:true,red:0.10908663,green:0.9858386,blue:0.7870959,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:I scream+å‘æ—¥è‘µ=æµ¸æ¶¦çš„èŠ±ç“£,x:-1687,z:-3628,y:80,enabled:true,red:0.207986,green:0.40201664,blue:0.80255914,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é«˜çº§ç¬¦å¡+å–µçˆªé“¶å¸=æ¬¡çº§ç¬¦å¡*8,x:326,z:-2405,y:64,enabled:true,red:0.20566523,green:0.6215843,blue:0.50968844,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é£+å–µçˆªé“¶å¸=å¼ºåŒ–é­”çŸ³ç¢ç‰‡*2,x:326,z:-2406,y:64,enabled:true,red:0.8142493,green:0.7211825,blue:0.7998322,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é£*16+å¼ºåŒ–é­”çŸ³=AAM*64,x:238,z:-2410,y:84,enabled:true,red:0.52608496,green:0.26661462,blue:0.28888345,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç«*16+å¼ºåŒ–é­”çŸ³=RPG-7*64,x:237,z:-2410,y:84,enabled:true,red:0.60314256,green:0.845703,blue:0.45020157,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ°´*32+å¼ºåŒ–é­”çŸ³*32=è½»å‹å¾®å†²,x:237,z:-2411,y:84,enabled:true,red:0.004726231,green:0.9985962,blue:0.44984955,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç«*48+å¼ºåŒ–é­”çŸ³*32=çˆ†è£‚å¾®å†²,x:236,z:-2411,y:84,enabled:true,red:0.47784036,green:0.67083097,blue:0.54490685,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘*64+å¼ºåŒ–é­”çŸ³*32=M249,x:236,z:-2410,y:84,enabled:true,red:0.6392816,green:0.47869718,blue:0.8545495,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ¨±*64+å¼ºåŒ–é­”çŸ³*64=NG-7,x:235,z:-2410,y:84,enabled:true,red:0.45294994,green:0.6605272,blue:0.3146394,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:åœ°*64+å¼ºåŒ–é­”çŸ³*32=SCAR20,x:235,z:-2411,y:84,enabled:true,red:0.6525792,green:0.5010515,blue:0.3004588,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é’é¸Ÿç¾½ç¿¼+å–µçˆªé“¶å¸*2=å‡çº§,x:-2308,z:-2428,y:148,enabled:true,red:0.98682296,green:0.85476923,blue:0.14658636,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç»ˆæè¢–å‰‘*å–µçˆªé“¶å¸*12=å‡çº§,x:-2576,z:457,y:101,enabled:true,red:0.40571177,green:0.19056618,blue:0.49762005,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é­”å¥³ä¹‹å¿ƒ+å–µçˆªé“¶å¸=å»æ¶ˆå¤±è¯…å’’,x:-2662,z:475,y:74,enabled:true,red:0.32332718,green:0.7640343,blue:0.53037864,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç¢æ™¶+å–µçˆªé“¶å¸=æ¬¡çº§ç¢æ™¶*4ï¼Œæ–°å¶+å–µçˆªé“¶å¸=å¼ºåŒ–é­”çŸ³ç¢ç‰‡*2,x:203,z:2833,y:83,enabled:true,red:0.09090543,green:0.45995885,blue:0.5495335,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å¤ªé˜³èŠ±ä¹‹ç›¾+å–µçˆªé“¶å¸*6=å»æ¶ˆå¤±è¯…å’’,x:204,z:2832,y:83,enabled:true,red:0.26340652,green:0.43287903,blue:0.16683692,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é«˜çº§é£æ°´æ™¶+å–µçˆªé“¶å¸=æ¬¡çº§é£æ°´æ™¶*2,x:2445,z:349,y:81,enabled:true,red:0.3711934,green:0.06149131,blue:0.3690387,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:1é£+å–µçˆªé“¶å¸=å¼ºåŒ–é­”çŸ³ç¢ç‰‡,x:2446,z:349,y:81,enabled:true,red:0.81302387,green:0.6465334,blue:0.5196785,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ï¼ˆè¿·ä½ å…«å¦ç‚‰+1ç«*32ï¼‰*8+é£*64=é›¾é›¨ç«èŠ±åˆæ‹,x:-4395,z:-1272,y:119,enabled:true,red:0.26930016,green:0.600888,blue:0.637476,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
 name:epic spawn,x:-17,z:-2,y:71,enabled:true,red:0.4929955,green:0.56074196,blue:0.8437233,suffix:,world:28add276-0dba-4e02-88b8-3877b9ff870e,dimensions:0#
-name:»ğÒ©*128=Ñ¹Ëõ»ğÒ©£¬Ñ¹Ëõ»ğÒ©*2=Ñæ»ğÀ¦°ó°üv1,x:2323,z:412,y:116,enabled:true,red:0.5525291,green:0.06839687,blue:0.45251238,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:·ç+»ğ=¹âÁéÖÖ×Ó,x:2272,z:80,y:131,enabled:true,red:0.67567855,green:0.44307107,blue:0.20075798,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¹âÁéÖÖ×Ó*8+Ó©Ê¯·Û*64=¹âÁé½£,x:2273,z:81,y:131,enabled:true,red:0.34649616,green:0.39085156,blue:0.22698885,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¹âÁéÖÖ×Ó*12+Ó©Ê¯·Û*64=¹âÁéÅçÉä,x:2274,z:80,y:131,enabled:true,red:0.46827912,green:0.32641453,blue:0.97080886,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¹âÁéÖÖ×Ó*16+Ó©Ê¯·Û*64=¹âÁéÈ¨ÕÈ,x:2273,z:79,y:131,enabled:true,red:0.6016641,green:0.24064112,blue:0.1880185,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ëé¾§=»Ø³Ç¾íÖá¶«,x:2279,z:131,y:130,enabled:true,red:0.7719459,green:0.82875925,blue:0.32423246,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¿ø¼×¼Ü*16+×ÏËÌ»¨*16=Íæ¾ßÈËÅ¼ÕÙ»½¾íÖá,x:2333,z:446,y:64,enabled:true,red:0.89402944,green:0.14418519,blue:0.25376427,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ºÓëà*64+ÓğÃ«*64=Å»ÍÂÔÆÉú³ÉÆ÷,x:2333,z:447,y:64,enabled:true,red:0.58642864,green:0.063163996,blue:0.8524917,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Õ³Òº¿é*64+ÖÍÁôĞÍË²¼äÉËº¦II=Õ³Òº°å×©,x:2334,z:447,y:64,enabled:true,red:0.6880779,green:0.557851,blue:0.9564992,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:·ç*64+¾µË®*64=ë´½ğ·¨ÕÈ,x:2334,z:446,y:64,enabled:true,red:0.7824954,green:0.7971533,blue:0.89896685,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¶ñ»êÖ®Àá*64+ÍÃ×Ó½Å*64=³äÂú¶ñÒâµÄ×£¸£Ö®¹­,x:2333,z:445,y:64,enabled:true,red:0.9689761,green:0.583247,blue:0.7749904,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÏÂ½çÖ®ĞÇ+Ìú½£=Í·Â­±¦Ê¯,x:2257,z:532,y:85,enabled:true,red:0.54496133,green:0.08080208,blue:0.8750965,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¾µË®*32+ÁÒ»ğ*32=ÁÓÖÊµÄÄ§·¨½£,x:2245,z:572,y:93,enabled:true,red:0.68073857,green:0.5720527,blue:0.8550865,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğÆ»¹û*64=Ê§ÂäµÄÒÅÊé,x:2404,z:62,y:138,enabled:true,red:0.002610147,green:0.9809669,blue:0.35613114,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:18´º½Ú¶Ò»»,x:156,z:193,y:67,enabled:true,red:0.76287675,green:0.8155834,blue:0.97072303,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Æó¶ìµÄÇ±Ë®Æ÷<==>Æó¶ìµÄÇ±Ë®Í·¿ø,x:303,z:-2663,y:63,enabled:true,red:0.44667405,green:0.80732226,blue:0.85259944,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:»Æ½ğÎäÊ¿µÄÑÛÀá*64=ÎäÊ¿µÄ½£»ê,x:2245,z:334,y:89,enabled:true,red:0.16782641,green:0.47423476,blue:0.13698196,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:£¨ÓğÃ«*128£©*2+Ìú¿é*32=ÊÖÑY½£*64,x:191,z:2562,y:69,enabled:true,red:0.13338959,green:0.9307672,blue:0.97106034,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ô­×ÓÁ¬åó£¨·æÀûX°ó¶¨XÇÀ¶áX£©+»Æ½ğÎäÊ¿Åå½£=Ô­×ÓÁ¬åóEX,x:320,z:-2410,y:69,enabled:true,red:0.10337329,green:0.5597818,blue:0.81586194,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ææ¹ÖµÄºĞ×Ó¶Ò»»È¯+·ç*32=Ææ¹ÖµÄºĞ×Ó£¨È«ÆßÖÖ£©,x:2279,z:128,y:130,enabled:true,red:0.09149027,green:0.78704643,blue:0.9002678,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÄÏ¹ÏÅÉ*64+¿¾ÍÁ¶¹*64=ÍÁ¶¹ÅÉ,x:2362,z:472,y:80,enabled:true,red:0.7949064,green:0.17244762,blue:0.93617713,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ãæ°ü*64+ÀäÄıÑ¹Ëõ·Û=Ñ¹ËõÃæ°ü,x:431,z:331,y:70,enabled:true,red:0.8153858,green:0.59614664,blue:0.76038414,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÖíÅÅ*64+ÀäÄıÑ¹Ëõ·Û=Ñ¹ËõÖíÅÅ,x:289,z:2492,y:68,enabled:true,red:0.530452,green:0.48384953,blue:0.22127616,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Å£ÅÅ*64+ÊìÑòÈâ*64=¼Ó¹¤Èâ,x:-2546,z:-3855,y:71,enabled:true,red:0.68676704,green:0.50954914,blue:0.2724945,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÊìÓã*64+ÊìöÙÓã*64=Ñ¹ËõÓã¹ŞÍ·,x:-2856,z:224,y:63,enabled:true,red:0.8794046,green:0.8600956,blue:0.28949964,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ºúÂÜ²·*64+Ìğ²Ë¸ù*64=Êß²ËÖ­,x:822,z:-3996,y:67,enabled:true,red:0.99823195,green:0.2403506,blue:0.7481036,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Æ»¹û*64+Î÷¹Ï*64=Ë®¹ûÖ­,x:-3702,z:-357,y:63,enabled:true,red:0.322245,green:0.26424044,blue:0.49090546,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ò»¶ÑÂÒÆß°ËÔãµÄ+ÂÌ±¦Ê¯=ÃÀÎ¶¾«»ª,x:322,z:-2399,y:64,enabled:true,red:0.20525742,green:0.88777155,blue:0.35031515,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ß÷×¦Òø±Ò+ºìÊ¯¿é*64=ÖÕÄ©Ö®¾ŞÅÚ,x:2288,z:567,y:168,enabled:true,red:0.5820665,green:0.032628775,blue:0.91493535,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÇáĞÍ¶Ò»»¿¨=ÀäÄıÑ¹Ëõ·Û*8,x:2337,z:51,y:156,enabled:true,red:0.3595853,green:0.21539015,blue:0.49549335,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÃÀÎ¶¾«»ª+ÃÀÎ¶¾«»ª=³¬´ÎÔªÄÜÁ¿¹Ş¶Ò»»È¯,x:2336,z:52,y:156,enabled:true,red:0.492033,green:0.611123,blue:0.32884043,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¶Ò»»È¯=³¬´ÎÔªÄÜÁ¿¹Ş,x:2279,z:125,y:130,enabled:true,red:0.36512226,green:0.40510494,blue:0.19534534,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:×êÊ¯*10=mmp,x:472,z:291,y:70,enabled:true,red:0.7708951,green:0.20743042,blue:0.019286394,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÌÕ´ÉÖØ¶Ü+290345¾­Ñé+ÉÁ»÷¾íÖá=ÉÁ»÷Ö®ÈĞ,x:2337,z:54,y:156,enabled:true,red:0.88646173,green:0.5601619,blue:0.056322634,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:ÒøÎÆ¼ı*64+ANiMA+Êé¼Ü*64=ÉÁ»÷¾íÖá,x:2279,z:122,y:130,enabled:true,red:0.36156112,green:0.3680867,blue:0.61196893,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:2018ÀÍ¶¯½Ú¶Ò»»,x:294,z:154,y:64,enabled:true,red:0.64751,green:0.4989786,blue:0.063748,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¸ß¼¶Ó£Ë®¾§+Òø±Ò=´Î¼¶*2~comma~1·ç+Òø±Ò=Ç¿»¯Ä§Ê¯ËéÆ¬*2,x:32,z:318,y:73,enabled:true,red:0.025443196,green:0.36525786,blue:0.039594352,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:½ğÆ»¹û*4+Å£ÄÌ=¹âÃ÷Ôç²ÍÄÌv2½¡¿µÉı¼¶*4,x:-1473,z:-552,y:72,enabled:true,red:0.5454771,green:0.6298683,blue:0.37426847,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ëé¾§Éı¼¶1,x:2348,z:607,y:76,enabled:true,red:0.6638882,green:0.3874387,blue:0.4139923,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ëé¾§Éı¼¶2,x:2366,z:607,y:76,enabled:true,red:0.17887992,green:0.87852216,blue:0.4609707,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:²£Á§Æ¿+Ë²¼äÖÎÁÆIIÒ©¼ı*64=½ªÖ­ÊÕ¼¯Æ÷,x:2102,z:626,y:67,enabled:true,red:0.61127174,green:0.34514904,blue:0.06081468,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ë®Æ¿+¾µË®*6=´óÑªÆ¿,x:2267,z:598,y:82,enabled:true,red:0.4855554,green:0.77167815,blue:0.64016205,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ñ©¿é*128=AA-1×¨ÓÃµ¯Ò©*64,x:367,z:52,y:66,enabled:true,red:0.17163342,green:0.85678786,blue:0.50111616,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ñô¹â´«¸ĞÆ÷*4+Ä©µØÖò*8=¶¯Á¦È¼ÁÏ*64,x:2291,z:121,y:137,enabled:true,red:0.44556147,green:0.08872783,blue:0.5298697,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:»Ò»¯ÍÁ*8+Ğ¡³óÓã*4=ÍÃ×ÓÆ¤*12+¸½Ä§Ì¨*8=¶¯Á¦È¼ÁÏ*64,x:2290,z:121,y:137,enabled:true,red:0.26474226,green:0.21565169,blue:0.28608578,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¶¯Á¦È¼ÁÏ*64+ ÌøÔ¾Ö®¼ı1*16/º£Ãà*4 =Ñ¹ËõÈ¼ÁÏ,x:2289,z:121,y:137,enabled:true,red:0.7055938,green:0.49024534,blue:0.24375284,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ñ¹ËõÈ¼ÁÏ*14+¿İËÀµÄ¹àÄ¾*4=ÖØĞÍ½ºÄÒ¶Ò»»¿¨,x:2288,z:121,y:137,enabled:true,red:0.31005114,green:0.5626977,blue:0.8661586,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ñ¹ËõÈ¼ÁÏ*9+»ğÑæµ¯*6=ÖØĞÍÈ¾ÁÏ¶Ò»»¿¨,x:2287,z:121,y:137,enabled:true,red:0.22319156,green:0.46605223,blue:0.30842453,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:³ÈÉ«´²+½ğºÏ»¶ÏğÄ¾ÃÅ=Ä¢¹½*4,x:2286,z:121,y:137,enabled:true,red:0.3549056,green:0.39050263,blue:0.48282582,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:³à³Ç¸Ä+ÈğøL¸Ä£¨¾ù¸½Ä§£©=ÒÆ¶¯¼¶´óºÍ½¢ÅÚ,x:2350,z:46,y:164,enabled:true,red:0.4728139,green:0.10110223,blue:0.022100866,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:¸É²İ¿é*64+»ğÒ©*64=´óºÍ¸ßËÙµ¯Ò©Ïä,x:2349,z:46,y:164,enabled:true,red:0.5107798,green:0.88391787,blue:0.3258999,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:»Ö¸´·ûÖä*16+5·ç*64=°Ë¶¡˜Ë,x:442,z:204,y:81,enabled:true,red:0.13578403,green:0.58774686,blue:0.062796354,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
-name:Ãùµ¶¡¤Ê³Ìú³æ+Ç¿»¯Ä§Ê¯=ÈÕÏòÇ§´ú£¬ÈÕÏòÇ§´ú+ß÷×¦Òø±Ò=È¥ÏûÊ§×çÖä,x:-2423,z:3203,y:102,enabled:true,red:0.23909724,green:0.034898162,blue:0.2425862,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç«è¯*128=å‹ç¼©ç«è¯ï¼Œå‹ç¼©ç«è¯*2=ç„°ç«æ†ç»‘åŒ…v1,x:2323,z:412,y:116,enabled:true,red:0.5525291,green:0.06839687,blue:0.45251238,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é£+ç«=å…‰çµç§å­,x:2272,z:80,y:131,enabled:true,red:0.67567855,green:0.44307107,blue:0.20075798,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å…‰çµç§å­*8+è¤çŸ³ç²‰*64=å…‰çµå‰‘,x:2273,z:81,y:131,enabled:true,red:0.34649616,green:0.39085156,blue:0.22698885,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å…‰çµç§å­*12+è¤çŸ³ç²‰*64=å…‰çµå–·å°„,x:2274,z:80,y:131,enabled:true,red:0.46827912,green:0.32641453,blue:0.97080886,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å…‰çµç§å­*16+è¤çŸ³ç²‰*64=å…‰çµæƒæ–,x:2273,z:79,y:131,enabled:true,red:0.6016641,green:0.24064112,blue:0.1880185,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç¢æ™¶=å›åŸå·è½´ä¸œ,x:2279,z:131,y:130,enabled:true,red:0.7719459,green:0.82875925,blue:0.32423246,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç›”ç”²æ¶*16+ç´«é¢‚èŠ±*16=ç©å…·äººå¶å¬å”¤å·è½´,x:2333,z:446,y:64,enabled:true,red:0.89402944,green:0.14418519,blue:0.25376427,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ²³è±š*64+ç¾½æ¯›*64=å‘•åäº‘ç”Ÿæˆå™¨,x:2333,z:447,y:64,enabled:true,red:0.58642864,green:0.063163996,blue:0.8524917,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç²˜æ¶²å—*64+æ»ç•™å‹ç¬é—´ä¼¤å®³II=ç²˜æ¶²æ¿ç –,x:2334,z:447,y:64,enabled:true,red:0.6880779,green:0.557851,blue:0.9564992,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é£*64+é•œæ°´*64=æ°ªé‡‘æ³•æ–,x:2334,z:446,y:64,enabled:true,red:0.7824954,green:0.7971533,blue:0.89896685,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ¶é­‚ä¹‹æ³ª*64+å…”å­è„š*64=å……æ»¡æ¶æ„çš„ç¥ç¦ä¹‹å¼“,x:2333,z:445,y:64,enabled:true,red:0.9689761,green:0.583247,blue:0.7749904,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ä¸‹ç•Œä¹‹æ˜Ÿ+é“å‰‘=å¤´é¢…å®çŸ³,x:2257,z:532,y:85,enabled:true,red:0.54496133,green:0.08080208,blue:0.8750965,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é•œæ°´*32+çƒˆç«*32=åŠ£è´¨çš„é­”æ³•å‰‘,x:2245,z:572,y:93,enabled:true,red:0.68073857,green:0.5720527,blue:0.8550865,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘è‹¹æœ*64=å¤±è½çš„é—ä¹¦,x:2404,z:62,y:138,enabled:true,red:0.002610147,green:0.9809669,blue:0.35613114,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:18æ˜¥èŠ‚å…‘æ¢,x:156,z:193,y:67,enabled:true,red:0.76287675,green:0.8155834,blue:0.97072303,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ä¼é¹…çš„æ½œæ°´å™¨<==>ä¼é¹…çš„æ½œæ°´å¤´ç›”,x:303,z:-2663,y:63,enabled:true,red:0.44667405,green:0.80732226,blue:0.85259944,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é»„é‡‘æ­¦å£«çš„çœ¼æ³ª*64=æ­¦å£«çš„å‰‘é­‚,x:2245,z:334,y:89,enabled:true,red:0.16782641,green:0.47423476,blue:0.13698196,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ï¼ˆç¾½æ¯›*128ï¼‰*2+é“å—*32=æ‰‹è£å‰‘*64,x:191,z:2562,y:69,enabled:true,red:0.13338959,green:0.9307672,blue:0.97106034,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:åŸå­è¿å¼©ï¼ˆé”‹åˆ©Xç»‘å®šXæŠ¢å¤ºXï¼‰+é»„é‡‘æ­¦å£«ä½©å‰‘=åŸå­è¿å¼©EX,x:320,z:-2410,y:69,enabled:true,red:0.10337329,green:0.5597818,blue:0.81586194,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å¥‡æ€ªçš„ç›’å­å…‘æ¢åˆ¸+é£*32=å¥‡æ€ªçš„ç›’å­ï¼ˆå…¨ä¸ƒç§ï¼‰,x:2279,z:128,y:130,enabled:true,red:0.09149027,green:0.78704643,blue:0.9002678,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å—ç“œæ´¾*64+çƒ¤åœŸè±†*64=åœŸè±†æ´¾,x:2362,z:472,y:80,enabled:true,red:0.7949064,green:0.17244762,blue:0.93617713,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é¢åŒ…*64+å†·å‡å‹ç¼©ç²‰=å‹ç¼©é¢åŒ…,x:431,z:331,y:70,enabled:true,red:0.8153858,green:0.59614664,blue:0.76038414,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:çŒªæ’*64+å†·å‡å‹ç¼©ç²‰=å‹ç¼©çŒªæ’,x:289,z:2492,y:68,enabled:true,red:0.530452,green:0.48384953,blue:0.22127616,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç‰›æ’*64+ç†Ÿç¾Šè‚‰*64=åŠ å·¥è‚‰,x:-2546,z:-3855,y:71,enabled:true,red:0.68676704,green:0.50954914,blue:0.2724945,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç†Ÿé±¼*64+ç†Ÿé²‘é±¼*64=å‹ç¼©é±¼ç½å¤´,x:-2856,z:224,y:63,enabled:true,red:0.8794046,green:0.8600956,blue:0.28949964,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:èƒ¡èåœ*64+ç”œèœæ ¹*64=è”¬èœæ±,x:822,z:-3996,y:67,enabled:true,red:0.99823195,green:0.2403506,blue:0.7481036,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:è‹¹æœ*64+è¥¿ç“œ*64=æ°´æœæ±,x:-3702,z:-357,y:63,enabled:true,red:0.322245,green:0.26424044,blue:0.49090546,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ä¸€å †ä¹±ä¸ƒå…«ç³Ÿçš„+ç»¿å®çŸ³=ç¾å‘³ç²¾å,x:322,z:-2399,y:64,enabled:true,red:0.20525742,green:0.88777155,blue:0.35031515,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å–µçˆªé“¶å¸+çº¢çŸ³å—*64=ç»ˆæœ«ä¹‹å·¨ç‚®,x:2288,z:567,y:168,enabled:true,red:0.5820665,green:0.032628775,blue:0.91493535,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:è½»å‹å…‘æ¢å¡=å†·å‡å‹ç¼©ç²‰*8,x:2337,z:51,y:156,enabled:true,red:0.3595853,green:0.21539015,blue:0.49549335,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç¾å‘³ç²¾å+ç¾å‘³ç²¾å=è¶…æ¬¡å…ƒèƒ½é‡ç½å…‘æ¢åˆ¸,x:2336,z:52,y:156,enabled:true,red:0.492033,green:0.611123,blue:0.32884043,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å…‘æ¢åˆ¸=è¶…æ¬¡å…ƒèƒ½é‡ç½,x:2279,z:125,y:130,enabled:true,red:0.36512226,green:0.40510494,blue:0.19534534,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é’»çŸ³*10=mmp,x:472,z:291,y:70,enabled:true,red:0.7708951,green:0.20743042,blue:0.019286394,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é™¶ç“·é‡ç›¾+290345ç»éªŒ+é—ªå‡»å·è½´=é—ªå‡»ä¹‹åˆƒ,x:2337,z:54,y:156,enabled:true,red:0.88646173,green:0.5601619,blue:0.056322634,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é“¶çº¹ç®­*64+ANiMA+ä¹¦æ¶*64=é—ªå‡»å·è½´,x:2279,z:122,y:130,enabled:true,red:0.36156112,green:0.3680867,blue:0.61196893,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:2018åŠ³åŠ¨èŠ‚å…‘æ¢,x:294,z:154,y:64,enabled:true,red:0.64751,green:0.4989786,blue:0.063748,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é«˜çº§æ¨±æ°´æ™¶+é“¶å¸=æ¬¡çº§*2~comma~1é£+é“¶å¸=å¼ºåŒ–é­”çŸ³ç¢ç‰‡*2,x:32,z:318,y:73,enabled:true,red:0.025443196,green:0.36525786,blue:0.039594352,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é‡‘è‹¹æœ*4+ç‰›å¥¶=å…‰æ˜æ—©é¤å¥¶v2å¥åº·å‡çº§*4,x:-1473,z:-552,y:72,enabled:true,red:0.5454771,green:0.6298683,blue:0.37426847,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç¢æ™¶å‡çº§1,x:2348,z:607,y:76,enabled:true,red:0.6638882,green:0.3874387,blue:0.4139923,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç¢æ™¶å‡çº§2,x:2366,z:607,y:76,enabled:true,red:0.17887992,green:0.87852216,blue:0.4609707,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç»ç’ƒç“¶+ç¬é—´æ²»ç–—IIè¯ç®­*64=å§œæ±æ”¶é›†å™¨,x:2102,z:626,y:67,enabled:true,red:0.61127174,green:0.34514904,blue:0.06081468,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ°´ç“¶+é•œæ°´*6=å¤§è¡€ç“¶,x:2267,z:598,y:82,enabled:true,red:0.4855554,green:0.77167815,blue:0.64016205,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é›ªå—*128=AA-1ä¸“ç”¨å¼¹è¯*64,x:367,z:52,y:66,enabled:true,red:0.17163342,green:0.85678786,blue:0.50111616,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é˜³å…‰ä¼ æ„Ÿå™¨*4+æœ«åœ°çƒ›*8=åŠ¨åŠ›ç‡ƒæ–™*64,x:2291,z:121,y:137,enabled:true,red:0.44556147,green:0.08872783,blue:0.5298697,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:ç°åŒ–åœŸ*8+å°ä¸‘é±¼*4=å…”å­çš®*12+é™„é­”å°*8=åŠ¨åŠ›ç‡ƒæ–™*64,x:2290,z:121,y:137,enabled:true,red:0.26474226,green:0.21565169,blue:0.28608578,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:åŠ¨åŠ›ç‡ƒæ–™*64+ è·³è·ƒä¹‹ç®­1*16/æµ·ç»µ*4 =å‹ç¼©ç‡ƒæ–™,x:2289,z:121,y:137,enabled:true,red:0.7055938,green:0.49024534,blue:0.24375284,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å‹ç¼©ç‡ƒæ–™*14+æ¯æ­»çš„çŒæœ¨*4=é‡å‹èƒ¶å›Šå…‘æ¢å¡,x:2288,z:121,y:137,enabled:true,red:0.31005114,green:0.5626977,blue:0.8661586,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å‹ç¼©ç‡ƒæ–™*9+ç«ç„°å¼¹*6=é‡å‹æŸ“æ–™å…‘æ¢å¡,x:2287,z:121,y:137,enabled:true,red:0.22319156,green:0.46605223,blue:0.30842453,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ©™è‰²åºŠ+é‡‘åˆæ¬¢æ©¡æœ¨é—¨=è˜‘è‡*4,x:2286,z:121,y:137,enabled:true,red:0.3549056,green:0.39050263,blue:0.48282582,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:èµ¤åŸæ”¹+ç‘é³¯æ”¹ï¼ˆå‡é™„é­”ï¼‰=ç§»åŠ¨çº§å¤§å’Œèˆ°ç‚®,x:2350,z:46,y:164,enabled:true,red:0.4728139,green:0.10110223,blue:0.022100866,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:å¹²è‰å—*64+ç«è¯*64=å¤§å’Œé«˜é€Ÿå¼¹è¯ç®±,x:2349,z:46,y:164,enabled:true,red:0.5107798,green:0.88391787,blue:0.3258999,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:æ¢å¤ç¬¦å’’*16+5é£*64=å…«ä¸æ¨™,x:442,z:204,y:81,enabled:true,red:0.13578403,green:0.58774686,blue:0.062796354,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
+name:é¸£åˆ€Â·é£Ÿé“è™«+å¼ºåŒ–é­”çŸ³=æ—¥å‘åƒä»£ï¼Œæ—¥å‘åƒä»£+å–µçˆªé“¶å¸=å»æ¶ˆå¤±è¯…å’’,x:-2423,z:3203,y:102,enabled:true,red:0.23909724,green:0.034898162,blue:0.2425862,suffix:,world:c5e832f5-dfdf-4e8d-9251-5a9132beeaf6,dimensions:0#
